@@ -1,0 +1,1001 @@
+﻿Product_ID,Brand_Name,Product_Name,Category,Sub_Category,Shade/Variant,Price_INR,Launch_Year,Average_Rating,Total_Units_Sold,Total_Revenue_INR,Num_Customers,Avg_Customer_Age,Female_%,Top_City,Top_Campaign,Campaign_Start,Campaign_End,Campaign_Channel,Campaign_Spend_INR,Campaign_Discount_%,Conversion_Rate_%,Brand_Popularity_Score
+P0001,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Shine Air,Face,Highlighter,Scarlet 19,1199,2021,4.08,1692,2028708,574,25,88.2,Mumbai,Influencer Push,04-10-2023,11-10-2023,E-commerce,2885011,10,1.81,71.8
+P0002,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Matte Luxe,Face,Highlighter,Champagne 3,499,2022,4.38,1548,772452,455,24,80.5,Hyderabad,Influencer Push,23-05-2024,13-06-2024,Marketplace,1450103,20,2.61,78.27
+P0003,Mamaearth,Mamaearth Lip Liner Artist Air,Lips,Lip Liner,Coral 12,249,2021,4.34,2018,502482,793,29,88.8,Ahmedabad,Bogo Offer,04-12-2023,18-01-2024,Retail (Nykaa),5216131,15,2.32,76.59
+P0004,Kay Beauty,Kay Beauty Foundation Matte HD,Face,Foundation,Nude 17,799,2023,4.17,1543,1232857,696,20,61.9,Bengaluru,Bogo Offer,09-04-2023,09-05-2023,Retail (Nykaa),4625236,10,1.24,79.29
+P0005,Mamaearth,Mamaearth Contour Prime HD,Face,Contour,Champagne 15,1999,2019,3.95,1905,3808095,725,26,80.9,Mumbai,Bogo Offer,24-06-2024,24-07-2024,Marketplace,3398573,20,3.5,68.75
+P0006,Forest Essentials,Forest Essentials Blush Matte Luxe,Face,Blush,Berry 11,699,2024,4.52,1404,981396,935,21,64.9,Chennai,Seasonal Drop,14-11-2024,05-12-2024,E-commerce,2694915,20,3.28,77.98
+P0007,Kay Beauty,Kay Beauty Lip Liner Artist +,Lips,Lip Liner,Nude 17,499,2020,4.33,2145,1070355,1042,25,87.2,Delhi,Festive Sale,12-12-2025,11-01-2026,E-commerce,3090093,15,1.26,75.14
+P0008,Mamaearth,Mamaearth Lip Liner Prime HD,Lips,Lip Liner,Rose 9,599,2023,4.13,1906,1141694,982,32,70.5,Mumbai,Launch Promo,17-07-2025,31-07-2025,Social Commerce,3547316,20,1.57,77.67
+P0009,Mamaearth,Mamaearth Eyeliner Prime X,Eyes,Eyeliner,Berry 17,249,2025,4.32,1553,386697,754,30,81,Ahmedabad,Influencer Push,01-06-2023,08-06-2023,Retail (Nykaa),512285,0,5.58,79.14
+P0010,Forest Essentials,Forest Essentials Lip Gloss Prime HD,Lips,Lip Gloss,Champagne 4,199,2018,4.12,2340,465660,1047,32,69.2,Chennai,Nykaa Exclusive,14-04-2024,29-05-2024,Retail (Nykaa),5175467,10,2.15,79.02
+P0011,Kay Beauty,Kay Beauty Kajal Shine Luxe,Eyes,Kajal,Nude 4,299,2023,3.85,1740,520260,510,26,69.9,Chennai,Nykaa Exclusive,30-11-2024,07-12-2024,E-commerce,1661832,0,1.21,64.5
+P0012,Lakmé,Lakmé Compact Glow +,Face,Compact,Spice 2,999,2024,4.23,1457,1455543,501,21,84.3,Jaipur,Launch Promo,12-02-2024,28-03-2024,E-commerce,127913,15,1.68,73.95
+P0013,Mamaearth,Mamaearth Blush Glow Luxe,Face,Blush,Coral 2,2999,2018,4.18,1851,5551149,608,33,66.5,Kolkata,Influencer Push,12-02-2025,29-03-2025,E-commerce,2411822,20,1.34,72.61
+P0014,Lakmé,Lakmé Lip Balm Prime Air,Lips,Lip Balm,Scarlet 9,1299,2021,3.8,1989,2583711,994,36,79.8,Delhi,Bogo Offer,04-12-2024,18-01-2025,Retail (Nykaa),2328523,5,1.33,72.21
+P0015,Forest Essentials,Forest Essentials Lip Balm Artist Luxe,Lips,Lip Balm,Peach 15,2999,2020,4.16,2138,6411862,1339,33,88.5,Ahmedabad,Influencer Push,31-01-2025,21-02-2025,Retail (Nykaa),4726480,20,1.42,77.15
+P0016,Kay Beauty,Kay Beauty Highlighter Matte Luxe,Face,Highlighter,Coral 3,199,2021,4.15,1679,334121,738,29,62.1,Bengaluru,Festive Sale,27-08-2025,10-09-2025,E-commerce,1487595,10,3.74,74.01
+P0017,Lakmé,Lakmé Brow Pencil Matte X,Eyes,Brow Pencil,Peach 4,999,2021,4.77,1893,1891107,946,36,77.4,Ahmedabad,Bogo Offer,06-10-2023,13-10-2023,E-commerce,2106941,15,4.97,80.8
+P0018,Sugar Cosmetics,Sugar Cosmetics Lip Liner Shine X,Lips,Lip Liner,Nude 12,849,2020,4.09,2156,1830444,899,22,80.2,Pune,Launch Promo,28-11-2025,12-01-2026,Marketplace,5361197,30,0.86,71.88
+P0019,Sugar Cosmetics,Sugar Cosmetics Highlighter Glow +,Face,Highlighter,Champagne 10,1299,2024,4.24,1399,1817301,426,33,64.4,Chennai,Seasonal Drop,05-12-2023,19-01-2024,E-commerce,4164372,30,5.57,74.84
+P0020,Sugar Cosmetics,Sugar Cosmetics Highlighter Prime +,Face,Highlighter,Nude 7,299,2020,4.64,1741,520559,583,31,82.3,Pune,Influencer Push,09-07-2023,16-07-2023,E-commerce,1649988,25,2.63,84.91
+P0021,Mamaearth,Mamaearth Contour Shine Air,Face,Contour,Peach 16,1199,2024,4.51,1364,1635436,705,22,68.8,Lucknow,Seasonal Drop,17-10-2024,24-10-2024,Marketplace,4893594,0,3.45,79.9
+P0022,Lakmé,Lakmé Lip Gloss Prime Luxe,Lips,Lip Gloss,Coral 5,849,2020,4.12,2137,1814313,1037,36,68.1,Mumbai,Nykaa Exclusive,25-01-2024,08-02-2024,E-commerce,3242466,30,1.01,71.47
+P0023,Mamaearth,Mamaearth Contour Shine X,Face,Contour,Spice 1,1999,2019,3.87,1888,3774112,810,34,68.2,Mumbai,Seasonal Drop,20-04-2024,27-04-2024,Retail (Nykaa),4227510,30,2.19,74.7
+P0024,Sugar Cosmetics,Sugar Cosmetics Lipstick Artist X,Lips,Lipstick,Nude 13,1499,2020,4.5,2218,3324782,1391,10,84.9,Bengaluru,Launch Promo,13-12-2025,12-01-2026,Retail (Nykaa),4835162,10,1.8,80.93
+P0025,Forest Essentials,Forest Essentials Mascara Glow HD,Eyes,Mascara,Scarlet 6,249,2021,3.87,1851,460899,842,35,75.4,Jaipur,Influencer Push,25-06-2024,09-07-2024,Social Commerce,5132863,0,3.2,66.78
+P0026,Forest Essentials,Forest Essentials Contour Prime Air,Face,Contour,Nude 15,2499,2019,4.29,1776,4438224,952,31,74.2,Pune,Festive Sale,02-03-2023,16-03-2023,E-commerce,4621987,5,2.58,77.23
+P0027,Mamaearth,Mamaearth Lipstick Shine X,Lips,Lipstick,Mauve 14,249,2019,4,2150,535350,747,22,75.3,Delhi,Bogo Offer,03-12-2023,17-12-2023,Social Commerce,575829,15,4.15,76.56
+P0028,Mamaearth,Mamaearth Mascara Shine +,Eyes,Mascara,Ruby 19,699,2022,4.32,1823,1274277,1167,26,71.9,Mumbai,Bogo Offer,28-01-2023,11-02-2023,Retail (Nykaa),4472647,0,3.66,81.31
+P0029,Kay Beauty,Kay Beauty Blush Pro Luxe,Face,Blush,Mauve 3,849,2021,4.32,1684,1429716,712,23,63.8,Bengaluru,Seasonal Drop,22-11-2024,06-12-2024,Retail (Nykaa),1401116,10,2.57,76.58
+P0030,Nykaa Cosmetics,Nykaa Cosmetics Foundation Glow HD,Face,Foundation,Ruby 5,399,2025,3.99,1402,559398,420,36,84.6,Pune,Nykaa Exclusive,15-11-2025,06-12-2025,Social Commerce,1104880,30,3.1,72.86
+P0031,Nykaa Cosmetics,Nykaa Cosmetics Kajal Matte X,Eyes,Kajal,Mauve 14,599,2022,4.28,1773,1062027,815,21,64,Mumbai,Influencer Push,16-06-2025,31-07-2025,Retail (Nykaa),562386,0,0.8,77.73
+P0032,Mamaearth,Mamaearth Kajal Shine Luxe,Eyes,Kajal,Coral 14,1199,2024,4.04,1547,1854853,518,33,64.2,Jaipur,Seasonal Drop,08-03-2025,29-03-2025,E-commerce,4173244,20,2.6,74.81
+P0033,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro +,Lips,Lip Gloss,Ruby 8,699,2023,4.36,1852,1294548,697,32,70.7,Bengaluru,Festive Sale,31-03-2025,21-04-2025,Retail (Nykaa),2303067,5,4.87,76.59
+P0034,Forest Essentials,Forest Essentials Eyeshadow Matte Air,Eyes,Eyeshadow,Spice 1,499,2023,4.43,1627,811873,555,36,63.1,Chennai,Influencer Push,04-08-2023,03-09-2023,E-commerce,4167017,0,2.25,79.89
+P0035,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Glow HD,Face,Highlighter,Berry 4,1199,2022,4.01,1584,1899216,580,24,87.4,Mumbai,Festive Sale,11-09-2025,18-09-2025,E-commerce,4635811,30,2.65,75.09
+P0036,Lakmé,Lakmé Compact Pro HD,Face,Compact,Ruby 9,1199,2021,4.36,1722,2064678,515,28,77.7,Bengaluru,Launch Promo,21-07-2023,20-08-2023,Retail (Store),3302894,0,3.13,82.36
+P0037,Lakmé,Lakmé Compact Prime HD,Face,Compact,Coral 17,1199,2018,4.25,1926,2309274,1228,29,69.3,Jaipur,Nykaa Exclusive,23-10-2024,06-11-2024,E-commerce,3820519,0,5.51,76.87
+P0038,Nykaa Cosmetics,Nykaa Cosmetics Kajal Pro Air,Eyes,Kajal,Scarlet 19,2999,2018,4.02,2125,6372875,1302,26,75.7,Hyderabad,Festive Sale,04-08-2025,03-09-2025,E-commerce,4927934,30,1.97,78.95
+P0039,Lakmé,Lakmé Compact Matte X,Face,Compact,Scarlet 18,699,2022,4.48,1631,1140069,581,22,67.1,Mumbai,Seasonal Drop,24-03-2025,14-04-2025,Marketplace,5011264,0,3.44,78.95
+P0040,Lakmé,Lakmé Lip Balm Glow Air,Lips,Lip Balm,Nude 4,249,2024,4.24,1764,439236,559,26,84.9,Bengaluru,Seasonal Drop,23-06-2025,07-07-2025,Social Commerce,1199113,30,4.56,77.04
+P0041,Kay Beauty,Kay Beauty Highlighter Artist X,Face,Highlighter,Coral 19,2999,2020,4.84,1720,5158280,542,31,89.5,Chennai,Bogo Offer,01-09-2024,16-10-2024,E-commerce,5038070,0,5.85,87.5
+P0042,Kay Beauty,Kay Beauty Eyeliner Shine +,Eyes,Eyeliner,Spice 6,799,2020,3.87,1969,1573231,743,26,83.1,Hyderabad,Festive Sale,16-10-2025,06-11-2025,E-commerce,596916,20,0.66,75.45
+P0043,Sugar Cosmetics,Sugar Cosmetics Lip Liner Pro HD,Lips,Lip Liner,Scarlet 8,299,2025,4.43,1596,477204,782,27,76.2,Delhi,Influencer Push,15-08-2025,05-09-2025,Retail (Nykaa),1737795,20,1.53,80.5
+P0044,Kay Beauty,Kay Beauty Compact Pro HD,Face,Compact,Nude 18,499,2018,4.22,2064,1029936,1209,32,88.9,Jaipur,Launch Promo,12-01-2023,02-02-2023,Retail (Store),4619450,20,4.05,75.59
+P0045,Mamaearth,Mamaearth Compact Pro Luxe,Face,Compact,Mauve 9,1499,2022,4.33,1589,2381911,912,25,81.9,Delhi,Festive Sale,06-04-2025,21-05-2025,Retail (Nykaa),4583449,25,2.53,74.24
+P0046,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Shine HD,Eyes,Eyeshadow,Ruby 12,699,2020,4.43,1955,1366545,914,32,78.5,Delhi,Nykaa Exclusive,29-06-2024,20-07-2024,Social Commerce,2960971,30,5.6,81.25
+P0047,Mamaearth,Mamaearth Lipstick Shine Air,Lips,Lipstick,Champagne 16,1299,2025,4.19,1640,2130360,829,35,63.3,Bengaluru,Seasonal Drop,20-11-2023,04-12-2023,E-commerce,306256,0,5.28,70.62
+P0048,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Shine Air,Lips,Lip Gloss,Peach 11,599,2025,4,1709,1023691,516,27,85.1,Delhi,Nykaa Exclusive,14-08-2023,21-08-2023,E-commerce,1013547,20,1.83,71.69
+P0049,Forest Essentials,Forest Essentials Kajal Pro HD,Eyes,Kajal,Berry 17,999,2022,4.34,1838,1836162,669,27,82.4,Mumbai,Influencer Push,09-08-2025,30-08-2025,E-commerce,2581859,0,5.44,78.71
+P0050,Kay Beauty,Kay Beauty Eyeshadow Prime Luxe,Eyes,Eyeshadow,Spice 8,499,2018,4.25,2134,1064866,1241,32,77.1,Pune,Nykaa Exclusive,04-08-2023,25-08-2023,Social Commerce,1484164,0,1.55,78
+P0051,Forest Essentials,Forest Essentials Foundation Shine +,Face,Foundation,Berry 6,699,2024,4.29,1480,1034520,471,30,66.9,Ahmedabad,Festive Sale,22-12-2023,05-01-2024,Social Commerce,2638323,0,2.27,78.27
+P0052,Kay Beauty,Kay Beauty Lip Gloss Matte Air,Lips,Lip Gloss,Nude 16,599,2020,4.31,2207,1321993,1187,31,65.2,Jaipur,Influencer Push,31-12-2024,07-01-2025,Retail (Store),3929203,10,1.11,80.9
+P0053,Sugar Cosmetics,Sugar Cosmetics Contour Matte Luxe,Face,Contour,Nude 20,1299,2018,4.69,1943,2523957,949,27,89.9,Hyderabad,Bogo Offer,08-02-2023,25-03-2023,Retail (Nykaa),1347219,0,6.03,80.45
+P0054,Kay Beauty,Kay Beauty Blush Shine Air,Face,Blush,Peach 20,599,2023,4.52,1505,901495,702,32,66,Ahmedabad,Influencer Push,06-05-2024,27-05-2024,Marketplace,1049438,25,5.9,83.77
+P0055,Sugar Cosmetics,Sugar Cosmetics Blush Glow Air,Face,Blush,Peach 3,1699,2021,3.94,1680,2854320,922,31,79.5,Bengaluru,Festive Sale,06-08-2024,27-08-2024,Marketplace,899580,10,2.78,73.71
+P0056,Mamaearth,Mamaearth Lip Balm Pro X,Lips,Lip Balm,Spice 9,799,2023,4.28,1883,1504517,1104,26,74.5,Delhi,Launch Promo,14-12-2024,28-12-2024,E-commerce,2742258,0,2.57,78.22
+P0057,Kay Beauty,Kay Beauty Compact Artist +,Face,Compact,Spice 7,1699,2023,4.39,1458,2477142,542,28,78.5,Kolkata,Launch Promo,16-12-2024,30-12-2024,Retail (Nykaa),4096322,15,3.62,81.12
+P0058,Mamaearth,Mamaearth Compact Glow X,Face,Compact,Mauve 14,1199,2023,4.79,1521,1823679,618,20,74.1,Pune,Bogo Offer,05-11-2023,26-11-2023,E-commerce,210308,20,3.77,88.42
+P0059,Kay Beauty,Kay Beauty Eyeliner Prime HD,Eyes,Eyeliner,Nude 15,199,2024,4.58,1604,319196,528,26,75.1,Chennai,Nykaa Exclusive,30-08-2024,06-09-2024,E-commerce,3726837,10,6.84,81.71
+P0060,Lakmé,Lakmé Compact Artist Air,Face,Compact,Nude 13,799,2023,4.52,1479,1181721,640,36,71.2,Chennai,Bogo Offer,16-04-2025,31-05-2025,E-commerce,600316,10,4.74,84.98
+P0061,Kay Beauty,Kay Beauty Kajal Glow X,Eyes,Kajal,Champagne 2,299,2022,4.58,1764,527436,1071,24,65.1,Chennai,Festive Sale,23-04-2025,30-04-2025,E-commerce,1397821,15,5.73,81.39
+P0062,Kay Beauty,Kay Beauty Brow Pencil Matte Air,Eyes,Brow Pencil,Rose 17,1299,2021,4.21,1920,2494080,744,26,61.6,Kolkata,Nykaa Exclusive,17-07-2023,31-08-2023,Marketplace,1781098,15,0.92,75.71
+P0063,Lakmé,Lakmé Lip Gloss Glow HD,Lips,Lip Gloss,Coral 18,699,2021,3.77,2071,1447629,1327,42,69.2,Pune,Festive Sale,10-06-2025,24-06-2025,E-commerce,3975549,0,0.95,70.32
+P0064,Lakmé,Lakmé Kajal Matte HD,Eyes,Kajal,Ruby 14,399,2022,4.29,1728,689472,755,24,79.7,Lucknow,Seasonal Drop,28-07-2024,04-08-2024,Social Commerce,5265392,20,1.26,78.93
+P0065,Kay Beauty,Kay Beauty Lip Gloss Shine Luxe,Lips,Lip Gloss,Spice 19,599,2024,4.21,1807,1082393,863,31,79.5,Bengaluru,Launch Promo,11-12-2024,25-01-2025,E-commerce,2843401,15,3.31,76.03
+P0066,Sugar Cosmetics,Sugar Cosmetics Mascara Prime X,Eyes,Mascara,Nude 8,2499,2024,4.29,1657,4140843,964,28,67.4,Hyderabad,Nykaa Exclusive,01-08-2025,15-08-2025,Retail (Store),2707128,25,3.01,74.4
+P0067,Forest Essentials,Forest Essentials Foundation Matte HD,Face,Foundation,Nude 15,399,2024,4.11,1428,569772,689,26,69.2,Jaipur,Nykaa Exclusive,16-04-2023,16-05-2023,Retail (Store),2100726,30,4.12,71.75
+P0068,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Pro +,Lips,Lip Balm,Mauve 4,399,2019,4.32,2302,918498,901,29,77.8,Jaipur,Festive Sale,10-09-2025,24-09-2025,E-commerce,5083530,20,3.77,85.86
+P0069,Sugar Cosmetics,Sugar Cosmetics Compact Glow Luxe,Face,Compact,Scarlet 10,399,2019,4.01,1796,716604,734,26,76.1,Delhi,Bogo Offer,23-02-2024,24-03-2024,E-commerce,3613128,5,2.9,75.92
+P0070,Lakmé,Lakmé Brow Pencil Pro X,Eyes,Brow Pencil,Scarlet 14,399,2023,3.91,1690,674310,1018,25,66.8,Bengaluru,Influencer Push,14-07-2024,13-08-2024,E-commerce,4182616,5,2.2,69.25
+P0071,Mamaearth,Mamaearth Eyeshadow Artist Luxe,Eyes,Eyeshadow,Mauve 3,599,2018,3.93,2103,1259697,1253,21,88.8,Kolkata,Launch Promo,07-11-2023,21-11-2023,E-commerce,2629772,20,1.64,76.34
+P0072,Mamaearth,Mamaearth Lip Liner Glow Air,Lips,Lip Liner,Berry 8,1299,2020,4.45,2171,2820129,1077,30,78.3,Chennai,Influencer Push,07-01-2025,21-02-2025,E-commerce,1743861,5,3.07,81.94
+P0073,Forest Essentials,Forest Essentials Lipstick Pro X,Lips,Lipstick,Nude 20,399,2024,4.41,1757,701043,769,25,75,Bengaluru,Seasonal Drop,16-08-2024,30-09-2024,E-commerce,4490115,25,5.54,77.87
+P0074,Kay Beauty,Kay Beauty Lip Crayon Prime HD,Lips,Lip Crayon,Coral 3,1699,2025,4.55,1667,2832233,944,40,82.9,Delhi,Nykaa Exclusive,27-04-2024,04-05-2024,Social Commerce,3364903,0,4.11,80.96
+P0075,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Shine Luxe,Lips,Lip Liner,Berry 18,599,2018,4.31,2318,1388482,881,26,65.8,Delhi,Seasonal Drop,20-11-2024,04-01-2025,Retail (Nykaa),1775025,10,1.7,76.67
+P0076,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Pro Air,Eyes,Eyeliner,Scarlet 20,399,2022,4.16,1760,702240,537,21,71,Hyderabad,Seasonal Drop,30-03-2024,14-05-2024,E-commerce,5112092,5,1.29,75.45
+P0077,Forest Essentials,Forest Essentials Lip Balm Prime +,Lips,Lip Balm,Ruby 7,499,2020,4.3,2064,1029936,856,30,85.3,Mumbai,Festive Sale,24-05-2024,23-06-2024,Social Commerce,1422346,20,5.02,81.61
+P0078,Lakmé,Lakmé Contour Pro X,Face,Contour,Rose 9,849,2022,4.38,1584,1344816,497,38,79.8,Ahmedabad,Launch Promo,20-03-2023,27-03-2023,E-commerce,2798611,0,5.01,77.38
+P0079,Kay Beauty,Kay Beauty Brow Pencil Pro HD,Eyes,Brow Pencil,Rose 13,299,2018,3.96,2105,629395,745,23,65.6,Delhi,Bogo Offer,11-02-2025,25-02-2025,E-commerce,573010,30,1.54,75.34
+P0080,Lakmé,Lakmé Eyeshadow Pro Luxe,Eyes,Eyeshadow,Berry 14,849,2022,4.63,1773,1505277,515,24,89.4,Kolkata,Bogo Offer,09-06-2023,09-07-2023,E-commerce,333162,0,5.2,85.98
+P0081,Kay Beauty,Kay Beauty Lip Crayon Artist Luxe,Lips,Lip Crayon,Mauve 18,1299,2020,4.38,2108,2738292,654,32,85.4,Ahmedabad,Festive Sale,29-05-2023,13-07-2023,E-commerce,5383561,20,4,83.19
+P0082,Kay Beauty,Kay Beauty Contour Shine +,Face,Contour,Coral 15,1999,2021,4.1,1722,3442278,666,29,68.9,Chennai,Bogo Offer,19-11-2025,19-12-2025,Retail (Nykaa),4135855,0,2.56,82.99
+P0083,Kay Beauty,Kay Beauty Highlighter Pro Luxe,Face,Highlighter,Ruby 3,999,2022,4.57,1634,1632366,568,23,71.3,Chennai,Influencer Push,20-08-2024,03-09-2024,Retail (Store),289407,20,2.35,81.75
+P0084,Sugar Cosmetics,Sugar Cosmetics Highlighter Shine +,Face,Highlighter,Berry 15,399,2023,4.4,1566,624834,685,36,60.1,Kolkata,Influencer Push,07-07-2023,14-07-2023,E-commerce,2154259,25,3.8,77.22
+P0085,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Matte Luxe,Lips,Lip Gloss,Ruby 2,2999,2022,4.41,1900,5698100,747,23,71.2,Mumbai,Launch Promo,25-04-2024,09-05-2024,E-commerce,430844,25,5.31,77.32
+P0086,Kay Beauty,Kay Beauty Eyeliner Matte HD,Eyes,Eyeliner,Spice 15,1699,2023,4.56,1639,2784661,473,30,77.6,Kolkata,Seasonal Drop,16-07-2024,30-08-2024,E-commerce,4449501,5,3.48,79.41
+P0087,Forest Essentials,Forest Essentials Brow Pencil Prime Air,Eyes,Brow Pencil,Berry 6,399,2018,4.23,2226,888174,1457,23,68.5,Mumbai,Seasonal Drop,21-06-2025,12-07-2025,E-commerce,4510889,30,2.54,81.17
+P0088,Mamaearth,Mamaearth Lip Balm Matte HD,Lips,Lip Balm,Berry 18,1199,2019,4.24,2248,2695352,1024,29,76.8,Lucknow,Festive Sale,06-05-2024,13-05-2024,Retail (Nykaa),5487775,0,4.3,78.12
+P0089,Forest Essentials,Forest Essentials Eyeshadow Glow X,Eyes,Eyeshadow,Peach 12,849,2018,4.15,2040,1731960,787,36,89.4,Delhi,Influencer Push,11-08-2025,01-09-2025,E-commerce,4067966,15,1.04,73.08
+P0090,Forest Essentials,Forest Essentials Lipstick Prime +,Lips,Lipstick,Coral 16,2499,2021,3.57,2084,5207916,677,26,89.3,Jaipur,Launch Promo,17-08-2025,01-10-2025,E-commerce,1855498,20,0.95,65.2
+P0091,Forest Essentials,Forest Essentials Eyeliner Matte HD,Eyes,Eyeliner,Champagne 8,2999,2018,4.28,2218,6651782,888,24,63.2,Kolkata,Launch Promo,14-01-2024,28-01-2024,E-commerce,2577829,0,1.74,77.66
+P0092,Kay Beauty,Kay Beauty Brow Pencil Pro +,Eyes,Brow Pencil,Mauve 20,599,2023,4.12,1656,991944,499,26,65.5,Ahmedabad,Influencer Push,18-11-2024,09-12-2024,E-commerce,4173631,30,4.31,74.18
+P0093,Kay Beauty,Kay Beauty Foundation Shine Air,Face,Foundation,Peach 13,249,2019,4.25,1782,443718,680,32,75.8,Pune,Festive Sale,18-10-2025,02-12-2025,Marketplace,1960580,5,5.3,78.36
+P0094,Kay Beauty,Kay Beauty Eyeliner Matte X,Eyes,Eyeliner,Peach 2,299,2024,4.19,1593,476307,923,29,72.6,Ahmedabad,Nykaa Exclusive,31-07-2025,14-08-2025,Retail (Store),3356435,15,2.34,74.98
+P0095,Forest Essentials,Forest Essentials Highlighter Glow X,Face,Highlighter,Berry 16,249,2020,4.18,1706,424794,872,29,85.1,Delhi,Nykaa Exclusive,30-05-2024,13-06-2024,Retail (Nykaa),1755624,5,0.86,79.45
+P0096,Mamaearth,Mamaearth Foundation Pro HD,Face,Foundation,Coral 19,199,2024,3.97,1419,282381,726,23,72.4,Jaipur,Nykaa Exclusive,18-08-2024,25-08-2024,E-commerce,3800040,30,1.51,71.9
+P0097,Kay Beauty,Kay Beauty Lip Crayon Glow +,Lips,Lip Crayon,Nude 9,1499,2025,4.07,1696,2542304,522,33,63.4,Pune,Bogo Offer,06-11-2024,13-11-2024,E-commerce,160779,10,1.82,69.88
+P0098,Sugar Cosmetics,Sugar Cosmetics Foundation Matte HD,Face,Foundation,Berry 8,249,2022,4.49,1602,398898,856,27,83.8,Mumbai,Nykaa Exclusive,17-02-2025,03-03-2025,Retail (Nykaa),3527937,5,2.31,80.37
+P0099,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Pro Air,Lips,Lip Balm,Champagne 4,299,2023,4.35,1850,553150,866,33,73,Jaipur,Launch Promo,20-10-2024,03-11-2024,E-commerce,973285,30,3.27,80.83
+P0100,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Shine HD,Lips,Lip Liner,Spice 12,249,2020,4.6,2140,532860,1050,32,60.1,Mumbai,Seasonal Drop,30-12-2024,20-01-2025,E-commerce,1602029,30,3.28,82.51
+P0101,Kay Beauty,Kay Beauty Eyeshadow Shine Luxe,Eyes,Eyeshadow,Ruby 17,1499,2022,4.37,1740,2608260,731,29,66.6,Bengaluru,Seasonal Drop,17-01-2024,24-01-2024,E-commerce,558359,15,1.49,79.56
+P0102,Kay Beauty,Kay Beauty Lip Crayon Artist HD,Lips,Lip Crayon,Rose 8,1299,2023,3.76,1912,2483688,948,22,81.6,Lucknow,Bogo Offer,03-06-2024,10-06-2024,Retail (Nykaa),364585,5,0.51,73.4
+P0103,Nykaa Cosmetics,Nykaa Cosmetics Mascara Matte X,Eyes,Mascara,Berry 18,499,2019,4.68,1943,969557,879,25,88.3,Pune,Launch Promo,21-07-2023,04-08-2023,Social Commerce,3397623,15,2.1,85.5
+P0104,Forest Essentials,Forest Essentials Highlighter Artist +,Face,Highlighter,Rose 9,1299,2020,4.03,1752,2275848,1103,28,70.3,Pune,Launch Promo,04-10-2023,25-10-2023,E-commerce,3737290,5,1.75,71.08
+P0105,Lakmé,Lakmé Eyeliner Prime HD,Eyes,Eyeliner,Nude 12,1999,2023,4.28,1683,3364317,919,26,79.4,Mumbai,Launch Promo,12-07-2024,11-08-2024,E-commerce,2739851,10,0.82,81.65
+P0106,Sugar Cosmetics,Sugar Cosmetics Lip Balm Prime Luxe,Lips,Lip Balm,Ruby 12,599,2021,4.18,2074,1242326,839,28,88.9,Bengaluru,Nykaa Exclusive,29-12-2023,19-01-2024,E-commerce,231579,20,2.8,75.36
+P0107,Mamaearth,Mamaearth Lip Gloss Shine Air,Lips,Lip Gloss,Mauve 5,299,2024,4.59,1867,558233,822,29,70.2,Chennai,Bogo Offer,01-11-2023,16-12-2023,Retail (Nykaa),3909985,25,3.99,79.52
+P0108,Sugar Cosmetics,Sugar Cosmetics Lip Balm Artist Luxe,Lips,Lip Balm,Peach 12,1199,2022,4.08,1923,2305677,1081,38,74.7,Hyderabad,Launch Promo,14-04-2023,21-04-2023,Retail (Store),2502747,20,1.22,72.36
+P0109,Forest Essentials,Forest Essentials Eyeliner Artist HD,Eyes,Eyeliner,Peach 2,1199,2021,4.16,1895,2272105,1173,27,80.4,Hyderabad,Festive Sale,01-06-2025,22-06-2025,Retail (Nykaa),603714,20,2.89,76.04
+P0110,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Glow X,Lips,Lip Crayon,Nude 18,2999,2024,3.82,1796,5386204,678,33,86.8,Mumbai,Seasonal Drop,18-03-2024,02-05-2024,Retail (Nykaa),3233709,30,0.47,70.46
+P0111,Mamaearth,Mamaearth Eyeshadow Glow +,Eyes,Eyeshadow,Mauve 16,1299,2023,4.08,1788,2322612,511,24,80.3,Ahmedabad,Seasonal Drop,08-10-2024,29-10-2024,Retail (Store),4354800,20,1.2,77.36
+P0112,Kay Beauty,Kay Beauty Blush Glow +,Face,Blush,Ruby 9,249,2018,4.49,1903,473847,1166,24,84.2,Lucknow,Festive Sale,14-02-2023,31-03-2023,E-commerce,4967922,20,1.65,80.32
+P0113,Lakmé,Lakmé Blush Prime +,Face,Blush,Mauve 13,1999,2020,4.23,1726,3450274,849,33,60.7,Kolkata,Launch Promo,01-07-2025,08-07-2025,E-commerce,291476,5,2.76,75.03
+P0114,Mamaearth,Mamaearth Eyeliner Artist Luxe,Eyes,Eyeliner,Berry 18,1699,2021,4.45,1820,3092180,875,22,87.5,Pune,Influencer Push,29-04-2025,13-05-2025,Retail (Store),1545026,10,1.53,81.05
+P0115,Kay Beauty,Kay Beauty Mascara Prime X,Eyes,Mascara,Scarlet 18,799,2018,4.51,2100,1677900,945,23,68.1,Ahmedabad,Influencer Push,03-09-2024,17-09-2024,Social Commerce,2537304,30,3.34,81.56
+P0116,Kay Beauty,Kay Beauty Foundation Prime Air,Face,Foundation,Peach 11,1499,2020,4.8,1724,2584276,604,39,90,Mumbai,Seasonal Drop,20-05-2025,19-06-2025,Social Commerce,2675466,0,6.15,84.45
+P0117,Sugar Cosmetics,Sugar Cosmetics Lip Liner Pro Air,Lips,Lip Liner,Coral 5,1499,2021,4.09,2114,3168886,756,35,83.9,Pune,Bogo Offer,11-06-2023,18-06-2023,E-commerce,3556477,20,1.93,71.91
+P0118,Mamaearth,Mamaearth Lip Liner Shine Luxe,Lips,Lip Liner,Nude 13,2999,2019,4.71,2246,6735754,708,26,74.8,Hyderabad,Launch Promo,02-06-2025,17-07-2025,Retail (Nykaa),5399683,15,6.1,81.92
+P0119,Nykaa Cosmetics,Nykaa Cosmetics Kajal Matte +,Eyes,Kajal,Spice 10,1999,2023,4.21,1716,3430284,781,25,71.2,Mumbai,Nykaa Exclusive,08-01-2024,07-02-2024,Retail (Nykaa),4584684,20,3.32,77.94
+P0120,Forest Essentials,Forest Essentials Lip Liner Glow Air,Lips,Lip Liner,Champagne 2,249,2021,4.59,2084,518916,1289,30,62.3,Bengaluru,Nykaa Exclusive,28-12-2023,04-01-2024,Retail (Nykaa),4242755,15,2.02,83.1
+P0121,Forest Essentials,Forest Essentials Eyeliner Matte HD,Eyes,Eyeliner,Rose 17,1999,2024,4.23,1649,3296351,1015,18,64.4,Mumbai,Influencer Push,27-12-2023,17-01-2024,E-commerce,2179379,5,4.42,78.4
+P0122,Mamaearth,Mamaearth Lip Gloss Artist +,Lips,Lip Gloss,Nude 6,799,2020,4.26,2212,1767388,646,28,67.8,Hyderabad,Nykaa Exclusive,07-11-2023,21-11-2023,Marketplace,1134680,20,5.3,79.12
+P0123,Lakmé,Lakmé Eyeshadow Shine +,Eyes,Eyeshadow,Coral 8,1499,2024,4.12,1556,2332444,508,33,88.8,Jaipur,Bogo Offer,27-03-2023,26-04-2023,E-commerce,147174,10,4.61,77.15
+P0124,Lakmé,Lakmé Lip Gloss Glow Air,Lips,Lip Gloss,Champagne 3,1299,2022,3.98,1877,2438223,817,21,82.6,Ahmedabad,Launch Promo,18-12-2024,25-12-2024,Retail (Store),1409701,15,1.81,68.76
+P0125,Nykaa Cosmetics,Nykaa Cosmetics Foundation Prime +,Face,Foundation,Berry 20,999,2023,4.1,1607,1605393,562,31,66.7,Hyderabad,Nykaa Exclusive,03-04-2025,24-04-2025,E-commerce,1767020,25,1.24,77.67
+P0126,Lakmé,Lakmé Contour Artist Luxe,Face,Contour,Scarlet 10,1999,2022,4.26,1554,3106446,743,25,79.1,Bengaluru,Festive Sale,28-09-2023,19-10-2023,Retail (Nykaa),2232486,25,4.94,77.62
+P0127,Forest Essentials,Forest Essentials Contour Prime Luxe,Face,Contour,Nude 2,2999,2022,4.16,1481,4441519,488,19,60,Hyderabad,Seasonal Drop,10-11-2024,25-12-2024,E-commerce,1302784,0,3.95,79.4
+P0128,Forest Essentials,Forest Essentials Compact Prime Air,Face,Compact,Champagne 16,1699,2019,4.51,1822,3095578,602,22,71.4,Hyderabad,Festive Sale,01-02-2023,22-02-2023,E-commerce,2952568,5,4.92,81.88
+P0129,Mamaearth,Mamaearth Lip Liner Matte X,Lips,Lip Liner,Peach 5,599,2023,4.09,1793,1074007,1056,30,84.1,Mumbai,Festive Sale,16-06-2023,31-07-2023,Social Commerce,1500668,25,1.43,71.22
+P0130,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Pro Luxe,Lips,Lipstick,Scarlet 1,2999,2021,3.99,1986,5956014,668,26,85.2,Mumbai,Festive Sale,04-11-2024,19-12-2024,E-commerce,3066125,15,3.09,73.63
+P0131,Kay Beauty,Kay Beauty Highlighter Shine X,Face,Highlighter,Peach 16,599,2019,4.35,1860,1114140,871,29,84.5,Chennai,Seasonal Drop,10-01-2024,31-01-2024,Social Commerce,5500698,15,2.19,77.92
+P0132,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Shine HD,Lips,Lip Crayon,Rose 6,199,2021,4.19,2116,421084,1061,24,70,Pune,Nykaa Exclusive,12-07-2024,11-08-2024,Marketplace,4261488,20,1.25,76.28
+P0133,Sugar Cosmetics,Sugar Cosmetics Contour Matte Air,Face,Contour,Ruby 18,999,2024,4.29,1435,1433565,549,26,65.7,Kolkata,Launch Promo,15-10-2025,05-11-2025,E-commerce,2516232,5,2.27,78.26
+P0134,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Shine Luxe,Eyes,Eyeshadow,Champagne 20,1299,2021,4.32,1783,2316117,640,23,76.9,Hyderabad,Seasonal Drop,14-01-2025,04-02-2025,E-commerce,3270860,25,5.84,82.92
+P0135,Lakmé,Lakmé Brow Pencil Glow HD,Eyes,Brow Pencil,Peach 4,249,2021,4.34,1843,458907,713,25,88.2,Delhi,Launch Promo,15-02-2023,01-03-2023,Retail (Store),1244022,20,3.53,76.42
+P0136,Nykaa Cosmetics,Nykaa Cosmetics Foundation Matte Luxe,Face,Foundation,Champagne 19,2999,2022,4.59,1612,4834388,844,33,61.5,Ahmedabad,Launch Promo,10-03-2023,31-03-2023,E-commerce,430761,10,5.95,83.92
+P0137,Lakmé,Lakmé Mascara Artist +,Eyes,Mascara,Coral 6,399,2024,3.95,1603,639597,538,29,75.6,Mumbai,Festive Sale,21-12-2024,28-12-2024,E-commerce,4098994,5,3.44,75.77
+P0138,Sugar Cosmetics,Sugar Cosmetics Compact Matte +,Face,Compact,Peach 15,249,2021,4.24,1711,426039,899,19,74.1,Mumbai,Influencer Push,02-04-2025,23-04-2025,E-commerce,3575179,5,1.53,82.14
+P0139,Forest Essentials,Forest Essentials Lip Gloss Matte Air,Lips,Lip Gloss,Coral 7,299,2023,4.13,1818,543582,909,29,75.5,Chennai,Bogo Offer,02-03-2023,16-03-2023,Social Commerce,4126236,5,4.61,75.37
+P0140,Lakmé,Lakmé Lip Gloss Pro X,Lips,Lip Gloss,Peach 9,599,2022,4.38,1947,1166253,605,32,85.8,Pune,Launch Promo,13-06-2025,20-06-2025,E-commerce,3604914,0,4.76,81.09
+P0141,Forest Essentials,Forest Essentials Lip Balm Prime Air,Lips,Lip Balm,Spice 12,199,2021,4.69,2117,421283,764,25,77.5,Mumbai,Festive Sale,31-10-2025,21-11-2025,E-commerce,4073774,15,8.24,88.97
+P0142,Kay Beauty,Kay Beauty Mascara Prime X,Eyes,Mascara,Coral 2,1499,2024,4.17,1605,2405895,927,23,70.1,Delhi,Festive Sale,17-01-2023,03-03-2023,E-commerce,4578582,5,2.99,76.84
+P0143,Forest Essentials,Forest Essentials Foundation Glow X,Face,Foundation,Nude 15,1199,2022,4.37,1638,1963962,514,36,74.6,Bengaluru,Launch Promo,18-12-2024,01-02-2025,E-commerce,4546735,25,3.45,78.57
+P0144,Lakmé,Lakmé Compact Artist Luxe,Face,Compact,Champagne 8,399,2024,4.13,1435,572565,597,29,66.9,Lucknow,Festive Sale,19-11-2023,10-12-2023,E-commerce,3746715,15,3.71,75.26
+P0145,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Glow +,Eyes,Eyeliner,Coral 17,849,2018,4.45,2137,1814313,704,31,77.5,Jaipur,Bogo Offer,17-03-2025,31-03-2025,Retail (Store),195713,5,5.19,85.63
+P0146,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro HD,Lips,Lip Gloss,Peach 4,999,2022,4.02,1965,1963035,802,23,66.1,Bengaluru,Bogo Offer,12-08-2025,26-08-2025,E-commerce,4821313,15,1.28,77.07
+P0147,Kay Beauty,Kay Beauty Mascara Matte HD,Eyes,Mascara,Mauve 18,2999,2020,4.03,2051,6150949,954,32,68.1,Delhi,Festive Sale,11-07-2025,10-08-2025,Social Commerce,450326,20,3.7,75.56
+P0148,Nykaa Cosmetics,Nykaa Cosmetics Blush Matte X,Face,Blush,Ruby 1,499,2020,4.29,1718,857282,1088,21,86.9,Ahmedabad,Bogo Offer,30-03-2024,14-05-2024,Social Commerce,4663856,5,3.76,81.52
+P0149,Mamaearth,Mamaearth Lip Liner Matte HD,Lips,Lip Liner,Mauve 3,1499,2021,3.86,2016,3021984,613,31,85.5,Hyderabad,Seasonal Drop,22-05-2024,06-07-2024,E-commerce,184106,20,2.26,73.08
+P0150,Sugar Cosmetics,Sugar Cosmetics Contour Shine Air,Face,Contour,Mauve 19,399,2025,4.57,1377,549423,472,21,77.9,Lucknow,Seasonal Drop,20-09-2025,20-10-2025,Retail (Nykaa),1137015,30,7.5,80.09
+P0151,Nykaa Cosmetics,Nykaa Cosmetics Compact Matte X,Face,Compact,Coral 18,1199,2019,4.79,1863,2233737,908,28,64.7,Kolkata,Influencer Push,12-07-2023,11-08-2023,E-commerce,3293537,10,8.54,86.21
+P0152,Kay Beauty,Kay Beauty Eyeshadow Matte Luxe,Eyes,Eyeshadow,Spice 3,1499,2019,4.2,2050,3072950,613,36,70.6,Mumbai,Bogo Offer,23-10-2023,06-11-2023,E-commerce,3442376,25,4.85,81.78
+P0153,Mamaearth,Mamaearth Brow Pencil Glow HD,Eyes,Brow Pencil,Peach 9,299,2020,4.47,1964,587236,580,22,83.3,Mumbai,Influencer Push,02-08-2025,09-08-2025,Social Commerce,5165632,0,3.28,80.49
+P0154,Mamaearth,Mamaearth Blush Shine Luxe,Face,Blush,Nude 5,799,2019,3.91,1791,1431009,923,20,69.1,Lucknow,Festive Sale,15-06-2023,29-06-2023,Social Commerce,3990235,15,0.98,68.52
+P0155,Mamaearth,Mamaearth Highlighter Matte Luxe,Face,Highlighter,Scarlet 17,199,2021,4.53,1583,315017,654,25,81.8,Chennai,Nykaa Exclusive,29-08-2025,05-09-2025,Social Commerce,1769029,15,6.36,77.89
+P0156,Lakmé,Lakmé Kajal Matte Luxe,Eyes,Kajal,Spice 19,699,2019,4.18,2090,1460910,721,30,87.1,Ahmedabad,Launch Promo,05-09-2025,20-10-2025,Retail (Nykaa),2799059,15,1.76,68.92
+P0157,Kay Beauty,Kay Beauty Highlighter Artist Luxe,Face,Highlighter,Peach 3,299,2020,4.16,1836,548964,694,32,64.3,Bengaluru,Nykaa Exclusive,24-06-2025,15-07-2025,Social Commerce,1929018,20,3.25,83.66
+P0158,Mamaearth,Mamaearth Contour Prime +,Face,Contour,Rose 20,1499,2020,4.87,1721,2579779,906,23,88.5,Lucknow,Nykaa Exclusive,29-11-2024,13-01-2025,Retail (Nykaa),2623353,20,2.52,84.38
+P0159,Lakmé,Lakmé Foundation Artist Air,Face,Foundation,Coral 14,1499,2022,4,1612,2416388,529,31,63.7,Kolkata,Seasonal Drop,21-02-2024,28-02-2024,E-commerce,4464702,0,0.65,68.88
+P0160,Nykaa Cosmetics,Nykaa Cosmetics Foundation Pro HD,Face,Foundation,Rose 11,799,2020,4.22,1658,1324742,591,29,85.7,Ahmedabad,Seasonal Drop,08-12-2023,22-12-2023,E-commerce,4149406,10,1.15,72.62
+P0161,Kay Beauty,Kay Beauty Lip Crayon Pro Air,Lips,Lip Crayon,Nude 2,799,2024,4.47,1772,1415828,554,20,88.4,Ahmedabad,Influencer Push,26-06-2023,17-07-2023,E-commerce,2379184,20,4.24,78.35
+P0162,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist HD,Lips,Lip Crayon,Rose 10,2499,2023,3.82,1940,4848060,864,22,89,Hyderabad,Festive Sale,08-07-2025,22-07-2025,Marketplace,3403743,5,0.9,72.13
+P0163,Forest Essentials,Forest Essentials Lip Crayon Pro HD,Lips,Lip Crayon,Champagne 12,1999,2021,4.23,2075,4147925,1103,30,65.5,Bengaluru,Launch Promo,01-05-2025,08-05-2025,Social Commerce,1025331,10,1.31,78.49
+P0164,Mamaearth,Mamaearth Kajal Shine X,Eyes,Kajal,Mauve 5,599,2024,4.33,1570,940430,557,37,87,Bengaluru,Launch Promo,05-10-2025,26-10-2025,Social Commerce,624063,15,3.31,80.86
+P0165,Sugar Cosmetics,Sugar Cosmetics Contour Shine X,Face,Contour,Coral 1,799,2018,4.41,1842,1471758,698,38,68.9,Lucknow,Seasonal Drop,01-01-2025,15-01-2025,Retail (Store),291514,20,2.27,80.05
+P0166,Mamaearth,Mamaearth Lipstick Pro X,Lips,Lipstick,Mauve 10,1999,2023,4.18,1843,3684157,828,25,66.3,Mumbai,Launch Promo,10-05-2024,24-06-2024,Social Commerce,1231432,10,4.4,79.64
+P0167,Mamaearth,Mamaearth Contour Pro Air,Face,Contour,Ruby 3,599,2022,4.26,1603,960197,754,24,67.5,Kolkata,Festive Sale,26-05-2023,25-06-2023,Retail (Nykaa),3818428,0,2.85,78.22
+P0168,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Pro HD,Lips,Lip Crayon,Nude 20,399,2022,4.07,2049,817551,957,32,88.9,Hyderabad,Influencer Push,05-04-2025,20-05-2025,E-commerce,2158976,0,1.24,74.68
+P0169,Nykaa Cosmetics,Nykaa Cosmetics Blush Shine +,Face,Blush,Coral 3,799,2021,4.39,1690,1350310,732,26,82.6,Chennai,Bogo Offer,02-01-2025,01-02-2025,E-commerce,4836902,20,0.92,80.25
+P0170,Mamaearth,Mamaearth Lip Gloss Prime X,Lips,Lip Gloss,Peach 10,599,2020,4.21,1998,1196802,1320,35,70.4,Pune,Seasonal Drop,30-05-2023,20-06-2023,Retail (Nykaa),4315220,30,1.63,75.08
+P0171,Mamaearth,Mamaearth Kajal Glow X,Eyes,Kajal,Champagne 10,1999,2021,4.51,1900,3798100,722,27,73.3,Jaipur,Festive Sale,13-10-2025,27-10-2025,E-commerce,4367868,0,1.97,79.81
+P0172,Sugar Cosmetics,Sugar Cosmetics Lip Balm Artist Air,Lips,Lip Balm,Scarlet 17,249,2024,4.24,1738,432762,1100,18,60.9,Kolkata,Seasonal Drop,10-08-2025,09-09-2025,E-commerce,1340871,20,2.53,81.26
+P0173,Nykaa Cosmetics,Nykaa Cosmetics Compact Prime HD,Face,Compact,Ruby 7,1999,2022,4.01,1556,3110444,770,26,62.6,Mumbai,Influencer Push,06-03-2025,20-04-2025,Retail (Nykaa),1598374,5,1.79,76.13
+P0174,Forest Essentials,Forest Essentials Eyeshadow Matte Luxe,Eyes,Eyeshadow,Nude 13,999,2020,4.39,1918,1916082,739,23,72.2,Mumbai,Festive Sale,22-08-2025,21-09-2025,Retail (Nykaa),1929299,25,2.27,83.59
+P0175,Mamaearth,Mamaearth Lip Liner Matte Luxe,Lips,Lip Liner,Champagne 7,599,2020,4.54,2173,1301627,947,30,64.7,Pune,Bogo Offer,05-10-2023,19-10-2023,E-commerce,5444787,0,3.86,79.18
+P0176,Lakmé,Lakmé Highlighter Pro Air,Face,Highlighter,Nude 2,999,2021,4.3,1652,1650348,516,32,76.7,Jaipur,Festive Sale,02-11-2023,02-12-2023,E-commerce,4817421,30,2.33,79.72
+P0177,Nykaa Cosmetics,Nykaa Cosmetics Compact Prime Luxe,Face,Compact,Nude 11,799,2019,4.05,1935,1546065,685,26,79.6,Delhi,Seasonal Drop,04-07-2023,03-08-2023,Retail (Store),734563,30,1.32,69.9
+P0178,Kay Beauty,Kay Beauty Kajal Prime X,Eyes,Kajal,Coral 16,699,2022,4.72,1760,1230240,951,33,89,Mumbai,Influencer Push,04-09-2024,04-10-2024,E-commerce,234209,10,5.17,80.76
+P0179,Forest Essentials,Forest Essentials Mascara Prime Luxe,Eyes,Mascara,Spice 6,399,2025,4.52,1478,589722,541,31,77.4,Delhi,Bogo Offer,03-05-2023,24-05-2023,Marketplace,1696534,0,3.78,81.41
+P0180,Kay Beauty,Kay Beauty Brow Pencil Artist Luxe,Eyes,Brow Pencil,Rose 9,1999,2021,4.25,1833,3664167,657,22,86.7,Mumbai,Nykaa Exclusive,23-02-2025,25-03-2025,E-commerce,176253,15,4.96,74.38
+P0181,Sugar Cosmetics,Sugar Cosmetics Contour Pro Air,Face,Contour,Spice 2,1499,2025,4.16,1348,2020652,811,21,84.9,Lucknow,Nykaa Exclusive,23-02-2023,09-03-2023,E-commerce,4467459,10,2.12,69.59
+P0182,Lakmé,Lakmé Brow Pencil Glow X,Eyes,Brow Pencil,Nude 3,499,2022,4.24,1795,895705,596,27,81.9,Kolkata,Bogo Offer,07-07-2023,14-07-2023,E-commerce,2407117,15,4.91,80.62
+P0183,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Prime HD,Lips,Lip Gloss,Mauve 11,1499,2022,4.35,1952,2926048,703,23,84.6,Mumbai,Nykaa Exclusive,20-06-2025,20-07-2025,E-commerce,3293235,25,5.26,83.97
+P0184,Sugar Cosmetics,Sugar Cosmetics Blush Pro Luxe,Face,Blush,Mauve 6,1699,2021,4.44,1763,2995337,594,25,89,Kolkata,Launch Promo,07-01-2023,21-01-2023,E-commerce,5054590,5,1.63,82.94
+P0185,Nykaa Cosmetics,Nykaa Cosmetics Kajal Prime X,Eyes,Kajal,Spice 19,199,2021,4.41,1840,366160,1063,23,86.5,Hyderabad,Festive Sale,21-05-2024,05-07-2024,E-commerce,3538451,0,5.58,80.49
+P0186,Lakmé,Lakmé Lip Gloss Prime X,Lips,Lip Gloss,Scarlet 16,599,2024,4.43,1721,1030879,603,28,80.9,Delhi,Seasonal Drop,01-04-2024,16-05-2024,Retail (Nykaa),1828713,25,4.08,78.88
+P0187,Sugar Cosmetics,Sugar Cosmetics Kajal Prime Luxe,Eyes,Kajal,Nude 15,399,2022,3.8,1766,704634,928,29,69.5,Jaipur,Influencer Push,10-08-2023,09-09-2023,Retail (Store),1545097,30,0.72,72.41
+P0188,Mamaearth,Mamaearth Mascara Artist Air,Eyes,Mascara,Champagne 10,199,2019,4.1,2087,415313,955,29,70.5,Kolkata,Bogo Offer,21-06-2023,05-07-2023,Retail (Nykaa),5064389,10,1.54,71.18
+P0189,Kay Beauty,Kay Beauty Compact Glow Luxe,Face,Compact,Coral 4,2999,2021,4.29,1666,4996334,835,31,86,Delhi,Influencer Push,28-06-2023,05-07-2023,Retail (Nykaa),1086164,0,3.9,78.38
+P0190,Lakmé,Lakmé Mascara Shine HD,Eyes,Mascara,Nude 19,999,2020,4.7,1933,1931067,842,13,71.5,Ahmedabad,Influencer Push,24-06-2023,24-07-2023,E-commerce,249112,15,4.91,90.59
+P0191,Sugar Cosmetics,Sugar Cosmetics Blush Artist Air,Face,Blush,Peach 7,1999,2023,3.64,1492,2982508,619,34,73.5,Lucknow,Launch Promo,25-07-2025,24-08-2025,E-commerce,5146519,20,1.95,66.97
+P0192,Mamaearth,Mamaearth Lip Crayon Matte X,Lips,Lip Crayon,Nude 15,849,2021,4.05,1989,1688661,582,35,69.5,Bengaluru,Bogo Offer,28-05-2023,11-06-2023,Retail (Store),3693572,15,2.45,76.74
+P0193,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro HD,Lips,Lip Gloss,Nude 3,699,2020,4.31,2097,1465803,904,28,89.3,Delhi,Seasonal Drop,17-03-2023,16-04-2023,E-commerce,3227359,25,5.03,76.37
+P0194,Sugar Cosmetics,Sugar Cosmetics Brow Pencil Artist Luxe,Eyes,Brow Pencil,Spice 16,2499,2023,4.41,1710,4273290,722,26,70.6,Bengaluru,Nykaa Exclusive,07-07-2025,21-08-2025,Retail (Nykaa),3037224,0,3.61,76.81
+P0195,Sugar Cosmetics,Sugar Cosmetics Mascara Glow HD,Eyes,Mascara,Mauve 7,2499,2022,4.52,1778,4443222,598,22,78.3,Hyderabad,Influencer Push,11-04-2023,26-05-2023,E-commerce,3710726,0,3,84.06
+P0196,Forest Essentials,Forest Essentials Contour Glow +,Face,Contour,Ruby 3,299,2018,4.26,1896,566904,944,21,74.8,Mumbai,Festive Sale,11-12-2023,25-12-2023,Retail (Nykaa),4629693,15,2.24,80.34
+P0197,Kay Beauty,Kay Beauty Eyeshadow Pro +,Eyes,Eyeshadow,Ruby 18,249,2021,4.7,1768,440232,953,36,81.7,Jaipur,Launch Promo,25-01-2025,08-02-2025,E-commerce,2226455,25,1.22,88.25
+P0198,Kay Beauty,Kay Beauty Lipstick Glow X,Lips,Lipstick,Berry 5,499,2022,4.6,1970,983030,585,31,61.5,Delhi,Launch Promo,16-09-2025,31-10-2025,E-commerce,4797343,0,2.46,81.88
+P0199,Forest Essentials,Forest Essentials Mascara Matte X,Eyes,Mascara,Berry 7,249,2022,4.34,1813,451437,798,31,71.2,Ahmedabad,Launch Promo,09-03-2025,23-03-2025,E-commerce,388896,0,6.05,84.67
+P0200,Mamaearth,Mamaearth Lip Crayon Prime HD,Lips,Lip Crayon,Spice 20,499,2020,4.04,2128,1061872,1121,28,71.1,Pune,Nykaa Exclusive,02-07-2023,09-07-2023,Retail (Nykaa),3568054,0,3.62,74.97
+P0201,Mamaearth,Mamaearth Lip Gloss Matte Luxe,Lips,Lip Gloss,Nude 10,2999,2020,4.16,2175,6522825,759,30,69.9,Chennai,Nykaa Exclusive,12-06-2025,26-06-2025,E-commerce,1064715,0,2.68,77.34
+P0202,Mamaearth,Mamaearth Highlighter Matte HD,Face,Highlighter,Scarlet 9,1499,2023,4.16,1539,2306961,767,27,61.6,Pune,Nykaa Exclusive,08-04-2024,08-05-2024,E-commerce,4285533,20,3.53,76.05
+P0203,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Pro HD,Eyes,Eyeshadow,Peach 16,299,2023,4.6,1663,497237,563,33,63.4,Hyderabad,Seasonal Drop,16-11-2025,30-11-2025,Retail (Nykaa),1482769,5,7.41,85.59
+P0204,Forest Essentials,Forest Essentials Lip Liner Pro Air,Lips,Lip Liner,Rose 2,1999,2021,4.12,2020,4037980,848,28,75.2,Mumbai,Nykaa Exclusive,06-11-2023,20-11-2023,E-commerce,3617369,15,2.43,78.97
+P0205,Forest Essentials,Forest Essentials Eyeshadow Shine +,Eyes,Eyeshadow,Mauve 17,1199,2021,4.51,1861,2231339,691,23,89.9,Hyderabad,Influencer Push,23-03-2024,13-04-2024,E-commerce,1188849,10,2.35,82.94
+P0206,Forest Essentials,Forest Essentials Lipstick Prime X,Lips,Lipstick,Rose 1,399,2022,4.47,1923,767277,701,25,61.1,Lucknow,Festive Sale,23-05-2025,30-05-2025,E-commerce,4273674,5,3.64,81.96
+P0207,Forest Essentials,Forest Essentials Mascara Artist HD,Eyes,Mascara,Mauve 2,399,2025,4.38,1530,610470,593,27,89.8,Ahmedabad,Nykaa Exclusive,05-07-2025,19-07-2025,E-commerce,134213,10,2.18,77.55
+P0208,Sugar Cosmetics,Sugar Cosmetics Lipstick Artist X,Lips,Lipstick,Rose 15,699,2020,4.56,2152,1504248,921,32,87.2,Hyderabad,Launch Promo,07-07-2024,21-07-2024,Social Commerce,1938950,20,7.52,81.66
+P0209,Mamaearth,Mamaearth Lipstick Artist HD,Lips,Lipstick,Ruby 19,1299,2018,4.28,2385,3098115,1002,21,74.5,Delhi,Influencer Push,06-03-2023,05-04-2023,Marketplace,5192803,25,5.31,76.67
+P0210,Lakmé,Lakmé Lip Liner Artist HD,Lips,Lip Liner,Coral 10,2999,2021,4.08,2094,6279906,750,28,62.6,Bengaluru,Bogo Offer,18-06-2024,02-07-2024,E-commerce,1488781,30,3.6,71.72
+P0211,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Pro Air,Lips,Lip Crayon,Coral 1,2499,2025,4.63,1630,4073370,865,25,64.4,Lucknow,Nykaa Exclusive,01-02-2023,15-02-2023,Marketplace,4119588,15,5.71,83.57
+P0212,Lakmé,Lakmé Eyeliner Shine Luxe,Eyes,Eyeliner,Rose 1,999,2025,4.47,1518,1516482,450,31,82.8,Pune,Seasonal Drop,06-07-2023,20-07-2023,Retail (Nykaa),1953300,15,3.45,87.97
+P0213,Kay Beauty,Kay Beauty Mascara Pro HD,Eyes,Mascara,Mauve 5,2499,2020,4.12,1890,4723110,1125,27,87.3,Mumbai,Launch Promo,10-09-2025,17-09-2025,E-commerce,710918,15,3.14,72.78
+P0214,Lakmé,Lakmé Compact Shine X,Face,Compact,Coral 10,2499,2020,4.5,1767,4415733,538,41,77.4,Mumbai,Bogo Offer,04-06-2023,04-07-2023,E-commerce,4119648,30,3.6,81.43
+P0215,Lakmé,Lakmé Lipstick Prime Air,Lips,Lipstick,Nude 2,199,2024,4.68,1794,357006,757,29,85.5,Bengaluru,Influencer Push,17-05-2025,01-07-2025,Retail (Nykaa),1797423,15,1.4,82.89
+P0216,Kay Beauty,Kay Beauty Mascara Shine Luxe,Eyes,Mascara,Spice 16,2499,2022,4.71,1729,4320771,642,25,71.4,Mumbai,Influencer Push,03-04-2024,17-04-2024,E-commerce,2573671,25,4.98,84.29
+P0217,Forest Essentials,Forest Essentials Mascara Matte +,Eyes,Mascara,Peach 16,399,2018,4.29,2103,839097,1183,27,82.1,Ahmedabad,Seasonal Drop,17-06-2025,17-07-2025,Retail (Store),4893108,10,2.38,78.54
+P0218,Forest Essentials,Forest Essentials Compact Matte Luxe,Face,Compact,Spice 19,799,2021,4.48,1726,1379074,532,28,85.4,Delhi,Nykaa Exclusive,13-01-2024,27-02-2024,Retail (Store),2941060,15,2.15,80.45
+P0219,Kay Beauty,Kay Beauty Brow Pencil Pro HD,Eyes,Brow Pencil,Spice 8,999,2022,4.45,1799,1797201,704,27,67.8,Mumbai,Festive Sale,20-08-2025,10-09-2025,Retail (Nykaa),403669,0,5.15,82.22
+P0220,Lakmé,Lakmé Compact Matte X,Face,Compact,Mauve 2,599,2020,4.38,1776,1063824,656,43,70,Chennai,Festive Sale,13-04-2024,13-05-2024,E-commerce,4284121,10,3.71,76.08
+P0221,Mamaearth,Mamaearth Contour Matte +,Face,Contour,Scarlet 20,699,2020,4.49,1810,1265190,564,30,61.2,Mumbai,Nykaa Exclusive,30-08-2023,20-09-2023,E-commerce,5351566,15,4.75,80.84
+P0222,Sugar Cosmetics,Sugar Cosmetics Blush Pro Luxe,Face,Blush,Mauve 10,1699,2023,3.9,1497,2543403,615,25,72.7,Bengaluru,Launch Promo,15-09-2023,29-09-2023,E-commerce,2108060,15,3.17,75.84
+P0223,Forest Essentials,Forest Essentials Brow Pencil Artist Luxe,Eyes,Brow Pencil,Peach 10,2999,2025,4.7,1475,4423525,611,32,74.5,Pune,Seasonal Drop,12-04-2025,12-05-2025,Marketplace,375499,10,7.77,86.62
+P0224,Forest Essentials,Forest Essentials Lip Crayon Prime HD,Lips,Lip Crayon,Mauve 12,249,2018,4.85,2509,624741,927,29,88,Chennai,Seasonal Drop,25-11-2023,09-01-2024,Retail (Nykaa),1186263,20,3.43,85.63
+P0225,Mamaearth,Mamaearth Lip Gloss Matte HD,Lips,Lip Gloss,Berry 6,199,2020,4.38,2103,418497,658,28,66.2,Lucknow,Seasonal Drop,08-07-2023,07-08-2023,Social Commerce,4468195,5,0.91,75.28
+P0226,Kay Beauty,Kay Beauty Lip Liner Shine Luxe,Lips,Lip Liner,Spice 3,499,2025,4.08,1607,801893,648,37,66.5,Kolkata,Bogo Offer,06-02-2025,27-02-2025,E-commerce,4010190,20,0.88,71.51
+P0227,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Matte Luxe,Lips,Lip Gloss,Coral 16,799,2021,3.94,2064,1649136,644,25,82.2,Chennai,Launch Promo,14-08-2023,21-08-2023,Retail (Nykaa),2696990,0,1.32,74.45
+P0228,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro +,Lips,Lip Gloss,Rose 16,299,2022,4.25,1972,589628,905,31,67.7,Lucknow,Seasonal Drop,17-09-2025,08-10-2025,Retail (Nykaa),4556402,10,2.54,72.85
+P0229,Kay Beauty,Kay Beauty Highlighter Matte Luxe,Face,Highlighter,Berry 3,2999,2019,4.28,1746,5236254,747,33,86.3,Delhi,Seasonal Drop,26-07-2023,25-08-2023,E-commerce,2316512,15,5.06,81.49
+P0230,Mamaearth,Mamaearth Lip Liner Matte Luxe,Lips,Lip Liner,Nude 13,1299,2020,4.69,2083,2705817,616,21,86.7,Hyderabad,Seasonal Drop,21-11-2024,05-01-2025,E-commerce,3993261,5,2.44,84.26
+P0231,Forest Essentials,Forest Essentials Lipstick Shine +,Lips,Lipstick,Champagne 20,799,2021,4.26,2050,1637950,899,32,86.6,Ahmedabad,Festive Sale,07-08-2023,21-09-2023,Marketplace,410896,30,1.02,80.88
+P0232,Forest Essentials,Forest Essentials Lip Gloss Artist X,Lips,Lip Gloss,Nude 1,199,2022,4.33,1998,397602,834,23,61.9,Mumbai,Influencer Push,19-04-2023,03-05-2023,E-commerce,5126304,30,2.62,82.95
+P0233,Forest Essentials,Forest Essentials Lipstick Pro Air,Lips,Lipstick,Coral 19,699,2022,4.45,1992,1392408,775,28,80.7,Pune,Bogo Offer,27-02-2024,12-03-2024,E-commerce,2901515,15,3.35,80.73
+P0234,Forest Essentials,Forest Essentials Lip Crayon Artist Air,Lips,Lip Crayon,Coral 10,1299,2019,4.59,2312,3003288,1513,28,83.9,Bengaluru,Influencer Push,25-12-2024,01-01-2025,Retail (Store),1407149,0,2.28,76.87
+P0235,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Matte +,Eyes,Eyeshadow,Scarlet 17,1299,2021,4.35,1845,2396655,911,30,77.4,Pune,Nykaa Exclusive,30-06-2024,14-07-2024,E-commerce,1949890,25,6.12,73.42
+P0236,Sugar Cosmetics,Sugar Cosmetics Lip Liner Shine Luxe,Lips,Lip Liner,Ruby 1,699,2020,4.15,2142,1497258,1136,21,77.3,Lucknow,Influencer Push,23-11-2023,30-11-2023,Retail (Store),3383478,0,3.67,70.03
+P0237,Mamaearth,Mamaearth Brow Pencil Prime HD,Eyes,Brow Pencil,Coral 12,1999,2018,4.27,2081,4159919,610,34,62.2,Delhi,Launch Promo,24-10-2025,07-11-2025,E-commerce,1447667,5,2.85,75.22
+P0238,Sugar Cosmetics,Sugar Cosmetics Lip Liner Glow HD,Lips,Lip Liner,Nude 4,499,2018,4.48,2310,1152690,919,30,85.3,Bengaluru,Launch Promo,21-12-2023,28-12-2023,Retail (Store),168896,10,2.97,82.67
+P0239,Sugar Cosmetics,Sugar Cosmetics Highlighter Glow HD,Face,Highlighter,Mauve 12,499,2023,4.57,1575,785925,524,36,77,Delhi,Nykaa Exclusive,31-05-2024,14-06-2024,Retail (Nykaa),4634347,15,5.19,80.07
+P0240,Sugar Cosmetics,Sugar Cosmetics Brow Pencil Prime X,Eyes,Brow Pencil,Berry 2,2499,2021,4.31,1798,4493202,555,24,83.3,Jaipur,Seasonal Drop,04-01-2024,18-02-2024,Retail (Nykaa),4155195,5,5.05,79.38
+P0241,Forest Essentials,Forest Essentials Lip Balm Shine HD,Lips,Lip Balm,Mauve 15,999,2021,4.35,2043,2040957,720,23,68,Ahmedabad,Influencer Push,30-06-2023,14-08-2023,Retail (Store),3511308,5,4.23,78.43
+P0242,Forest Essentials,Forest Essentials Lip Balm Matte +,Lips,Lip Balm,Peach 15,2499,2019,3.93,2285,5710215,822,23,87.9,Mumbai,Festive Sale,19-09-2025,03-11-2025,E-commerce,2020629,0,0.8,70.35
+P0243,Lakmé,Lakmé Highlighter Glow Luxe,Face,Highlighter,Scarlet 1,1199,2021,4.27,1719,2061081,710,26,61.7,Hyderabad,Influencer Push,18-08-2023,02-10-2023,Marketplace,1564200,10,5.47,79.65
+P0244,Sugar Cosmetics,Sugar Cosmetics Mascara Shine Air,Eyes,Mascara,Mauve 6,1299,2018,4.24,2104,2733096,1233,27,86.1,Pune,Festive Sale,24-12-2023,31-12-2023,Social Commerce,1472403,15,1.69,78.83
+P0245,Forest Essentials,Forest Essentials Lip Balm Matte +,Lips,Lip Balm,Coral 16,849,2019,4.42,2184,1854216,1168,35,61.7,Kolkata,Bogo Offer,27-04-2025,27-05-2025,E-commerce,1225258,30,4.05,80.31
+P0246,Kay Beauty,Kay Beauty Eyeliner Shine Air,Eyes,Eyeliner,Mauve 7,999,2021,4.42,1796,1794204,629,22,63.2,Jaipur,Bogo Offer,10-11-2023,25-12-2023,Retail (Store),3829743,25,1.22,81.47
+P0247,Forest Essentials,Forest Essentials Eyeliner Pro X,Eyes,Eyeliner,Rose 1,1499,2022,4.43,1721,2579779,691,23,87.4,Delhi,Festive Sale,23-06-2024,23-07-2024,Marketplace,867516,15,2.27,81.54
+P0248,Sugar Cosmetics,Sugar Cosmetics Compact Glow Luxe,Face,Compact,Peach 3,1499,2025,4.08,1328,1990672,601,20,87.5,Delhi,Festive Sale,10-06-2023,25-07-2023,Marketplace,1107545,15,1.53,75.55
+P0249,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Matte Air,Eyes,Eyeliner,Rose 3,2499,2023,4.51,1682,4203318,981,18,72.7,Hyderabad,Bogo Offer,23-12-2023,06-02-2024,Retail (Nykaa),546245,5,2.01,80.32
+P0250,Lakmé,Lakmé Eyeliner Shine +,Eyes,Eyeliner,Peach 17,2499,2022,4.08,1713,4280787,784,37,66.8,Mumbai,Nykaa Exclusive,24-01-2025,31-01-2025,Retail (Store),4833558,10,3.18,73.83
+P0251,Mamaearth,Mamaearth Eyeshadow Shine X,Eyes,Eyeshadow,Mauve 10,999,2025,4.18,1552,1550448,1029,39,64.9,Bengaluru,Seasonal Drop,23-09-2024,07-10-2024,E-commerce,1939074,15,1.37,74.54
+P0252,Mamaearth,Mamaearth Compact Artist +,Face,Compact,Spice 13,999,2024,4.46,1404,1402596,401,24,79.9,Lucknow,Bogo Offer,03-06-2024,03-07-2024,Retail (Store),3251615,30,3,77.61
+P0253,Lakmé,Lakmé Lip Crayon Artist +,Lips,Lip Crayon,Nude 9,249,2025,4.01,1694,421806,1032,37,61.7,Mumbai,Influencer Push,16-02-2023,02-03-2023,E-commerce,1598884,10,0.8,74.3
+P0254,Kay Beauty,Kay Beauty Highlighter Shine HD,Face,Highlighter,Mauve 6,1199,2021,4.31,1736,2081464,592,29,64.6,Kolkata,Influencer Push,09-07-2024,23-08-2024,E-commerce,1227293,20,2.49,77.73
+P0255,Lakmé,Lakmé Lipstick Glow Luxe,Lips,Lipstick,Ruby 19,499,2021,4.34,2036,1015964,1071,30,82.5,Pune,Launch Promo,17-08-2023,07-09-2023,E-commerce,5306099,10,1.79,76.75
+P0256,Forest Essentials,Forest Essentials Compact Shine Air,Face,Compact,Rose 11,199,2021,3.8,1633,324967,736,27,74.6,Chennai,Launch Promo,07-10-2024,21-10-2024,Retail (Nykaa),3911356,15,1.68,71.1
+P0257,Lakmé,Lakmé Lip Balm Prime +,Lips,Lip Balm,Scarlet 12,299,2022,4.27,1886,563914,780,32,65.4,Bengaluru,Launch Promo,20-03-2023,19-04-2023,E-commerce,4918684,20,2.89,75.36
+P0258,Sugar Cosmetics,Sugar Cosmetics Kajal Glow HD,Eyes,Kajal,Coral 7,849,2019,4.31,2063,1751487,702,31,78.4,Ahmedabad,Bogo Offer,01-08-2025,22-08-2025,Retail (Nykaa),5578013,25,5.25,82.04
+P0259,Mamaearth,Mamaearth Lip Gloss Pro HD,Lips,Lip Gloss,Mauve 17,249,2020,4.37,2169,540081,1387,27,63.6,Kolkata,Festive Sale,16-03-2025,30-04-2025,Social Commerce,2267922,30,3.12,79.45
+P0260,Forest Essentials,Forest Essentials Eyeshadow Prime Luxe,Eyes,Eyeshadow,Nude 12,699,2023,4.69,1638,1144962,511,28,61.5,Delhi,Launch Promo,27-02-2024,12-04-2024,Marketplace,2837853,15,2.98,83.81
+P0261,Kay Beauty,Kay Beauty Lip Gloss Shine Air,Lips,Lip Gloss,Mauve 5,1499,2024,4.51,1771,2654729,584,30,66.3,Bengaluru,Nykaa Exclusive,06-01-2025,13-01-2025,E-commerce,4462228,15,1.96,81.46
+P0262,Forest Essentials,Forest Essentials Brow Pencil Pro HD,Eyes,Brow Pencil,Peach 20,499,2021,4.44,1897,946603,731,23,72.5,Ahmedabad,Launch Promo,30-07-2025,29-08-2025,E-commerce,3918223,0,4.61,80.78
+P0263,Sugar Cosmetics,Sugar Cosmetics Blush Pro Air,Face,Blush,Spice 16,849,2023,4.18,1502,1275198,722,34,73.5,Mumbai,Bogo Offer,26-01-2025,02-02-2025,E-commerce,1080757,10,2.36,77.44
+P0264,Mamaearth,Mamaearth Contour Prime X,Face,Contour,Scarlet 8,849,2021,3.75,1672,1419528,845,27,70,Mumbai,Festive Sale,10-12-2023,24-01-2024,E-commerce,4227443,0,1.41,74.23
+P0265,Kay Beauty,Kay Beauty Lip Crayon Prime Luxe,Lips,Lip Crayon,Nude 17,1199,2021,4.08,2038,2443562,1065,23,81.3,Mumbai,Nykaa Exclusive,13-04-2023,20-04-2023,Retail (Store),5110564,30,2.99,79.22
+P0266,Lakmé,Lakmé Compact Glow Air,Face,Compact,Mauve 17,1699,2021,4.26,1600,2718400,472,27,87.7,Chennai,Festive Sale,26-11-2025,10-12-2025,Retail (Nykaa),2508307,0,4.41,78.14
+P0267,Mamaearth,Mamaearth Lip Balm Matte HD,Lips,Lip Balm,Rose 16,699,2021,4.1,2011,1405689,667,25,76.2,Mumbai,Festive Sale,25-03-2023,24-04-2023,E-commerce,5046456,15,3.98,68.98
+P0268,Sugar Cosmetics,Sugar Cosmetics Highlighter Shine +,Face,Highlighter,Scarlet 18,1699,2021,4.17,1689,2869611,635,24,61.9,Delhi,Launch Promo,21-01-2023,04-02-2023,Retail (Store),828009,25,1.4,76.36
+P0269,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Shine Luxe,Lips,Lip Balm,Ruby 9,299,2018,4.17,2410,720590,943,28,76.8,Delhi,Bogo Offer,08-02-2025,25-03-2025,E-commerce,763829,30,0.8,78.71
+P0270,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Prime Air,Lips,Lip Crayon,Ruby 6,249,2025,4.45,1597,397653,946,28,60,Ahmedabad,Nykaa Exclusive,15-01-2025,05-02-2025,Retail (Store),4640661,10,2.81,81.76
+P0271,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Artist Air,Lips,Lip Gloss,Peach 8,399,2021,4.47,1984,791616,883,31,64.5,Jaipur,Influencer Push,20-04-2024,04-06-2024,E-commerce,5325563,20,3.31,83.52
+P0272,Sugar Cosmetics,Sugar Cosmetics Mascara Prime Luxe,Eyes,Mascara,Nude 16,1199,2021,4.34,1845,2212155,955,31,75,Hyderabad,Launch Promo,26-03-2025,10-05-2025,Retail (Store),3918829,0,3.34,76.28
+P0273,Sugar Cosmetics,Sugar Cosmetics Lip Liner Glow HD,Lips,Lip Liner,Peach 15,1699,2020,4.3,2112,3588288,959,34,87.9,Mumbai,Launch Promo,07-01-2025,06-02-2025,Retail (Nykaa),1488040,10,5.19,80.09
+P0274,Sugar Cosmetics,Sugar Cosmetics Kajal Glow Luxe,Eyes,Kajal,Rose 8,499,2019,4.19,2045,1020455,971,22,80.2,Pune,Festive Sale,28-10-2025,18-11-2025,Retail (Nykaa),1009927,15,3.04,80.01
+P0275,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Pro X,Lips,Lip Liner,Berry 16,849,2021,4.37,2016,1711584,702,21,81.2,Bengaluru,Influencer Push,04-04-2025,18-04-2025,Retail (Nykaa),1777183,20,5.7,75.2
+P0276,Forest Essentials,Forest Essentials Lipstick Artist Luxe,Lips,Lipstick,Ruby 3,1499,2022,4.12,1965,2945535,623,26,80.9,Delhi,Nykaa Exclusive,31-01-2024,21-02-2024,Retail (Nykaa),4888483,30,2.96,78.86
+P0277,Kay Beauty,Kay Beauty Contour Matte X,Face,Contour,Ruby 12,2999,2022,3.96,1631,4891369,650,31,61.8,Ahmedabad,Bogo Offer,12-11-2025,03-12-2025,Retail (Nykaa),3835820,15,3.78,74.56
+P0278,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist Air,Lips,Lip Crayon,Scarlet 5,799,2021,4.07,2084,1665116,598,27,69.9,Hyderabad,Festive Sale,30-05-2025,20-06-2025,Retail (Store),3193594,30,3.26,69.74
+P0279,Mamaearth,Mamaearth Brow Pencil Pro Luxe,Eyes,Brow Pencil,Mauve 12,1299,2020,4.21,2020,2623980,680,24,83.9,Delhi,Influencer Push,26-04-2023,17-05-2023,E-commerce,3272572,0,4.18,81.09
+P0280,Mamaearth,Mamaearth Eyeshadow Prime X,Eyes,Eyeshadow,Peach 6,499,2021,4.17,1889,942611,942,22,64.3,Lucknow,Seasonal Drop,10-06-2023,01-07-2023,Retail (Nykaa),4559080,30,2.64,78.15
+P0281,Mamaearth,Mamaearth Kajal Shine HD,Eyes,Kajal,Spice 20,249,2025,4.48,1586,394914,546,29,85.6,Bengaluru,Seasonal Drop,11-11-2023,18-11-2023,Retail (Store),3323954,25,4.92,80.8
+P0282,Mamaearth,Mamaearth Highlighter Glow +,Face,Highlighter,Peach 19,1999,2020,4.5,1753,3504247,773,36,78.1,Bengaluru,Seasonal Drop,02-04-2025,09-04-2025,E-commerce,2501550,25,3.53,79.45
+P0283,Lakmé,Lakmé Foundation Prime HD,Face,Foundation,Champagne 12,299,2023,4.34,1558,465842,970,28,83.5,Ahmedabad,Nykaa Exclusive,15-09-2025,30-10-2025,Retail (Store),1171192,15,4.82,77.05
+P0284,Forest Essentials,Forest Essentials Lip Balm Shine X,Lips,Lip Balm,Peach 12,699,2021,4.87,2105,1471395,637,27,80.1,Ahmedabad,Festive Sale,20-11-2023,04-12-2023,Marketplace,3065980,5,5.49,86.53
+P0285,Kay Beauty,Kay Beauty Lipstick Glow +,Lips,Lipstick,Mauve 11,199,2020,3.83,2104,418696,1016,27,76.6,Mumbai,Influencer Push,23-09-2025,07-10-2025,E-commerce,1853797,0,2.01,70.32
+P0286,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Pro +,Lips,Lip Balm,Scarlet 7,199,2018,4.05,2425,482575,832,26,71.1,Chennai,Launch Promo,02-10-2023,09-10-2023,Marketplace,4995017,15,2.31,76.28
+P0287,Kay Beauty,Kay Beauty Kajal Shine +,Eyes,Kajal,Champagne 14,299,2021,4.41,1826,545974,911,31,87.6,Kolkata,Launch Promo,26-02-2023,28-03-2023,E-commerce,2860553,10,2.38,78.06
+P0288,Sugar Cosmetics,Sugar Cosmetics Contour Shine X,Face,Contour,Spice 18,849,2020,4.45,1737,1474713,588,26,74.6,Chennai,Influencer Push,29-10-2023,28-11-2023,E-commerce,493286,5,5.36,77.66
+P0289,Sugar Cosmetics,Sugar Cosmetics Foundation Shine +,Face,Foundation,Champagne 9,849,2021,4.03,1685,1430565,1002,31,74.9,Delhi,Influencer Push,16-12-2025,30-12-2025,E-commerce,1155832,10,2.14,79.74
+P0290,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Shine HD,Lips,Lip Gloss,Rose 2,199,2023,3.91,1831,364369,867,34,68.4,Kolkata,Influencer Push,24-01-2023,23-02-2023,E-commerce,4480164,15,1.29,71.06
+P0291,Lakmé,Lakmé Lipstick Pro HD,Lips,Lipstick,Nude 3,1199,2022,3.7,1916,2297284,1000,31,84,Jaipur,Influencer Push,06-03-2024,20-03-2024,Social Commerce,3024388,20,1.7,72.77
+P0292,Lakmé,Lakmé Lip Liner Glow X,Lips,Lip Liner,Spice 2,1699,2023,4.17,1936,3289264,685,31,84.7,Ahmedabad,Launch Promo,07-10-2024,28-10-2024,Retail (Store),1345582,10,3.37,73.54
+P0293,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist Air,Lips,Lip Crayon,Rose 8,199,2024,4.26,1696,337504,581,27,65.3,Ahmedabad,Festive Sale,28-06-2024,12-07-2024,E-commerce,2951795,25,3.15,72.72
+P0294,Mamaearth,Mamaearth Eyeliner Pro HD,Eyes,Eyeliner,Champagne 6,249,2025,4.13,1475,367275,810,25,83.8,Ahmedabad,Seasonal Drop,13-06-2023,13-07-2023,Retail (Nykaa),1395068,5,2.87,72.89
+P0295,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Glow +,Eyes,Eyeliner,Peach 18,999,2018,4.23,2130,2127870,719,16,86.2,Lucknow,Influencer Push,20-04-2023,27-04-2023,Retail (Nykaa),4727411,5,2.67,76.55
+P0296,Kay Beauty,Kay Beauty Lip Balm Glow X,Lips,Lip Balm,Rose 2,1499,2022,3.81,1964,2944036,763,30,88.7,Ahmedabad,Bogo Offer,11-11-2023,25-11-2023,Retail (Store),376464,0,2.52,72.69
+P0297,Kay Beauty,Kay Beauty Kajal Matte Luxe,Eyes,Kajal,Spice 3,849,2023,4.49,1644,1395756,648,32,63.7,Lucknow,Festive Sale,22-02-2023,24-03-2023,Marketplace,4711363,0,3.22,77.69
+P0298,Nykaa Cosmetics,Nykaa Cosmetics Mascara Pro +,Eyes,Mascara,Mauve 2,849,2021,4.39,1913,1624137,760,33,73,Bengaluru,Nykaa Exclusive,23-05-2024,13-06-2024,E-commerce,1838519,15,2.43,78.87
+P0299,Sugar Cosmetics,Sugar Cosmetics Mascara Artist X,Eyes,Mascara,Nude 10,849,2020,4.05,1921,1630929,947,33,72.8,Pune,Seasonal Drop,26-04-2024,17-05-2024,E-commerce,1149405,0,3.6,77.3
+P0300,Kay Beauty,Kay Beauty Lip Liner Glow +,Lips,Lip Liner,Spice 12,1499,2024,4.11,1745,2615755,692,34,82.7,Hyderabad,Festive Sale,05-07-2023,19-07-2023,E-commerce,1250121,0,0.81,75.1
+P0301,Sugar Cosmetics,Sugar Cosmetics Lipstick Matte X,Lips,Lipstick,Nude 9,1299,2025,4.15,1623,2108277,718,24,87.3,Kolkata,Seasonal Drop,28-07-2025,18-08-2025,E-commerce,2872854,15,0.85,80.92
+P0302,Forest Essentials,Forest Essentials Compact Artist +,Face,Compact,Scarlet 19,2999,2021,4.02,1649,4945351,660,32,86,Pune,Influencer Push,18-12-2023,25-12-2023,Retail (Store),830373,5,3.88,72.14
+P0303,Lakmé,Lakmé Lip Crayon Matte HD,Lips,Lip Crayon,Berry 16,1699,2022,4.6,2070,3516930,900,33,88.6,Kolkata,Influencer Push,28-08-2024,04-09-2024,Social Commerce,2258014,0,1.55,88.68
+P0304,Kay Beauty,Kay Beauty Eyeshadow Shine X,Eyes,Eyeshadow,Berry 19,249,2021,4.55,1892,471108,879,33,61.2,Jaipur,Seasonal Drop,19-09-2024,03-11-2024,E-commerce,1377809,0,7.04,81.91
+P0305,Lakmé,Lakmé Mascara Glow +,Eyes,Mascara,Rose 7,1999,2020,4.03,1930,3858070,848,36,70.4,Ahmedabad,Influencer Push,25-11-2023,09-12-2023,E-commerce,3379905,20,0.66,76.63
+P0306,Lakmé,Lakmé Foundation Shine Air,Face,Foundation,Berry 1,399,2018,4.09,1964,783636,708,33,87.5,Lucknow,Bogo Offer,20-06-2024,20-07-2024,Retail (Nykaa),2939247,0,4.46,74.9
+P0307,Kay Beauty,Kay Beauty Kajal Artist X,Eyes,Kajal,Rose 8,499,2022,4.29,1768,882232,569,31,67.4,Ahmedabad,Festive Sale,07-05-2025,06-06-2025,E-commerce,3397941,10,2.53,73.91
+P0308,Lakmé,Lakmé Lipstick Matte Luxe,Lips,Lipstick,Peach 10,199,2018,4.15,2447,486953,926,23,68.9,Mumbai,Bogo Offer,22-08-2024,12-09-2024,Retail (Nykaa),1844805,0,1.08,69.73
+P0309,Nykaa Cosmetics,Nykaa Cosmetics Foundation Pro Luxe,Face,Foundation,Mauve 5,1999,2020,3.94,1667,3332333,837,31,86.4,Hyderabad,Seasonal Drop,02-07-2024,23-07-2024,E-commerce,1140985,15,3.53,74.69
+P0310,Forest Essentials,Forest Essentials Lip Liner Artist HD,Lips,Lip Liner,Mauve 1,2499,2018,4.74,2339,5845161,778,28,75.8,Jaipur,Seasonal Drop,16-01-2025,23-01-2025,E-commerce,5611288,20,6.95,88.01
+P0311,Sugar Cosmetics,Sugar Cosmetics Lip Liner Prime X,Lips,Lip Liner,Nude 15,599,2021,4.24,2069,1239331,1003,25,84.6,Kolkata,Nykaa Exclusive,17-04-2023,17-05-2023,E-commerce,4008540,0,4.98,68.99
+P0312,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Artist Luxe,Eyes,Eyeshadow,Mauve 13,1199,2024,4.29,1575,1888425,929,29,83.1,Delhi,Festive Sale,13-07-2025,20-07-2025,Marketplace,775466,5,3.29,77.8
+P0313,Kay Beauty,Kay Beauty Compact Pro X,Face,Compact,Rose 6,799,2022,4.62,1548,1236852,599,10,63.9,Jaipur,Seasonal Drop,21-07-2024,04-08-2024,Social Commerce,535742,30,3.07,74.18
+P0314,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Prime X,Lips,Lip Gloss,Scarlet 16,1499,2021,4.19,1982,2971018,753,29,87.4,Lucknow,Seasonal Drop,02-11-2025,23-11-2025,Retail (Nykaa),5230496,5,4.69,77.26
+P0315,Lakmé,Lakmé Lip Gloss Glow X,Lips,Lip Gloss,Scarlet 10,849,2024,4.06,1774,1506126,589,26,89,Jaipur,Influencer Push,17-09-2024,08-10-2024,Social Commerce,381899,10,2.72,73.13
+P0316,Kay Beauty,Kay Beauty Compact Artist HD,Face,Compact,Mauve 17,399,2025,4.06,1381,551019,440,19,82.3,Mumbai,Nykaa Exclusive,31-05-2025,30-06-2025,Retail (Nykaa),1839476,5,4.42,71.39
+P0317,Lakmé,Lakmé Lip Gloss Prime +,Lips,Lip Gloss,Rose 13,199,2025,4.2,1587,315813,621,28,84.7,Ahmedabad,Launch Promo,25-02-2023,04-03-2023,E-commerce,4813137,15,1.02,79.79
+P0318,Sugar Cosmetics,Sugar Cosmetics Lip Liner Glow Air,Lips,Lip Liner,Coral 2,849,2019,4.75,2231,1894119,681,25,83.7,Mumbai,Seasonal Drop,21-02-2024,13-03-2024,E-commerce,476432,30,1.46,88.05
+P0319,Mamaearth,Mamaearth Lipstick Artist Luxe,Lips,Lipstick,Rose 15,999,2022,4.22,1956,1954044,1042,26,61.7,Mumbai,Bogo Offer,08-10-2024,07-11-2024,E-commerce,3504100,15,5.25,82.05
+P0320,Kay Beauty,Kay Beauty Eyeshadow Pro Air,Eyes,Eyeshadow,Nude 5,1699,2018,4.09,2130,3618870,1159,29,73.6,Chennai,Bogo Offer,10-11-2024,25-12-2024,Retail (Nykaa),3349019,0,4.33,77.58
+P0321,Lakmé,Lakmé Eyeshadow Artist +,Eyes,Eyeshadow,Champagne 17,699,2019,3.97,2068,1445532,825,24,83.3,Ahmedabad,Festive Sale,30-08-2023,20-09-2023,E-commerce,5023042,0,1.75,72.42
+P0322,Mamaearth,Mamaearth Eyeliner Shine HD,Eyes,Eyeliner,Nude 17,599,2022,4.35,1742,1043458,967,30,77.6,Chennai,Nykaa Exclusive,05-04-2025,12-04-2025,Retail (Nykaa),2309217,10,2.23,69.07
+P0323,Forest Essentials,Forest Essentials Lip Liner Prime HD,Lips,Lip Liner,Berry 3,2999,2019,4.08,2275,6822725,975,31,74.1,Bengaluru,Launch Promo,11-09-2024,02-10-2024,E-commerce,4984646,20,1.5,74.65
+P0324,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Glow Air,Lips,Lip Crayon,Nude 1,399,2019,3.98,2267,904533,1281,21,81.2,Chennai,Influencer Push,04-10-2023,18-11-2023,E-commerce,3055820,10,1.49,77.66
+P0325,Sugar Cosmetics,Sugar Cosmetics Blush Glow X,Face,Blush,Berry 19,1699,2021,4.48,1656,2813544,730,26,85.1,Kolkata,Seasonal Drop,07-03-2025,21-04-2025,E-commerce,4716258,15,3.39,87.07
+P0326,Lakmé,Lakmé Brow Pencil Glow HD,Eyes,Brow Pencil,Coral 20,249,2023,4.29,1606,399894,803,28,88.7,Ahmedabad,Seasonal Drop,07-05-2024,21-06-2024,E-commerce,1488621,5,3.9,78.51
+P0327,Kay Beauty,Kay Beauty Blush Shine Luxe,Face,Blush,Berry 2,499,2019,4.34,1938,967062,899,22,78.2,Lucknow,Influencer Push,11-06-2024,26-07-2024,Retail (Nykaa),5389271,20,3.47,80.85
+P0328,Kay Beauty,Kay Beauty Highlighter Matte HD,Face,Highlighter,Mauve 9,999,2022,3.8,1620,1618380,594,34,79.2,Delhi,Bogo Offer,25-03-2025,15-04-2025,Retail (Nykaa),2663305,0,0.91,77.24
+P0329,Lakmé,Lakmé Foundation Pro X,Face,Foundation,Coral 19,1699,2021,3.91,1763,2995337,1030,26,77.2,Chennai,Launch Promo,04-01-2025,18-02-2025,E-commerce,1106241,15,2.16,74.19
+P0330,Sugar Cosmetics,Sugar Cosmetics Kajal Shine Luxe,Eyes,Kajal,Ruby 8,599,2023,4.5,1611,964989,586,22,72.4,Delhi,Influencer Push,28-09-2024,19-10-2024,Marketplace,3699210,20,3.42,84.21
+P0331,Kay Beauty,Kay Beauty Eyeshadow Pro Luxe,Eyes,Eyeshadow,Champagne 13,799,2020,4.4,1942,1551658,1217,33,85.5,Lucknow,Launch Promo,05-12-2023,19-01-2024,E-commerce,1356783,20,2.62,81.46
+P0332,Kay Beauty,Kay Beauty Contour Pro X,Face,Contour,Scarlet 14,1199,2020,4.16,1818,2179782,743,28,61.5,Lucknow,Nykaa Exclusive,11-12-2023,25-01-2024,Social Commerce,3160001,0,3.78,75.08
+P0333,Kay Beauty,Kay Beauty Eyeliner Pro X,Eyes,Eyeliner,Coral 18,699,2022,4.31,1833,1281267,561,25,87.7,Mumbai,Bogo Offer,07-07-2025,28-07-2025,E-commerce,2443425,5,3.11,76.29
+P0334,Kay Beauty,Kay Beauty Eyeliner Pro X,Eyes,Eyeliner,Berry 2,1199,2023,4.17,1713,2053887,584,26,79.3,Mumbai,Bogo Offer,10-03-2023,17-03-2023,E-commerce,3524545,0,3.98,82.38
+P0335,Lakmé,Lakmé Contour Shine Air,Face,Contour,Ruby 11,399,2022,4.31,1606,640794,951,31,83,Pune,Launch Promo,07-04-2025,14-04-2025,Retail (Nykaa),3940996,0,5.44,75.14
+P0336,Sugar Cosmetics,Sugar Cosmetics Mascara Matte X,Eyes,Mascara,Berry 13,199,2019,4.36,2069,411731,948,27,60.5,Mumbai,Bogo Offer,17-05-2024,16-06-2024,E-commerce,3305276,0,1.64,78.81
+P0337,Mamaearth,Mamaearth Contour Shine Air,Face,Contour,Nude 18,199,2018,4.4,1854,368946,789,29,88,Chennai,Seasonal Drop,16-06-2025,31-07-2025,Marketplace,1279529,20,1.33,76.44
+P0338,Lakmé,Lakmé Highlighter Prime X,Face,Highlighter,Coral 20,1299,2018,4.39,2002,2600598,837,41,80.1,Lucknow,Festive Sale,29-12-2025,12-01-2026,E-commerce,3542943,0,3.09,82.28
+P0339,Nykaa Cosmetics,Nykaa Cosmetics Foundation Prime HD,Face,Foundation,Champagne 13,1999,2021,4.59,1647,3292353,840,27,82.5,Kolkata,Seasonal Drop,05-11-2024,20-12-2024,Retail (Nykaa),2518514,0,6.93,76.02
+P0340,Mamaearth,Mamaearth Brow Pencil Pro HD,Eyes,Brow Pencil,Nude 1,399,2022,4.26,1857,740943,1035,30,65.6,Delhi,Bogo Offer,15-01-2025,01-03-2025,E-commerce,2086108,30,2,80.28
+P0341,Lakmé,Lakmé Lip Crayon Prime X,Lips,Lip Crayon,Scarlet 17,199,2021,4.58,2064,410736,1257,19,78.9,Lucknow,Festive Sale,23-05-2025,07-07-2025,Social Commerce,5027353,0,3.93,78.34
+P0342,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Artist Air,Eyes,Eyeliner,Rose 3,499,2024,3.88,1635,815865,704,31,64,Pune,Bogo Offer,03-11-2023,17-11-2023,E-commerce,170171,5,2.57,69.07
+P0343,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Shine +,Lips,Lip Crayon,Mauve 16,1499,2022,4.24,1915,2870585,722,32,72.1,Bengaluru,Influencer Push,21-07-2023,04-08-2023,E-commerce,1964626,0,4.85,77.78
+P0344,Mamaearth,Mamaearth Lip Liner Artist Luxe,Lips,Lip Liner,Champagne 20,599,2018,4.54,2334,1398066,712,25,69.5,Hyderabad,Launch Promo,28-01-2025,18-02-2025,E-commerce,2854567,25,5.54,78.53
+P0345,Kay Beauty,Kay Beauty Lip Balm Matte HD,Lips,Lip Balm,Mauve 1,1499,2021,4.28,2013,3017487,1201,26,84.2,Pune,Nykaa Exclusive,14-07-2023,21-07-2023,Retail (Nykaa),3330981,20,3.06,84.76
+P0346,Mamaearth,Mamaearth Eyeliner Artist Luxe,Eyes,Eyeliner,Scarlet 19,2999,2020,4.2,2009,6024991,659,29,83.1,Kolkata,Seasonal Drop,03-11-2024,24-11-2024,Retail (Nykaa),3264556,10,2.94,75.8
+P0347,Lakmé,Lakmé Kajal Pro X,Eyes,Kajal,Rose 12,1499,2022,4.37,1680,2518320,1040,28,86.8,Chennai,Festive Sale,05-04-2023,05-05-2023,Marketplace,1373668,20,4.12,81.11
+P0348,Forest Essentials,Forest Essentials Highlighter Shine HD,Face,Highlighter,Mauve 11,699,2019,4.34,1917,1339983,646,23,66.3,Pune,Influencer Push,16-11-2023,30-11-2023,E-commerce,4716273,5,4.4,80.94
+P0349,Kay Beauty,Kay Beauty Brow Pencil Matte HD,Eyes,Brow Pencil,Coral 18,849,2025,3.96,1476,1253124,496,31,69.1,Bengaluru,Launch Promo,06-10-2023,05-11-2023,Retail (Store),1361090,20,0.66,72.19
+P0350,Forest Essentials,Forest Essentials Lip Liner Artist +,Lips,Lip Liner,Spice 10,1299,2024,4.6,1749,2271951,563,20,72.2,Ahmedabad,Bogo Offer,05-05-2023,26-05-2023,E-commerce,3311763,5,1.78,81.3
+P0351,Forest Essentials,Forest Essentials Lip Gloss Artist +,Lips,Lip Gloss,Scarlet 17,199,2020,4.07,2179,433621,672,27,64.2,Mumbai,Launch Promo,21-11-2025,21-12-2025,Retail (Nykaa),4280786,10,1.35,71.1
+P0352,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Shine Air,Lips,Lip Crayon,Ruby 9,249,2021,4.59,2019,502731,764,18,82,Pune,Launch Promo,28-11-2024,12-12-2024,Retail (Store),2927982,30,7.41,78.38
+P0353,Sugar Cosmetics,Sugar Cosmetics Lipstick Prime Luxe,Lips,Lipstick,Champagne 16,399,2022,4.26,1958,781242,763,33,87.2,Mumbai,Bogo Offer,11-09-2023,18-09-2023,E-commerce,4299353,20,2.7,77.62
+P0354,Nykaa Cosmetics,Nykaa Cosmetics Contour Prime +,Face,Contour,Spice 11,999,2022,4.43,1582,1580418,534,24,75.9,Bengaluru,Bogo Offer,19-08-2024,09-09-2024,Marketplace,255775,5,1.54,78.37
+P0355,Sugar Cosmetics,Sugar Cosmetics Contour Matte HD,Face,Contour,Coral 9,1299,2022,4.28,1614,2096586,704,29,88.9,Chennai,Festive Sale,28-09-2025,12-11-2025,Retail (Store),3455382,10,5.63,77.04
+P0356,Kay Beauty,Kay Beauty Lip Gloss Shine Luxe,Lips,Lip Gloss,Ruby 16,299,2023,4.44,1831,547469,597,24,71.3,Bengaluru,Nykaa Exclusive,15-12-2023,05-01-2024,Retail (Nykaa),3420815,0,2.34,72.56
+P0357,Nykaa Cosmetics,Nykaa Cosmetics Foundation Pro HD,Face,Foundation,Peach 15,1199,2018,4.19,2013,2413587,902,25,86.2,Bengaluru,Bogo Offer,22-01-2025,08-03-2025,E-commerce,3338237,0,1.6,78.84
+P0358,Forest Essentials,Forest Essentials Mascara Artist X,Eyes,Mascara,Rose 2,699,2019,4.27,1984,1386816,1295,17,75.2,Chennai,Festive Sale,20-01-2025,19-02-2025,Retail (Store),5208866,25,1.6,81.02
+P0359,Forest Essentials,Forest Essentials Foundation Prime HD,Face,Foundation,Champagne 10,1999,2022,3.94,1587,3172413,591,28,62.9,Chennai,Nykaa Exclusive,18-10-2025,02-12-2025,E-commerce,361298,0,1.6,76.34
+P0360,Mamaearth,Mamaearth Lip Balm Glow Air,Lips,Lip Balm,Peach 5,299,2024,4.52,1928,576472,702,33,67.6,Lucknow,Launch Promo,03-06-2024,18-07-2024,E-commerce,1018922,20,1.12,80.95
+P0361,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Matte Luxe,Lips,Lip Gloss,Peach 16,849,2023,4.11,1758,1492542,691,26,82.3,Chennai,Launch Promo,10-10-2024,24-11-2024,E-commerce,1813999,30,4.33,78.06
+P0362,Sugar Cosmetics,Sugar Cosmetics Lip Balm Prime +,Lips,Lip Balm,Peach 10,399,2018,3.86,2281,910119,716,35,60.9,Ahmedabad,Festive Sale,17-05-2023,01-07-2023,E-commerce,1237548,0,1.43,75.96
+P0363,Sugar Cosmetics,Sugar Cosmetics Mascara Glow +,Eyes,Mascara,Mauve 13,299,2021,4.48,1895,566605,761,25,63.9,Pune,Launch Promo,21-07-2025,04-09-2025,Social Commerce,774477,30,6.25,86.08
+P0364,Mamaearth,Mamaearth Brow Pencil Shine +,Eyes,Brow Pencil,Coral 4,799,2019,4.24,2014,1609186,759,31,62.9,Hyderabad,Nykaa Exclusive,13-09-2023,20-09-2023,E-commerce,1853096,5,3.35,78.77
+P0365,Mamaearth,Mamaearth Kajal Pro Luxe,Eyes,Kajal,Spice 5,399,2023,4.66,1694,675906,934,26,73.1,Bengaluru,Festive Sale,09-04-2023,23-04-2023,E-commerce,974194,5,5.16,85.11
+P0366,Forest Essentials,Forest Essentials Eyeliner Pro Luxe,Eyes,Eyeliner,Spice 12,1499,2022,3.63,1696,2542304,1009,31,77.7,Hyderabad,Bogo Offer,13-03-2024,27-03-2024,Social Commerce,4501616,10,1.69,70.98
+P0367,Mamaearth,Mamaearth Lip Balm Prime Luxe,Lips,Lip Balm,Spice 1,399,2025,4.14,1596,636804,523,17,77.1,Jaipur,Nykaa Exclusive,30-08-2024,13-09-2024,E-commerce,738669,5,1.18,74.79
+P0368,Sugar Cosmetics,Sugar Cosmetics Lipstick Matte Air,Lips,Lipstick,Nude 4,1999,2018,4.22,2388,4773612,923,30,67.8,Lucknow,Seasonal Drop,24-03-2024,07-04-2024,Retail (Nykaa),756451,20,2.85,73.07
+P0369,Kay Beauty,Kay Beauty Foundation Prime HD,Face,Foundation,Ruby 1,2499,2020,4.51,1746,4363254,835,24,60.5,Delhi,Festive Sale,22-02-2025,24-03-2025,E-commerce,5003127,20,5.23,85.87
+P0370,Forest Essentials,Forest Essentials Lip Balm Matte X,Lips,Lip Balm,Ruby 15,399,2023,4.33,1886,752514,746,24,84.3,Mumbai,Bogo Offer,21-04-2024,12-05-2024,E-commerce,1801412,10,1.57,77.18
+P0371,Kay Beauty,Kay Beauty Lip Liner Glow +,Lips,Lip Liner,Spice 6,2999,2022,4.24,1895,5683105,647,30,80.6,Bengaluru,Bogo Offer,26-02-2023,12-04-2023,Marketplace,2481302,25,2.96,74.01
+P0372,Mamaearth,Mamaearth Lip Gloss Pro HD,Lips,Lip Gloss,Berry 8,699,2019,4.24,2225,1555275,838,26,68.6,Lucknow,Festive Sale,17-03-2023,24-03-2023,Retail (Nykaa),3811966,25,3.97,76.84
+P0373,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Artist Luxe,Eyes,Eyeliner,Rose 15,1699,2025,3.81,1475,2506025,521,32,72.6,Lucknow,Launch Promo,24-05-2025,14-06-2025,Retail (Nykaa),4603287,25,1.6,68.35
+P0374,Mamaearth,Mamaearth Lip Gloss Artist HD,Lips,Lip Gloss,Coral 6,1199,2020,3.92,2170,2601830,1123,25,63.2,Mumbai,Launch Promo,04-03-2023,18-03-2023,Retail (Store),2875486,20,3.23,70.35
+P0375,Sugar Cosmetics,Sugar Cosmetics Contour Glow Air,Face,Contour,Peach 1,849,2021,4.71,1719,1459431,694,27,78.9,Mumbai,Launch Promo,26-11-2023,26-12-2023,E-commerce,1850683,10,5.32,83.68
+P0376,Mamaearth,Mamaearth Highlighter Shine Air,Face,Highlighter,Rose 11,299,2024,4.51,1405,420095,679,33,66.6,Mumbai,Bogo Offer,13-03-2025,03-04-2025,Retail (Nykaa),4835307,15,6.55,84.48
+P0377,Lakmé,Lakmé Contour Shine Luxe,Face,Contour,Champagne 17,249,2020,4.34,1743,434007,574,31,88.8,Hyderabad,Festive Sale,11-06-2023,18-06-2023,E-commerce,3005342,5,1.67,78.28
+P0378,Mamaearth,Mamaearth Lip Balm Matte HD,Lips,Lip Balm,Ruby 14,999,2018,4.55,2277,2274723,1468,42,61,Delhi,Festive Sale,29-10-2024,19-11-2024,E-commerce,165623,25,2.15,84.94
+P0379,Kay Beauty,Kay Beauty Lip Liner Glow Luxe,Lips,Lip Liner,Spice 5,699,2020,4.77,2104,1470696,829,23,78.2,Lucknow,Influencer Push,12-12-2024,11-01-2025,E-commerce,2586682,5,5.97,87.51
+P0380,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Artist HD,Eyes,Eyeshadow,Ruby 5,249,2021,4.6,1891,470859,633,33,81.8,Lucknow,Influencer Push,29-03-2025,05-04-2025,Retail (Nykaa),1239113,20,3.91,86.04
+P0381,Sugar Cosmetics,Sugar Cosmetics Blush Pro Luxe,Face,Blush,Coral 11,799,2021,4.1,1646,1315154,554,25,60.9,Kolkata,Influencer Push,21-11-2023,12-12-2023,Marketplace,3854104,20,1.46,76.83
+P0382,Mamaearth,Mamaearth Blush Artist X,Face,Blush,Spice 16,699,2018,4.42,1940,1356060,588,30,83.8,Mumbai,Seasonal Drop,23-06-2025,30-06-2025,Marketplace,4842186,10,1.11,78.84
+P0383,Mamaearth,Mamaearth Lip Gloss Shine X,Lips,Lip Gloss,Ruby 14,1299,2021,4.16,1986,2579814,825,32,60.5,Mumbai,Bogo Offer,13-05-2025,27-05-2025,Social Commerce,413815,0,3.89,70.29
+P0384,Lakmé,Lakmé Mascara Pro +,Eyes,Mascara,Nude 12,799,2021,3.97,1801,1438999,599,23,75.7,Delhi,Bogo Offer,14-08-2024,04-09-2024,E-commerce,3390567,5,0.84,71.18
+P0385,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Shine +,Lips,Lip Crayon,Spice 1,1299,2022,3.99,1915,2487585,624,33,70.6,Bengaluru,Influencer Push,22-04-2024,06-06-2024,Social Commerce,204911,20,3.9,71.5
+P0386,Forest Essentials,Forest Essentials Lipstick Artist Air,Lips,Lipstick,Scarlet 17,849,2024,4.79,1740,1477260,743,23,73.6,Delhi,Festive Sale,13-01-2025,12-02-2025,E-commerce,3576757,10,5.57,86.26
+P0387,Forest Essentials,Forest Essentials Mascara Glow Air,Eyes,Mascara,Coral 5,699,2024,4.02,1552,1084848,650,20,61,Bengaluru,Influencer Push,11-01-2024,10-02-2024,E-commerce,2097832,0,2.06,74.71
+P0388,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Pro X,Lips,Lipstick,Scarlet 12,249,2024,4.23,1788,445212,658,35,78.9,Chennai,Festive Sale,15-03-2024,29-03-2024,E-commerce,4253786,0,5.46,81.23
+P0389,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Matte X,Eyes,Eyeshadow,Peach 16,599,2023,4.2,1617,968583,547,32,63.2,Delhi,Festive Sale,09-02-2023,26-03-2023,Retail (Nykaa),1971464,20,5.23,75.52
+P0390,Forest Essentials,Forest Essentials Contour Shine Luxe,Face,Contour,Mauve 20,199,2020,4.12,1802,358598,685,21,79.3,Ahmedabad,Festive Sale,28-09-2025,28-10-2025,E-commerce,3550662,20,4.72,72.12
+P0391,Kay Beauty,Kay Beauty Brow Pencil Pro HD,Eyes,Brow Pencil,Scarlet 17,399,2022,4.2,1760,702240,815,26,81.6,Kolkata,Influencer Push,22-06-2023,13-07-2023,Retail (Store),4124324,10,3.58,81.11
+P0392,Sugar Cosmetics,Sugar Cosmetics Compact Shine X,Face,Compact,Nude 1,399,2021,4.07,1647,657153,899,36,73.1,Kolkata,Launch Promo,10-05-2024,17-05-2024,E-commerce,963176,0,3.66,75.23
+P0393,Mamaearth,Mamaearth Eyeshadow Pro X,Eyes,Eyeshadow,Spice 6,199,2022,4.55,1812,360588,705,22,63,Ahmedabad,Festive Sale,15-07-2023,29-08-2023,E-commerce,1568160,5,4.64,82.09
+P0394,Lakmé,Lakmé Lipstick Artist Air,Lips,Lipstick,Mauve 1,799,2021,4.2,2035,1625965,719,43,73,Lucknow,Festive Sale,26-03-2025,16-04-2025,E-commerce,1775023,15,5.17,71.63
+P0395,Lakmé,Lakmé Highlighter Shine Luxe,Face,Highlighter,Ruby 7,599,2020,4.17,1696,1015904,564,28,72.7,Chennai,Festive Sale,31-05-2023,07-06-2023,E-commerce,1931658,10,2.19,73.86
+P0396,Forest Essentials,Forest Essentials Brow Pencil Matte HD,Eyes,Brow Pencil,Peach 18,999,2023,4.59,1681,1679319,808,33,83.8,Bengaluru,Festive Sale,28-05-2024,04-06-2024,Retail (Store),2309556,10,2.81,76.8
+P0397,Lakmé,Lakmé Eyeshadow Pro HD,Eyes,Eyeshadow,Ruby 12,799,2022,4.15,1760,1406240,514,20,86.8,Pune,Nykaa Exclusive,07-05-2025,06-06-2025,E-commerce,2885415,20,3.68,77.57
+P0398,Sugar Cosmetics,Sugar Cosmetics Mascara Shine HD,Eyes,Mascara,Coral 8,999,2020,3.92,1985,1983015,898,19,76.3,Chennai,Influencer Push,11-06-2023,25-06-2023,Social Commerce,3564203,5,2.61,67.81
+P0399,Forest Essentials,Forest Essentials Lip Liner Shine +,Lips,Lip Liner,Champagne 6,1699,2023,4.4,1896,3221304,1027,27,68.1,Bengaluru,Seasonal Drop,13-11-2025,13-12-2025,Retail (Store),3272817,15,4,81.92
+P0400,Forest Essentials,Forest Essentials Lipstick Pro X,Lips,Lipstick,Spice 17,249,2021,4.34,2103,523647,805,27,66.2,Ahmedabad,Seasonal Drop,11-03-2024,01-04-2024,Retail (Nykaa),2294672,25,1.51,82.88
+P0401,Mamaearth,Mamaearth Contour Artist +,Face,Contour,Nude 19,299,2022,4.26,1596,477204,499,24,63.8,Mumbai,Nykaa Exclusive,15-07-2023,22-07-2023,E-commerce,4379293,10,3.27,69.17
+P0402,Sugar Cosmetics,Sugar Cosmetics Compact Glow HD,Face,Compact,Berry 16,299,2023,4.58,1496,447304,879,37,70,Pune,Nykaa Exclusive,12-07-2024,11-08-2024,Retail (Nykaa),4766259,10,4.02,81.96
+P0403,Forest Essentials,Forest Essentials Eyeshadow Matte Luxe,Eyes,Eyeshadow,Scarlet 15,1999,2023,4.12,1647,3292353,695,34,69.9,Delhi,Launch Promo,23-12-2024,13-01-2025,Retail (Nykaa),4982470,5,1.59,78.76
+P0404,Mamaearth,Mamaearth Foundation Matte Luxe,Face,Foundation,Ruby 17,1999,2025,4.49,1400,2798600,444,30,78.3,Hyderabad,Influencer Push,24-04-2023,08-06-2023,Marketplace,2389708,15,3.7,83.62
+P0405,Mamaearth,Mamaearth Contour Artist HD,Face,Contour,Berry 1,399,2023,4.1,1434,572166,473,21,74.8,Ahmedabad,Nykaa Exclusive,02-08-2024,16-09-2024,E-commerce,3713619,10,2.95,79.13
+P0406,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist +,Lips,Lip Crayon,Peach 18,299,2020,3.98,2259,675441,1178,33,80.9,Jaipur,Nykaa Exclusive,04-07-2023,18-08-2023,E-commerce,3520129,30,1.64,72.3
+P0407,Mamaearth,Mamaearth Lip Balm Glow X,Lips,Lip Balm,Champagne 3,2499,2025,4.44,1668,4168332,967,29,70.4,Ahmedabad,Launch Promo,17-03-2024,24-03-2024,Social Commerce,896995,25,4.98,84.06
+P0408,Mamaearth,Mamaearth Blush Matte HD,Face,Blush,Coral 15,249,2023,4.32,1547,385203,505,32,72.3,Ahmedabad,Influencer Push,10-04-2025,17-04-2025,E-commerce,5130937,20,4.08,75.07
+P0409,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Shine +,Face,Highlighter,Coral 7,499,2023,4.36,1486,741514,576,24,63.9,Chennai,Nykaa Exclusive,01-03-2024,22-03-2024,E-commerce,2957215,5,1.77,74.49
+P0410,Forest Essentials,Forest Essentials Lip Liner Pro X,Lips,Lip Liner,Berry 17,2999,2019,4.18,2237,6708763,829,29,75.5,Lucknow,Festive Sale,13-06-2025,20-06-2025,Marketplace,278501,30,3.56,71.8
+P0411,Lakmé,Lakmé Lip Balm Prime Luxe,Lips,Lip Balm,Scarlet 11,1199,2025,4.43,1674,2007126,931,20,73.7,Bengaluru,Seasonal Drop,01-08-2025,31-08-2025,E-commerce,3046452,15,1.7,81.25
+P0412,Mamaearth,Mamaearth Lip Crayon Matte Air,Lips,Lip Crayon,Mauve 17,199,2021,4.18,2074,412726,698,34,88.6,Lucknow,Influencer Push,23-05-2024,07-07-2024,E-commerce,2568966,20,4.75,76.61
+P0413,Nykaa Cosmetics,Nykaa Cosmetics Contour Glow X,Face,Contour,Champagne 18,1499,2022,4.07,1531,2294969,1017,30,73,Chennai,Influencer Push,25-05-2024,24-06-2024,E-commerce,1915994,0,3.21,73.21
+P0414,Lakmé,Lakmé Lip Balm Shine HD,Lips,Lip Balm,Coral 16,1699,2024,3.5,1732,2942668,1032,20,64.8,Chennai,Bogo Offer,07-12-2025,21-12-2025,Retail (Nykaa),3219613,0,0.65,68.56
+P0415,Lakmé,Lakmé Eyeliner Prime Air,Eyes,Eyeliner,Scarlet 13,1299,2025,4.18,1455,1890045,745,22,60.6,Kolkata,Seasonal Drop,15-02-2025,08-03-2025,E-commerce,1130894,5,4.3,71.76
+P0416,Lakmé,Lakmé Eyeshadow Pro HD,Eyes,Eyeshadow,Coral 18,249,2020,3.85,1970,490530,783,29,85.2,Kolkata,Influencer Push,22-10-2024,12-11-2024,E-commerce,3456287,25,1.86,72.5
+P0417,Sugar Cosmetics,Sugar Cosmetics Lipstick Glow +,Lips,Lipstick,Rose 12,2499,2021,4.1,2006,5012994,588,30,72.2,Bengaluru,Nykaa Exclusive,01-08-2023,15-09-2023,Marketplace,4363841,0,2.33,79.04
+P0418,Lakmé,Lakmé Mascara Pro Air,Eyes,Mascara,Scarlet 14,999,2020,4.15,1935,1933065,635,33,84.4,Hyderabad,Festive Sale,09-11-2024,23-11-2024,Social Commerce,2630061,10,2.67,78.19
+P0419,Sugar Cosmetics,Sugar Cosmetics Foundation Shine +,Face,Foundation,Champagne 7,1999,2021,4.25,1681,3360319,714,31,67,Lucknow,Nykaa Exclusive,05-03-2023,19-04-2023,Retail (Nykaa),1668428,30,2.12,81.17
+P0420,Sugar Cosmetics,Sugar Cosmetics Kajal Prime +,Eyes,Kajal,Scarlet 6,249,2022,4.41,1810,450690,675,24,64.9,Delhi,Festive Sale,27-04-2023,11-05-2023,E-commerce,4791622,30,6.26,77.22
+P0421,Mamaearth,Mamaearth Mascara Matte HD,Eyes,Mascara,Nude 9,2999,2023,4.54,1674,5020326,735,31,64.8,Bengaluru,Festive Sale,11-09-2024,02-10-2024,Retail (Nykaa),1780175,15,1.15,84.55
+P0422,Forest Essentials,Forest Essentials Compact Prime HD,Face,Compact,Rose 17,299,2021,4.16,1660,496340,705,20,82.3,Chennai,Launch Promo,19-09-2024,19-10-2024,Retail (Nykaa),4932283,15,5.01,76.88
+P0423,Nykaa Cosmetics,Nykaa Cosmetics Mascara Shine +,Eyes,Mascara,Spice 9,2999,2020,4.27,1950,5848050,954,20,65.1,Pune,Seasonal Drop,18-01-2025,04-03-2025,Retail (Nykaa),4309173,5,1.6,79.97
+P0424,Lakmé,Lakmé Lip Liner Matte Luxe,Lips,Lip Liner,Nude 12,499,2023,3.81,1862,929138,1211,33,60.3,Mumbai,Influencer Push,05-08-2023,19-09-2023,E-commerce,3609858,20,1.22,66.77
+P0425,Forest Essentials,Forest Essentials Blush Shine +,Face,Blush,Berry 2,299,2023,4.37,1481,442819,903,28,79.2,Lucknow,Nykaa Exclusive,05-06-2025,12-06-2025,Marketplace,4932343,25,2.05,82.8
+P0426,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro HD,Lips,Lip Gloss,Coral 19,699,2021,4.47,2030,1418970,910,35,88.1,Chennai,Influencer Push,16-11-2025,23-11-2025,E-commerce,1446108,15,1.03,78.5
+P0427,Forest Essentials,Forest Essentials Eyeliner Artist Luxe,Eyes,Eyeliner,Rose 5,299,2024,4.14,1537,459563,586,30,83.7,Pune,Festive Sale,08-12-2024,22-12-2024,Retail (Nykaa),667302,25,1.77,77.92
+P0428,Sugar Cosmetics,Sugar Cosmetics Mascara Matte Air,Eyes,Mascara,Mauve 16,1999,2021,4.71,1903,3804097,739,31,72.3,Ahmedabad,Launch Promo,31-05-2024,14-06-2024,Marketplace,372717,0,6.91,88.05
+P0429,Kay Beauty,Kay Beauty Highlighter Prime Luxe,Face,Highlighter,Mauve 12,199,2023,4.35,1572,312828,528,24,85.2,Lucknow,Bogo Offer,28-06-2025,12-07-2025,Retail (Nykaa),1796248,0,5.48,80.99
+P0430,Nykaa Cosmetics,Nykaa Cosmetics Foundation Shine Air,Face,Foundation,Ruby 7,1499,2020,4.31,1791,2684709,612,21,67.8,Hyderabad,Influencer Push,10-12-2023,24-12-2023,Retail (Nykaa),4542060,15,5.87,79.3
+P0431,Sugar Cosmetics,Sugar Cosmetics Mascara Matte Air,Eyes,Mascara,Ruby 18,2499,2023,4.32,1641,4100859,549,30,72.4,Hyderabad,Influencer Push,02-09-2023,16-09-2023,Marketplace,2098980,25,0.82,80.3
+P0432,Mamaearth,Mamaearth Foundation Prime +,Face,Foundation,Spice 12,2999,2021,4.23,1741,5221259,673,28,79.1,Delhi,Influencer Push,20-12-2023,27-12-2023,Social Commerce,4836185,25,1.24,75.94
+P0433,Lakmé,Lakmé Lip Gloss Artist X,Lips,Lip Gloss,Scarlet 16,1499,2022,4.26,1883,2822617,771,23,77.1,Lucknow,Nykaa Exclusive,06-12-2025,20-12-2025,E-commerce,969245,5,4.47,80.06
+P0434,Nykaa Cosmetics,Nykaa Cosmetics Compact Pro HD,Face,Compact,Spice 10,249,2018,4.59,1897,472353,702,25,70.1,Chennai,Nykaa Exclusive,21-01-2024,28-01-2024,E-commerce,1154364,10,6.6,80.02
+P0435,Sugar Cosmetics,Sugar Cosmetics Lip Liner Matte X,Lips,Lip Liner,Nude 16,299,2020,4.25,2116,632684,674,34,63.7,Ahmedabad,Launch Promo,28-03-2025,04-04-2025,E-commerce,1280386,10,2.4,79.04
+P0436,Sugar Cosmetics,Sugar Cosmetics Foundation Artist X,Face,Foundation,Nude 12,399,2023,4.01,1566,624834,466,28,60.4,Mumbai,Seasonal Drop,02-09-2023,17-10-2023,Marketplace,3182538,20,4.02,67.35
+P0437,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Glow X,Lips,Lip Gloss,Scarlet 12,2999,2025,4.45,1760,5278240,829,28,83.1,Ahmedabad,Seasonal Drop,08-07-2023,15-07-2023,E-commerce,1201994,15,5.49,76.47
+P0438,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Matte X,Lips,Lip Crayon,Berry 19,499,2021,4.45,2047,1021453,938,30,87.4,Chennai,Festive Sale,02-07-2023,16-08-2023,Retail (Nykaa),3827170,10,2.37,79.42
+P0439,Nykaa Cosmetics,Nykaa Cosmetics Compact Glow HD,Face,Compact,Peach 6,1699,2021,4.32,1690,2871310,837,22,87.3,Mumbai,Influencer Push,01-09-2025,08-09-2025,E-commerce,4115608,5,1.99,77.23
+P0440,Kay Beauty,Kay Beauty Blush Pro +,Face,Blush,Rose 17,2999,2020,4.03,1757,5269243,709,21,74.5,Bengaluru,Launch Promo,11-07-2024,18-07-2024,Retail (Nykaa),1645374,0,2.96,72.88
+P0441,Lakmé,Lakmé Lip Gloss Artist HD,Lips,Lip Gloss,Peach 8,249,2020,4.38,2044,508956,822,30,85.4,Kolkata,Influencer Push,22-12-2024,29-12-2024,E-commerce,774618,10,4.38,81.31
+P0442,Lakmé,Lakmé Lip Balm Matte Air,Lips,Lip Balm,Berry 14,399,2021,4.54,1989,793611,799,43,67.7,Bengaluru,Nykaa Exclusive,20-07-2023,27-07-2023,Retail (Nykaa),4397005,25,3.65,79.7
+P0443,Mamaearth,Mamaearth Foundation Matte X,Face,Foundation,Coral 8,249,2018,4.27,1906,474594,737,20,80.7,Hyderabad,Seasonal Drop,18-09-2024,02-10-2024,E-commerce,2214112,15,3.27,77.34
+P0444,Lakmé,Lakmé Lipstick Matte +,Lips,Lipstick,Ruby 20,2499,2021,4.25,2071,5175429,706,21,85.5,Hyderabad,Influencer Push,06-08-2024,27-08-2024,Retail (Nykaa),3962443,10,3.26,79.19
+P0445,Kay Beauty,Kay Beauty Lip Gloss Artist Air,Lips,Lip Gloss,Scarlet 6,499,2019,4.04,2205,1100295,678,33,86,Kolkata,Festive Sale,21-08-2023,28-08-2023,Retail (Store),1175239,5,2.56,77.41
+P0446,Sugar Cosmetics,Sugar Cosmetics Eyeliner Shine Luxe,Eyes,Eyeliner,Nude 18,199,2018,4.2,2108,419492,839,34,75.3,Mumbai,Festive Sale,04-06-2023,19-07-2023,Social Commerce,5316924,5,5.05,74.43
+P0447,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Pro +,Eyes,Eyeliner,Scarlet 14,1199,2020,4.07,1952,2340448,582,22,62.7,Lucknow,Bogo Offer,15-04-2023,29-04-2023,E-commerce,2542704,10,2.35,74.89
+P0448,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Pro Luxe,Lips,Lip Balm,Mauve 15,2999,2023,4.5,1878,5632122,550,25,79.7,Ahmedabad,Influencer Push,25-03-2024,09-05-2024,Marketplace,4558432,10,1.24,81.89
+P0449,Sugar Cosmetics,Sugar Cosmetics Highlighter Artist +,Face,Highlighter,Coral 14,849,2024,4.37,1406,1193694,874,27,81.3,Chennai,Festive Sale,02-02-2023,19-03-2023,Retail (Nykaa),1367720,30,1.02,76.9
+P0450,Lakmé,Lakmé Foundation Matte Air,Face,Foundation,Coral 13,249,2018,4.12,1856,462144,530,24,72.1,Pune,Launch Promo,22-07-2024,05-08-2024,Social Commerce,5560735,25,1.62,78.47
+P0451,Mamaearth,Mamaearth Eyeliner Pro Luxe,Eyes,Eyeliner,Ruby 3,499,2023,4.1,1696,846304,517,26,88.7,Ahmedabad,Launch Promo,19-03-2023,02-04-2023,Social Commerce,1970425,15,3.16,77.42
+P0452,Kay Beauty,Kay Beauty Lip Liner Glow HD,Lips,Lip Liner,Nude 14,249,2022,4.24,1997,497253,648,22,85.9,Ahmedabad,Nykaa Exclusive,03-01-2024,17-02-2024,Marketplace,4616074,25,5.08,80.17
+P0453,Kay Beauty,Kay Beauty Contour Matte Luxe,Face,Contour,Coral 10,849,2021,4.77,1686,1431414,604,22,71.9,Jaipur,Influencer Push,20-08-2024,10-09-2024,Retail (Nykaa),922831,20,7.18,82.82
+P0454,Nykaa Cosmetics,Nykaa Cosmetics Compact Matte +,Face,Compact,Scarlet 15,399,2022,4.06,1550,618450,573,33,85.2,Bengaluru,Nykaa Exclusive,20-05-2025,03-06-2025,E-commerce,1646648,25,4.56,72.32
+P0455,Mamaearth,Mamaearth Mascara Artist HD,Eyes,Mascara,Scarlet 11,399,2021,4.56,1826,728574,797,31,80.3,Hyderabad,Launch Promo,28-03-2023,18-04-2023,Social Commerce,4886152,25,4.02,80.09
+P0456,Kay Beauty,Kay Beauty Lip Balm Shine Air,Lips,Lip Balm,Champagne 8,699,2022,3.96,1974,1379826,1062,38,85.2,Pune,Seasonal Drop,29-03-2025,19-04-2025,Marketplace,1803093,10,3.82,70.25
+P0457,Kay Beauty,Kay Beauty Lip Crayon Shine HD,Lips,Lip Crayon,Peach 17,1199,2019,4.4,2249,2696551,1449,30,83.9,Kolkata,Nykaa Exclusive,26-04-2025,10-05-2025,Retail (Nykaa),3350558,5,1.08,77.67
+P0458,Nykaa Cosmetics,Nykaa Cosmetics Contour Pro Air,Face,Contour,Ruby 17,1499,2021,4.58,1691,2534809,617,36,81.2,Chennai,Seasonal Drop,27-01-2023,26-02-2023,E-commerce,2292342,20,4.9,83.26
+P0459,Nykaa Cosmetics,Nykaa Cosmetics Contour Artist Air,Face,Contour,Spice 8,1999,2021,4.54,1652,3302348,483,24,77.8,Jaipur,Influencer Push,12-04-2024,19-04-2024,Marketplace,2274919,30,6.57,79.21
+P0460,Mamaearth,Mamaearth Eyeshadow Glow Luxe,Eyes,Eyeshadow,Scarlet 14,249,2018,4.18,2141,533109,1410,28,75.7,Chennai,Bogo Offer,27-06-2024,11-07-2024,E-commerce,2682728,0,1.73,76.87
+P0461,Mamaearth,Mamaearth Eyeliner Artist Luxe,Eyes,Eyeliner,Spice 20,199,2021,4.24,1805,359195,925,38,86.3,Hyderabad,Influencer Push,23-12-2023,13-01-2024,Retail (Nykaa),2730480,0,2.39,79.06
+P0462,Lakmé,Lakmé Brow Pencil Prime +,Eyes,Brow Pencil,Champagne 1,1499,2020,4.06,2038,3054962,594,31,67.7,Lucknow,Bogo Offer,02-04-2023,02-05-2023,E-commerce,1253652,30,4.3,75.89
+P0463,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Matte +,Lips,Lip Gloss,Rose 12,1699,2022,3.89,1973,3352127,683,24,88,Pune,Influencer Push,06-12-2025,27-12-2025,Retail (Nykaa),4751009,10,3.37,73.03
+P0464,Forest Essentials,Forest Essentials Eyeliner Matte +,Eyes,Eyeliner,Ruby 14,999,2023,4.59,1681,1679319,716,21,62.1,Hyderabad,Launch Promo,27-01-2023,13-03-2023,E-commerce,1239125,20,3.96,84.87
+P0465,Nykaa Cosmetics,Nykaa Cosmetics Kajal Pro HD,Eyes,Kajal,Scarlet 8,2999,2021,4.2,1771,5311229,891,18,81.8,Mumbai,Festive Sale,06-09-2024,21-10-2024,Social Commerce,5229914,10,4.12,73.31
+P0466,Lakmé,Lakmé Lipstick Artist Air,Lips,Lipstick,Nude 7,1699,2022,4.18,1970,3347030,754,29,82.9,Lucknow,Seasonal Drop,03-03-2025,02-04-2025,Retail (Nykaa),2005817,30,2.21,76.28
+P0467,Lakmé,Lakmé Mascara Prime HD,Eyes,Mascara,Ruby 2,799,2022,4.31,1714,1369486,533,29,74.5,Jaipur,Influencer Push,13-01-2023,03-02-2023,Retail (Store),1295359,15,3.18,81.31
+P0468,Kay Beauty,Kay Beauty Mascara Prime +,Eyes,Mascara,Berry 16,199,2023,4.35,1680,334320,897,23,67.8,Kolkata,Bogo Offer,03-06-2023,17-06-2023,Retail (Nykaa),2511666,20,3.21,81.42
+P0469,Nykaa Cosmetics,Nykaa Cosmetics Contour Matte Air,Face,Contour,Mauve 14,249,2021,4.36,1702,423798,877,30,60.3,Pune,Seasonal Drop,06-06-2023,13-06-2023,E-commerce,4443914,0,1.8,76.06
+P0470,Nykaa Cosmetics,Nykaa Cosmetics Foundation Artist +,Face,Foundation,Peach 6,2499,2025,3.87,1359,3396141,834,25,76.2,Jaipur,Nykaa Exclusive,20-05-2024,27-05-2024,E-commerce,4182726,20,2.17,68.63
+P0471,Sugar Cosmetics,Sugar Cosmetics Lip Balm Matte +,Lips,Lip Balm,Coral 4,399,2019,4.43,2245,895755,1201,33,63.2,Lucknow,Bogo Offer,03-02-2024,24-02-2024,Marketplace,3124647,20,1.16,74.75
+P0472,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Prime X,Lips,Lipstick,Nude 5,2499,2022,4.63,2017,5040483,1254,16,78.8,Jaipur,Bogo Offer,11-02-2025,18-02-2025,Retail (Store),2759053,15,3.91,83.53
+P0473,Kay Beauty,Kay Beauty Lipstick Prime Luxe,Lips,Lipstick,Champagne 18,1499,2022,4.28,1983,2972517,626,34,72.2,Lucknow,Bogo Offer,13-05-2024,27-05-2024,E-commerce,2117590,15,3.4,77.23
+P0474,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Artist +,Lips,Lip Balm,Coral 19,2499,2022,4.33,1916,4788084,1086,30,83.8,Hyderabad,Influencer Push,25-10-2025,01-11-2025,Retail (Nykaa),2259021,25,2.06,84.9
+P0475,Sugar Cosmetics,Sugar Cosmetics Eyeliner Pro +,Eyes,Eyeliner,Nude 12,1299,2019,4.92,2004,2603196,745,27,69.7,Mumbai,Bogo Offer,21-10-2024,28-10-2024,E-commerce,5178570,25,3.23,89.9
+P0476,Forest Essentials,Forest Essentials Lip Balm Artist Luxe,Lips,Lip Balm,Mauve 4,1499,2022,3.88,1970,2953030,920,34,61.7,Lucknow,Nykaa Exclusive,14-12-2023,13-01-2024,Retail (Nykaa),1078068,0,3.32,68.77
+P0477,Kay Beauty,Kay Beauty Mascara Prime +,Eyes,Mascara,Berry 2,1499,2022,3.75,1836,2752164,1020,26,77.3,Kolkata,Festive Sale,14-04-2024,21-04-2024,Marketplace,1386930,20,2.09,72.19
+P0478,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Matte X,Lips,Lip Gloss,Peach 12,799,2024,4.28,1690,1350310,841,23,77.9,Ahmedabad,Nykaa Exclusive,07-11-2024,28-11-2024,Social Commerce,3041349,30,3.57,79.45
+P0479,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Prime HD,Lips,Lip Crayon,Scarlet 3,299,2025,4.25,1707,510393,701,26,85.8,Chennai,Bogo Offer,13-01-2023,27-01-2023,E-commerce,3362661,0,4.25,74.71
+P0480,Sugar Cosmetics,Sugar Cosmetics Kajal Glow Air,Eyes,Kajal,Mauve 12,1299,2023,4.28,1772,2301828,881,36,87.7,Pune,Festive Sale,17-03-2025,24-03-2025,E-commerce,2602864,20,1.64,79.93
+P0481,Kay Beauty,Kay Beauty Lip Balm Pro Air,Lips,Lip Balm,Coral 16,999,2021,3.91,2026,2023974,1011,25,68.2,Pune,Bogo Offer,10-06-2024,24-06-2024,E-commerce,541211,5,1.2,66.53
+P0482,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Prime Luxe,Lips,Lip Gloss,Coral 4,849,2023,4.49,1805,1532445,996,29,71.4,Hyderabad,Bogo Offer,20-09-2025,11-10-2025,Retail (Nykaa),3399444,30,5.87,72.4
+P0483,Forest Essentials,Forest Essentials Eyeshadow Glow Luxe,Eyes,Eyeshadow,Ruby 5,399,2020,4.38,1929,769671,1129,30,83.7,Chennai,Festive Sale,09-06-2025,23-06-2025,Social Commerce,5247082,10,1.83,78.49
+P0484,Forest Essentials,Forest Essentials Eyeliner Shine Luxe,Eyes,Eyeliner,Nude 19,1199,2023,4.61,1728,2071872,721,30,68.6,Bengaluru,Seasonal Drop,26-10-2025,25-11-2025,E-commerce,1408499,20,3.53,84.43
+P0485,Lakmé,Lakmé Lip Liner Pro Air,Lips,Lip Liner,Scarlet 17,249,2019,4.19,2285,568965,1154,29,78.6,Delhi,Bogo Offer,23-01-2025,09-03-2025,Marketplace,506451,15,4.89,77.14
+P0486,Mamaearth,Mamaearth Kajal Shine HD,Eyes,Kajal,Mauve 15,199,2023,4.22,1771,352429,523,38,89.3,Kolkata,Seasonal Drop,03-07-2025,10-07-2025,Retail (Nykaa),3003965,10,2.29,80.53
+P0487,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Artist X,Lips,Lip Gloss,Mauve 12,2499,2018,4.01,2355,5885145,767,30,69.1,Chennai,Influencer Push,13-10-2023,20-10-2023,Retail (Store),5150635,30,3.44,71.47
+P0488,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Shine HD,Lips,Lip Balm,Rose 17,2499,2022,4.22,1936,4838064,1186,35,87.5,Hyderabad,Seasonal Drop,07-02-2024,23-03-2024,Retail (Nykaa),2151836,5,3.88,75.65
+P0489,Forest Essentials,Forest Essentials Eyeshadow Glow Air,Eyes,Eyeshadow,Spice 18,299,2018,4.96,2104,629096,1075,28,69.5,Lucknow,Nykaa Exclusive,15-02-2023,22-02-2023,Marketplace,5605487,15,1.34,88.99
+P0490,Kay Beauty,Kay Beauty Lipstick Shine HD,Lips,Lipstick,Ruby 17,1299,2021,4.52,2006,2605794,1046,33,86.4,Chennai,Bogo Offer,02-05-2023,01-06-2023,Retail (Nykaa),1408976,25,3.74,77.55
+P0491,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Artist +,Eyes,Eyeshadow,Coral 19,1699,2025,4.12,1524,2589276,713,18,76.6,Pune,Bogo Offer,30-05-2025,06-06-2025,E-commerce,1803561,0,0.82,77.79
+P0492,Mamaearth,Mamaearth Lip Gloss Pro Luxe,Lips,Lip Gloss,Peach 8,499,2021,4.63,2092,1043908,868,30,78.1,Chennai,Bogo Offer,04-12-2024,18-01-2025,E-commerce,3848771,15,2.09,83.09
+P0493,Kay Beauty,Kay Beauty Highlighter Pro Air,Face,Highlighter,Berry 1,2999,2021,4,1684,5050316,505,27,85.5,Chennai,Influencer Push,31-07-2023,21-08-2023,Marketplace,5115866,0,1.21,72.73
+P0494,Kay Beauty,Kay Beauty Highlighter Glow Luxe,Face,Highlighter,Scarlet 15,699,2023,4.55,1521,1063179,645,24,67.3,Pune,Launch Promo,29-08-2023,12-09-2023,E-commerce,3048280,0,3.82,85.65
+P0495,Nykaa Cosmetics,Nykaa Cosmetics Foundation Artist HD,Face,Foundation,Berry 18,1299,2021,4.06,1654,2148546,613,20,73.1,Lucknow,Festive Sale,03-07-2025,17-08-2025,E-commerce,3561172,15,3.72,77
+P0496,Sugar Cosmetics,Sugar Cosmetics Lip Balm Shine X,Lips,Lip Balm,Scarlet 8,849,2021,4.1,2105,1787145,1117,28,72,Mumbai,Influencer Push,19-03-2023,26-03-2023,Retail (Nykaa),572988,20,3.05,83.68
+P0497,Sugar Cosmetics,Sugar Cosmetics Contour Glow Air,Face,Contour,Mauve 1,1699,2021,4.17,1684,2861116,587,29,71.1,Hyderabad,Influencer Push,27-12-2024,10-02-2025,Retail (Nykaa),4434200,15,2.94,74.11
+P0498,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Pro HD,Lips,Lip Crayon,Scarlet 3,1999,2024,4.54,1700,3398300,1096,28,63,Hyderabad,Seasonal Drop,07-01-2025,21-02-2025,Social Commerce,1290018,0,5.04,81.65
+P0499,Kay Beauty,Kay Beauty Lipstick Shine Air,Lips,Lipstick,Scarlet 10,2499,2024,4.59,1696,4238304,657,26,66.7,Hyderabad,Launch Promo,05-06-2023,20-07-2023,Social Commerce,3117881,10,4.77,78.91
+P0500,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Prime Air,Eyes,Eyeshadow,Berry 18,2499,2019,4.37,2016,5037984,813,27,80.9,Lucknow,Influencer Push,16-10-2024,15-11-2024,Social Commerce,2061706,0,6.14,76.61
+P0501,Lakmé,Lakmé Lip Crayon Prime +,Lips,Lip Crayon,Spice 19,1699,2022,4.05,1977,3358923,688,26,60.5,Delhi,Festive Sale,05-12-2024,19-12-2024,Retail (Store),680348,25,2.77,73.9
+P0502,Mamaearth,Mamaearth Lip Liner Prime Luxe,Lips,Lip Liner,Ruby 4,699,2023,4.06,1844,1288956,785,31,76.4,Lucknow,Launch Promo,01-09-2023,08-09-2023,Retail (Nykaa),4491301,25,1.09,74.77
+P0503,Forest Essentials,Forest Essentials Eyeshadow Shine +,Eyes,Eyeshadow,Spice 6,399,2019,4.56,1986,792414,637,19,75.6,Pune,Nykaa Exclusive,08-02-2023,10-03-2023,Retail (Store),943914,15,7.02,85.38
+P0504,Nykaa Cosmetics,Nykaa Cosmetics Mascara Shine HD,Eyes,Mascara,Coral 15,1699,2018,4.44,2178,3700422,890,26,68.8,Ahmedabad,Influencer Push,30-01-2023,16-03-2023,E-commerce,4786539,30,5.69,82.91
+P0505,Forest Essentials,Forest Essentials Foundation Shine HD,Face,Foundation,Spice 3,299,2024,4.12,1546,462254,503,24,69.6,Mumbai,Festive Sale,18-09-2025,25-09-2025,E-commerce,427833,0,1.15,68.83
+P0506,Lakmé,Lakmé Lip Crayon Artist X,Lips,Lip Crayon,Champagne 6,1499,2023,4.25,1783,2672717,710,27,75.8,Pune,Festive Sale,26-11-2023,17-12-2023,Retail (Nykaa),480916,0,5.16,76.68
+P0507,Lakmé,Lakmé Lipstick Prime HD,Lips,Lipstick,Peach 9,1999,2021,4.54,2132,4261868,1343,28,69.2,Pune,Launch Promo,29-03-2025,19-04-2025,E-commerce,1889846,0,2.49,80.14
+P0508,Kay Beauty,Kay Beauty Kajal Shine +,Eyes,Kajal,Coral 9,599,2018,4.04,2168,1298632,772,30,83.2,Lucknow,Launch Promo,09-09-2025,24-10-2025,Retail (Nykaa),5293198,30,0.94,69.77
+P0509,Nykaa Cosmetics,Nykaa Cosmetics Mascara Artist +,Eyes,Mascara,Berry 18,199,2022,4.1,1727,343673,1045,36,80.9,Delhi,Influencer Push,18-08-2024,01-09-2024,E-commerce,5164620,0,4.06,70.26
+P0510,Sugar Cosmetics,Sugar Cosmetics Blush Shine Air,Face,Blush,Peach 18,399,2020,4.41,1815,724185,540,35,77.7,Bengaluru,Influencer Push,16-06-2024,30-06-2024,E-commerce,4889963,20,1.1,79.23
+P0511,Nykaa Cosmetics,Nykaa Cosmetics Foundation Pro X,Face,Foundation,Coral 15,599,2025,4.1,1386,830214,498,28,73.4,Pune,Festive Sale,22-05-2024,29-05-2024,Retail (Nykaa),4012623,30,1.27,73.59
+P0512,Mamaearth,Mamaearth Lipstick Matte Luxe,Lips,Lipstick,Champagne 5,1299,2024,4.03,1758,2283642,631,33,66.8,Hyderabad,Festive Sale,11-06-2025,11-07-2025,Retail (Store),1554236,5,3.12,73.92
+P0513,Forest Essentials,Forest Essentials Contour Glow HD,Face,Contour,Ruby 4,299,2019,4.19,1797,537303,680,25,66.6,Pune,Influencer Push,04-11-2023,25-11-2023,E-commerce,4447037,25,2.06,78.15
+P0514,Mamaearth,Mamaearth Lip Gloss Artist +,Lips,Lip Gloss,Mauve 18,1699,2023,4.25,1882,3197518,679,25,62.9,Kolkata,Launch Promo,01-12-2023,08-12-2023,Marketplace,425219,30,4.78,79.7
+P0515,Mamaearth,Mamaearth Contour Prime Luxe,Face,Contour,Coral 13,799,2022,4.13,1607,1283993,551,32,74.4,Kolkata,Nykaa Exclusive,01-09-2024,16-10-2024,Retail (Nykaa),5232029,10,2.1,78.85
+P0516,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Pro +,Lips,Lipstick,Rose 20,849,2020,4.41,2084,1769316,709,26,68.9,Chennai,Festive Sale,04-12-2024,11-12-2024,Retail (Nykaa),1926240,5,1.27,78.91
+P0517,Nykaa Cosmetics,Nykaa Cosmetics Mascara Glow HD,Eyes,Mascara,Mauve 5,1499,2019,4.43,1995,2990505,856,27,85.7,Pune,Bogo Offer,31-10-2023,14-11-2023,E-commerce,742000,0,4.24,82.88
+P0518,Mamaearth,Mamaearth Lipstick Artist Luxe,Lips,Lipstick,Mauve 17,1699,2018,4.08,2336,3968864,811,24,64.9,Bengaluru,Bogo Offer,31-03-2023,14-04-2023,Retail (Store),5087767,30,1.75,75.91
+P0519,Sugar Cosmetics,Sugar Cosmetics Lip Balm Artist Luxe,Lips,Lip Balm,Berry 7,849,2021,4.39,1977,1678473,684,19,85,Ahmedabad,Bogo Offer,04-11-2023,19-12-2023,Retail (Nykaa),4943907,30,5.67,76.9
+P0520,Forest Essentials,Forest Essentials Eyeliner Pro Air,Eyes,Eyeliner,Mauve 17,2999,2022,4.15,1830,5488170,574,18,60.8,Pune,Bogo Offer,01-04-2024,01-05-2024,E-commerce,125452,15,1.15,71.96
+P0521,Forest Essentials,Forest Essentials Eyeshadow Shine X,Eyes,Eyeshadow,Scarlet 4,699,2019,4.39,2011,1405689,1211,27,67.3,Jaipur,Nykaa Exclusive,17-06-2023,24-06-2023,E-commerce,5075220,15,5.36,78.27
+P0522,Kay Beauty,Kay Beauty Lipstick Glow Air,Lips,Lipstick,Mauve 2,1699,2020,4.46,2179,3702121,699,28,80,Mumbai,Nykaa Exclusive,17-09-2024,24-09-2024,E-commerce,4190293,15,6.22,75.41
+P0523,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist +,Lips,Lip Crayon,Scarlet 2,699,2024,4.73,1678,1172922,484,26,84.3,Delhi,Festive Sale,14-04-2025,28-04-2025,Retail (Store),2649692,10,4.15,80.39
+P0524,Sugar Cosmetics,Sugar Cosmetics Kajal Glow HD,Eyes,Kajal,Rose 18,1199,2021,4.39,1835,2200165,787,32,65.7,Chennai,Launch Promo,29-11-2025,13-12-2025,Retail (Nykaa),3038585,5,2.01,78.92
+P0525,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Pro Air,Lips,Lip Crayon,Peach 10,1699,2023,4.62,1822,3095578,565,31,70.4,Bengaluru,Launch Promo,25-11-2025,09-12-2025,Retail (Nykaa),2177379,5,7.78,81.17
+P0526,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Glow Air,Lips,Lipstick,Mauve 1,1999,2024,4.54,1776,3550224,900,34,72.7,Ahmedabad,Influencer Push,04-06-2025,25-06-2025,Retail (Nykaa),3075651,30,3.1,79.58
+P0527,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Shine HD,Lips,Lip Crayon,Peach 2,399,2020,4.41,2205,879795,1403,26,84.1,Kolkata,Launch Promo,06-10-2024,20-10-2024,Marketplace,3722299,0,3.62,79.77
+P0528,Kay Beauty,Kay Beauty Foundation Artist X,Face,Foundation,Ruby 7,699,2018,4.32,1963,1372137,913,35,85.2,Kolkata,Festive Sale,11-03-2025,01-04-2025,E-commerce,4600086,15,2.82,79.07
+P0529,Mamaearth,Mamaearth Foundation Artist +,Face,Foundation,Spice 7,2499,2023,4.22,1499,3746001,480,21,76.6,Ahmedabad,Seasonal Drop,18-09-2024,02-11-2024,E-commerce,474388,20,4.1,77.33
+P0530,Forest Essentials,Forest Essentials Mascara Artist X,Eyes,Mascara,Spice 17,1499,2020,4.9,1942,2911058,1065,33,69.5,Jaipur,Bogo Offer,25-10-2025,24-11-2025,Marketplace,4810871,25,9.05,83.93
+P0531,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Glow HD,Lips,Lip Gloss,Nude 9,999,2021,4.8,1966,1964034,1191,27,62.2,Delhi,Seasonal Drop,08-03-2023,15-03-2023,Retail (Nykaa),1883342,0,5.49,88.17
+P0532,Kay Beauty,Kay Beauty Lip Balm Artist X,Lips,Lip Balm,Berry 14,1699,2024,3.93,1680,2854320,523,27,89.1,Pune,Launch Promo,12-04-2025,27-05-2025,Retail (Nykaa),4087849,15,1.53,71.92
+P0533,Mamaearth,Mamaearth Blush Pro Luxe,Face,Blush,Rose 15,999,2021,4.21,1592,1590408,516,36,79.5,Chennai,Festive Sale,05-07-2025,04-08-2025,E-commerce,520944,25,4.59,78.33
+P0534,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Matte Luxe,Lips,Lip Crayon,Spice 7,1299,2023,4.34,1885,2448615,1133,27,72.3,Lucknow,Festive Sale,04-05-2024,25-05-2024,Marketplace,3681155,10,3.16,78.32
+P0535,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Artist HD,Lips,Lip Crayon,Spice 12,249,2024,4.1,1771,440979,563,18,86.4,Ahmedabad,Seasonal Drop,04-02-2024,20-03-2024,E-commerce,1042496,0,4.68,76.61
+P0536,Lakmé,Lakmé Lip Liner Artist HD,Lips,Lip Liner,Scarlet 18,199,2025,4.28,1708,339892,781,35,64.5,Kolkata,Bogo Offer,09-09-2025,30-09-2025,Marketplace,4337098,0,4.1,77.87
+P0537,Sugar Cosmetics,Sugar Cosmetics Foundation Matte X,Face,Foundation,Coral 11,199,2020,4.45,1755,349245,711,28,83.7,Hyderabad,Festive Sale,27-11-2023,04-12-2023,E-commerce,1869688,0,3.89,81.46
+P0538,Kay Beauty,Kay Beauty Lip Crayon Shine Air,Lips,Lip Crayon,Nude 4,2999,2019,4.21,2356,7065644,729,32,60.4,Pune,Launch Promo,03-02-2024,17-02-2024,Retail (Nykaa),1240494,20,2.86,81.95
+P0539,Nykaa Cosmetics,Nykaa Cosmetics Kajal Prime HD,Eyes,Kajal,Rose 10,1299,2019,4.63,2078,2699322,1028,19,76.1,Chennai,Launch Promo,11-11-2023,25-11-2023,Retail (Nykaa),1153549,0,5.05,81.33
+P0540,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Matte Luxe,Eyes,Eyeliner,Coral 17,2499,2019,4.39,2050,5122950,917,27,64.5,Hyderabad,Nykaa Exclusive,21-10-2023,28-10-2023,E-commerce,3165628,15,5.74,81.03
+P0541,Lakmé,Lakmé Lip Balm Prime X,Lips,Lip Balm,Berry 16,1999,2021,4.05,2004,4005996,734,25,87.4,Delhi,Launch Promo,12-09-2025,12-10-2025,Retail (Nykaa),5391040,20,1.8,75.65
+P0542,Mamaearth,Mamaearth Mascara Glow Luxe,Eyes,Mascara,Berry 1,1999,2023,4.4,1758,3514242,630,26,77.8,Bengaluru,Influencer Push,28-03-2023,04-04-2023,E-commerce,1133076,25,4.76,84.04
+P0543,Mamaearth,Mamaearth Lipstick Glow +,Lips,Lipstick,Scarlet 18,2499,2018,4.19,2355,5885145,740,27,77.5,Bengaluru,Influencer Push,12-03-2025,26-03-2025,E-commerce,528328,30,3.75,81.88
+P0544,Nykaa Cosmetics,Nykaa Cosmetics Blush Shine +,Face,Blush,Spice 16,1999,2021,4.36,1639,3276361,710,20,68.9,Bengaluru,Nykaa Exclusive,19-03-2023,03-05-2023,E-commerce,4724810,15,5.76,76.65
+P0545,Forest Essentials,Forest Essentials Highlighter Glow Air,Face,Highlighter,Berry 13,1299,2018,4.17,1938,2517462,911,25,64.5,Kolkata,Bogo Offer,21-05-2025,05-07-2025,E-commerce,612549,0,2.62,75.16
+P0546,Forest Essentials,Forest Essentials Lip Balm Matte Luxe,Lips,Lip Balm,Champagne 19,1999,2020,4.23,2165,4327835,705,33,71.5,Hyderabad,Launch Promo,22-01-2024,12-02-2024,E-commerce,4309371,20,1.03,75.19
+P0547,Mamaearth,Mamaearth Lipstick Glow X,Lips,Lipstick,Ruby 8,849,2021,4.34,1963,1666587,1174,23,71.4,Ahmedabad,Seasonal Drop,31-08-2023,15-10-2023,E-commerce,4156715,30,4.71,80
+P0548,Forest Essentials,Forest Essentials Lip Gloss Prime +,Lips,Lip Gloss,Champagne 7,2499,2021,4.51,2090,5222910,746,40,71.6,Mumbai,Launch Promo,26-09-2025,17-10-2025,Retail (Nykaa),4847092,25,6.57,78.59
+P0549,Sugar Cosmetics,Sugar Cosmetics Lipstick Matte +,Lips,Lipstick,Rose 8,199,2019,4.4,2283,454317,675,22,66.1,Bengaluru,Seasonal Drop,28-12-2025,04-01-2026,E-commerce,1686526,5,4.1,78.79
+P0550,Forest Essentials,Forest Essentials Lipstick Shine Air,Lips,Lipstick,Champagne 9,999,2025,4.23,1620,1618380,1009,31,62.6,Delhi,Festive Sale,06-05-2024,13-05-2024,E-commerce,399502,30,4.85,73.7
+P0551,Nykaa Cosmetics,Nykaa Cosmetics Contour Prime Luxe,Face,Contour,Coral 19,299,2022,4.6,1585,473915,499,34,82.8,Bengaluru,Launch Promo,20-11-2025,04-01-2026,Retail (Nykaa),3007230,10,6.88,86.28
+P0552,Mamaearth,Mamaearth Contour Prime Air,Face,Contour,Nude 16,1999,2021,4.53,1634,3266366,488,22,80.5,Hyderabad,Nykaa Exclusive,28-09-2025,28-10-2025,Social Commerce,3929647,15,1.95,82.89
+P0553,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Glow HD,Lips,Lip Liner,Champagne 16,1199,2023,4.47,1843,2209757,677,32,72.2,Bengaluru,Festive Sale,26-07-2023,09-09-2023,E-commerce,678308,0,5.46,80.1
+P0554,Kay Beauty,Kay Beauty Brow Pencil Matte Luxe,Eyes,Brow Pencil,Champagne 3,299,2019,4.33,1993,595907,1029,33,80.5,Lucknow,Festive Sale,19-08-2025,03-10-2025,Marketplace,4217514,20,3.95,72.73
+P0555,Forest Essentials,Forest Essentials Foundation Pro +,Face,Foundation,Ruby 8,1699,2020,4.41,1798,3054802,582,30,80.1,Pune,Bogo Offer,27-01-2024,10-02-2024,E-commerce,922472,15,3.31,84.05
+P0556,Sugar Cosmetics,Sugar Cosmetics Kajal Pro +,Eyes,Kajal,Scarlet 17,299,2019,4.45,2020,603980,863,27,80.4,Ahmedabad,Influencer Push,08-12-2024,22-01-2025,Retail (Nykaa),4496968,0,6.8,85.57
+P0557,Sugar Cosmetics,Sugar Cosmetics Mascara Artist Air,Eyes,Mascara,Rose 6,499,2021,4.45,1827,911673,812,24,67.3,Hyderabad,Launch Promo,15-11-2024,30-12-2024,Retail (Store),947078,15,6.28,80.35
+P0558,Forest Essentials,Forest Essentials Lip Gloss Matte X,Lips,Lip Gloss,Peach 3,399,2019,4.05,2187,872613,801,24,85.6,Lucknow,Seasonal Drop,28-11-2024,12-12-2024,Retail (Store),3407300,0,4.29,72.1
+P0559,Sugar Cosmetics,Sugar Cosmetics Lip Liner Matte HD,Lips,Lip Liner,Nude 14,999,2020,4.35,2281,2278719,928,35,76.1,Hyderabad,Nykaa Exclusive,23-04-2023,14-05-2023,E-commerce,1937624,15,2.43,80.52
+P0560,Lakmé,Lakmé Lip Balm Shine +,Lips,Lip Balm,Nude 8,799,2021,4.1,1991,1590809,703,31,71.1,Mumbai,Influencer Push,14-10-2023,28-11-2023,Retail (Nykaa),3634087,15,1.49,76.56
+P0561,Nykaa Cosmetics,Nykaa Cosmetics Kajal Matte X,Eyes,Kajal,Coral 17,999,2019,4.15,1959,1957041,843,30,81.5,Hyderabad,Nykaa Exclusive,12-05-2024,11-06-2024,Retail (Nykaa),4908501,25,0.73,75.21
+P0562,Lakmé,Lakmé Blush Shine X,Face,Blush,Ruby 10,799,2024,4.44,1436,1147364,411,15,78.4,Mumbai,Bogo Offer,16-05-2024,30-06-2024,E-commerce,4797525,10,3.04,79.87
+P0563,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Matte X,Lips,Lip Crayon,Champagne 14,499,2018,4.17,2303,1149197,1498,23,82.7,Delhi,Launch Promo,20-02-2023,06-04-2023,Retail (Nykaa),3326293,0,3.43,75.2
+P0564,Lakmé,Lakmé Lipstick Prime Luxe,Lips,Lipstick,Spice 9,1999,2018,3.84,2284,4565716,1156,36,78.7,Delhi,Launch Promo,22-05-2025,06-07-2025,Social Commerce,1919338,30,2.42,70.33
+P0565,Kay Beauty,Kay Beauty Eyeliner Glow X,Eyes,Eyeliner,Coral 19,799,2024,4.25,1652,1319948,778,24,83.4,Chennai,Seasonal Drop,03-11-2025,24-11-2025,Marketplace,4774689,0,0.93,77.31
+P0566,Kay Beauty,Kay Beauty Compact Glow Luxe,Face,Compact,Berry 10,2499,2023,4.37,1539,3845961,481,25,69.6,Jaipur,Seasonal Drop,22-12-2025,21-01-2026,Marketplace,3070490,25,6.16,78.72
+P0567,Mamaearth,Mamaearth Eyeshadow Artist HD,Eyes,Eyeshadow,Coral 2,199,2022,4.26,1742,346658,862,19,82.6,Bengaluru,Festive Sale,22-11-2025,22-12-2025,E-commerce,3435974,30,4.96,83.27
+P0568,Kay Beauty,Kay Beauty Mascara Artist Air,Eyes,Mascara,Mauve 8,299,2022,4.06,1739,519961,553,32,68.6,Delhi,Launch Promo,18-04-2024,02-06-2024,Retail (Nykaa),3274243,15,4.22,72.63
+P0569,Forest Essentials,Forest Essentials Lipstick Pro +,Lips,Lipstick,Coral 4,1999,2023,4.55,1948,3894052,1059,30,74.5,Pune,Bogo Offer,01-02-2025,22-02-2025,E-commerce,3967157,15,2.78,83.05
+P0570,Forest Essentials,Forest Essentials Foundation Shine Air,Face,Foundation,Nude 13,399,2021,4.38,1719,685881,764,34,60.5,Jaipur,Bogo Offer,18-03-2023,25-03-2023,E-commerce,2889639,0,3.32,80.09
+P0571,Lakmé,Lakmé Kajal Artist Luxe,Eyes,Kajal,Mauve 8,299,2024,4.41,1656,495144,744,23,65.1,Ahmedabad,Influencer Push,24-10-2024,08-12-2024,Retail (Nykaa),1014016,15,3.27,77.42
+P0572,Nykaa Cosmetics,Nykaa Cosmetics Compact Pro X,Face,Compact,Ruby 15,299,2018,4.24,1876,560924,1009,28,77.8,Chennai,Festive Sale,02-11-2025,16-11-2025,Retail (Nykaa),2539646,10,4.87,74.07
+P0573,Mamaearth,Mamaearth Lip Balm Glow HD,Lips,Lip Balm,Scarlet 13,499,2021,4.28,2046,1020954,1037,27,88.1,Lucknow,Seasonal Drop,16-01-2025,06-02-2025,E-commerce,492643,15,3.63,71.77
+P0574,Forest Essentials,Forest Essentials Lip Balm Pro Luxe,Lips,Lip Balm,Spice 1,699,2021,4.33,2134,1491666,670,28,80.3,Delhi,Launch Promo,26-10-2025,09-11-2025,Retail (Nykaa),1766911,20,5.32,79.06
+P0575,Kay Beauty,Kay Beauty Brow Pencil Prime +,Eyes,Brow Pencil,Coral 10,849,2021,4.18,1891,1605459,926,20,61.4,Hyderabad,Festive Sale,25-06-2024,02-07-2024,E-commerce,2399462,15,1.95,80.92
+P0576,Kay Beauty,Kay Beauty Lip Crayon Artist X,Lips,Lip Crayon,Coral 8,499,2022,4.12,1921,958579,721,36,73.2,Bengaluru,Festive Sale,16-03-2025,15-04-2025,Social Commerce,349589,30,1.2,75.34
+P0577,Kay Beauty,Kay Beauty Highlighter Glow +,Face,Highlighter,Champagne 4,599,2025,4.18,1312,785888,448,23,69.5,Chennai,Influencer Push,07-03-2025,28-03-2025,E-commerce,1939989,10,4.32,77.69
+P0578,Forest Essentials,Forest Essentials Eyeshadow Pro +,Eyes,Eyeshadow,Coral 19,799,2023,4.52,1696,1355104,604,26,85.1,Bengaluru,Festive Sale,04-04-2025,11-04-2025,E-commerce,2837644,25,4.88,83.7
+P0579,Mamaearth,Mamaearth Compact Shine HD,Face,Compact,Berry 16,399,2020,4.26,1694,675906,571,23,80.5,Bengaluru,Nykaa Exclusive,30-12-2024,13-02-2025,E-commerce,1883952,15,1.99,80.6
+P0580,Forest Essentials,Forest Essentials Lip Gloss Pro X,Lips,Lip Gloss,Mauve 13,2499,2020,4.42,2127,5315373,671,27,80.4,Chennai,Nykaa Exclusive,08-11-2025,22-11-2025,E-commerce,2431562,15,6.14,79.85
+P0581,Forest Essentials,Forest Essentials Contour Matte X,Face,Contour,Champagne 20,499,2025,4.2,1323,660177,598,31,71.2,Bengaluru,Bogo Offer,13-11-2025,28-12-2025,Retail (Store),112776,15,3.47,80.52
+P0582,Kay Beauty,Kay Beauty Mascara Pro X,Eyes,Mascara,Scarlet 2,599,2022,4.35,1806,1081794,991,25,73.4,Bengaluru,Influencer Push,19-03-2024,02-04-2024,Retail (Nykaa),1008711,0,2.64,83.92
+P0583,Mamaearth,Mamaearth Eyeliner Shine Luxe,Eyes,Eyeliner,Nude 9,999,2023,4.65,1668,1666332,613,24,80.6,Hyderabad,Influencer Push,08-04-2023,15-04-2023,Social Commerce,1042326,25,1.93,80.94
+P0584,Sugar Cosmetics,Sugar Cosmetics Foundation Glow Air,Face,Foundation,Peach 2,399,2023,4.28,1498,597702,838,31,76.8,Delhi,Bogo Offer,05-07-2025,19-08-2025,E-commerce,4995793,5,4.75,74.53
+P0585,Mamaearth,Mamaearth Contour Glow +,Face,Contour,Mauve 5,599,2018,4.46,1967,1178233,634,34,79.4,Mumbai,Influencer Push,27-02-2024,19-03-2024,E-commerce,2463930,25,1.04,79.41
+P0586,Mamaearth,Mamaearth Lipstick Prime +,Lips,Lipstick,Berry 2,1699,2021,4.02,2027,3443873,1077,28,65.8,Jaipur,Nykaa Exclusive,06-10-2025,27-10-2025,Retail (Store),5355058,15,3.13,77.37
+P0587,Mamaearth,Mamaearth Kajal Artist Air,Eyes,Kajal,Coral 9,699,2023,4.46,1611,1126089,552,27,66.8,Kolkata,Nykaa Exclusive,20-11-2023,04-12-2023,Retail (Nykaa),3502197,30,5.07,77.37
+P0588,Nykaa Cosmetics,Nykaa Cosmetics Contour Matte Air,Face,Contour,Scarlet 2,799,2024,4.15,1403,1120997,604,25,85.7,Chennai,Influencer Push,29-07-2024,28-08-2024,E-commerce,5055775,10,1.26,74.39
+P0589,Lakmé,Lakmé Contour Pro +,Face,Contour,Peach 7,599,2024,4.47,1439,861961,447,22,63,Bengaluru,Launch Promo,23-03-2023,30-03-2023,E-commerce,4115043,10,2.09,79.43
+P0590,Lakmé,Lakmé Lip Balm Artist Air,Lips,Lip Balm,Mauve 12,1199,2023,4.35,1961,2351239,977,27,81.6,Kolkata,Nykaa Exclusive,09-08-2024,08-09-2024,Retail (Store),1707655,10,6.13,81.07
+P0591,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Matte +,Lips,Lip Gloss,Coral 2,199,2021,4.38,2061,410139,1276,24,79.2,Chennai,Launch Promo,03-12-2024,10-12-2024,E-commerce,2109195,20,2.15,84.37
+P0592,Forest Essentials,Forest Essentials Compact Shine Luxe,Face,Compact,Rose 20,799,2021,3.78,1671,1335129,523,22,72.2,Hyderabad,Influencer Push,31-07-2025,07-08-2025,E-commerce,867811,20,2.03,77
+P0593,Nykaa Cosmetics,Nykaa Cosmetics Mascara Glow +,Eyes,Mascara,Peach 11,1499,2021,4.5,1879,2816621,639,38,79.3,Chennai,Seasonal Drop,16-04-2024,16-05-2024,E-commerce,4728006,5,4.65,87.79
+P0594,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Glow X,Lips,Lip Crayon,Spice 13,399,2022,4.74,1942,774858,813,30,85.8,Delhi,Launch Promo,09-02-2025,16-02-2025,Retail (Store),3302921,0,5.81,84.12
+P0595,Mamaearth,Mamaearth Mascara Prime HD,Eyes,Mascara,Rose 2,699,2022,4.16,1779,1243521,854,30,83.8,Hyderabad,Influencer Push,26-08-2023,09-09-2023,Retail (Nykaa),2681890,25,2.21,80.36
+P0596,Sugar Cosmetics,Sugar Cosmetics Foundation Glow HD,Face,Foundation,Spice 8,249,2022,4.15,1630,405870,904,26,65.7,Delhi,Nykaa Exclusive,09-06-2025,09-07-2025,E-commerce,545775,10,3.99,76.65
+P0597,Forest Essentials,Forest Essentials Lip Liner Shine Air,Lips,Lip Liner,Champagne 14,299,2020,4.24,2074,620126,1153,22,79.7,Jaipur,Bogo Offer,20-09-2023,04-10-2023,E-commerce,2532698,25,1.39,80.07
+P0598,Lakmé,Lakmé Lipstick Glow +,Lips,Lipstick,Mauve 18,199,2019,3.85,2241,445959,734,20,85.8,Hyderabad,Seasonal Drop,15-05-2023,29-06-2023,Retail (Nykaa),4580389,20,2.74,69.53
+P0599,Sugar Cosmetics,Sugar Cosmetics Lip Balm Pro Luxe,Lips,Lip Balm,Nude 17,249,2024,4.13,1721,428529,730,23,84.6,Jaipur,Nykaa Exclusive,15-06-2025,30-07-2025,Retail (Nykaa),1355519,5,3.38,77.07
+P0600,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Matte +,Lips,Lip Liner,Coral 2,299,2024,4.38,1761,526539,536,24,75.8,Delhi,Nykaa Exclusive,25-12-2025,15-01-2026,E-commerce,3046016,5,2.32,74.13
+P0601,Lakmé,Lakmé Lip Gloss Artist Luxe,Lips,Lip Gloss,Champagne 4,2499,2021,3.94,2043,5105457,1301,30,74.1,Bengaluru,Launch Promo,27-12-2024,26-01-2025,Retail (Nykaa),3662996,10,0.9,73.93
+P0602,Kay Beauty,Kay Beauty Lip Liner Glow X,Lips,Lip Liner,Coral 7,699,2019,4.2,2278,1592322,889,29,62.9,Bengaluru,Launch Promo,04-07-2025,11-07-2025,E-commerce,2908208,15,4.53,77.42
+P0603,Forest Essentials,Forest Essentials Lip Gloss Glow Air,Lips,Lip Gloss,Peach 12,1499,2023,4.56,1912,2866088,1170,21,75.5,Bengaluru,Seasonal Drop,13-08-2025,03-09-2025,Retail (Nykaa),3439764,0,2.67,83.02
+P0604,Mamaearth,Mamaearth Lip Liner Artist +,Lips,Lip Liner,Rose 16,399,2022,4.45,1974,787626,1130,31,78.6,Ahmedabad,Influencer Push,20-08-2023,10-09-2023,Marketplace,294294,25,2.3,78.96
+P0605,Mamaearth,Mamaearth Brow Pencil Matte X,Eyes,Brow Pencil,Nude 9,499,2023,4.02,1762,879238,1031,20,70.3,Pune,Bogo Offer,11-10-2024,25-11-2024,E-commerce,287404,25,2.79,76.4
+P0606,Lakmé,Lakmé Compact Glow HD,Face,Compact,Champagne 4,2499,2024,4.23,1463,3656037,430,34,82.3,Mumbai,Festive Sale,07-01-2024,14-01-2024,Social Commerce,3615090,0,1.31,72.93
+P0607,Forest Essentials,Forest Essentials Lipstick Glow Air,Lips,Lipstick,Champagne 10,1199,2022,4.49,1986,2381214,1040,32,76.4,Jaipur,Influencer Push,21-08-2023,11-09-2023,E-commerce,3220770,5,1.01,80.64
+P0608,Forest Essentials,Forest Essentials Lip Gloss Pro HD,Lips,Lip Gloss,Scarlet 15,799,2019,4.26,2157,1723443,802,25,85.9,Hyderabad,Bogo Offer,10-01-2023,09-02-2023,Marketplace,2871458,5,3.76,74.67
+P0609,Lakmé,Lakmé Lip Balm Pro Luxe,Lips,Lip Balm,Nude 18,1499,2024,4.51,1716,2572284,506,24,60.6,Lucknow,Seasonal Drop,05-03-2024,19-04-2024,E-commerce,3061137,15,4.08,77.55
+P0610,Mamaearth,Mamaearth Lipstick Prime HD,Lips,Lipstick,Peach 19,999,2020,4.31,2116,2113884,787,27,60.5,Hyderabad,Festive Sale,29-01-2023,12-02-2023,Retail (Nykaa),506802,0,2.58,79.04
+P0611,Forest Essentials,Forest Essentials Lipstick Shine X,Lips,Lipstick,Peach 13,199,2022,4.43,1944,386856,840,25,89.5,Jaipur,Festive Sale,01-03-2023,15-04-2023,E-commerce,2961688,25,2.67,79.73
+P0612,Kay Beauty,Kay Beauty Lip Balm Matte +,Lips,Lip Balm,Peach 18,2999,2022,3.97,1959,5875041,910,21,84,Lucknow,Seasonal Drop,24-08-2024,07-09-2024,E-commerce,3867338,15,0.92,74.3
+P0613,Mamaearth,Mamaearth Eyeliner Pro +,Eyes,Eyeliner,Scarlet 16,799,2023,4.42,1743,1392657,586,36,68.7,Bengaluru,Nykaa Exclusive,25-01-2024,10-03-2024,E-commerce,3372814,0,2.66,71.99
+P0614,Mamaearth,Mamaearth Highlighter Shine +,Face,Highlighter,Spice 2,199,2022,4.18,1577,313823,712,33,80.7,Mumbai,Bogo Offer,18-06-2025,25-06-2025,Retail (Nykaa),1589660,5,4.18,78.88
+P0615,Forest Essentials,Forest Essentials Lip Liner Glow Luxe,Lips,Lip Liner,Coral 6,499,2021,4.87,2070,1032930,1161,28,64.7,Kolkata,Launch Promo,17-12-2025,24-12-2025,Retail (Store),1802101,25,8.05,90.78
+P0616,Kay Beauty,Kay Beauty Lip Balm Prime HD,Lips,Lip Balm,Rose 18,2999,2021,4.61,2158,6471842,981,25,75.6,Ahmedabad,Launch Promo,14-12-2025,13-01-2026,Retail (Nykaa),5288560,10,4.17,82.21
+P0617,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Shine Luxe,Eyes,Eyeliner,Rose 7,2999,2021,4.76,1781,5341219,651,26,67,Chennai,Launch Promo,20-05-2023,03-06-2023,E-commerce,1465785,5,4.24,81.78
+P0618,Sugar Cosmetics,Sugar Cosmetics Lipstick Glow Air,Lips,Lipstick,Ruby 17,2999,2025,4.32,1667,4999333,617,33,81.1,Bengaluru,Bogo Offer,04-06-2023,19-07-2023,Social Commerce,4650171,30,5.8,81.78
+P0619,Lakmé,Lakmé Contour Matte Luxe,Face,Contour,Spice 9,299,2019,4.77,1785,533715,759,24,86.7,Hyderabad,Bogo Offer,16-12-2024,06-01-2025,E-commerce,1697982,20,3.3,90.61
+P0620,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Glow Air,Lips,Lip Crayon,Nude 17,1499,2019,4.38,2219,3326281,1163,27,83.9,Chennai,Influencer Push,01-01-2023,08-01-2023,Retail (Nykaa),2578632,20,1.26,75.83
+P0621,Kay Beauty,Kay Beauty Foundation Matte HD,Face,Foundation,Scarlet 15,699,2021,4.35,1698,1186902,1070,20,72.8,Mumbai,Festive Sale,03-10-2024,17-11-2024,Retail (Nykaa),879939,0,1.96,76.61
+P0622,Forest Essentials,Forest Essentials Mascara Artist HD,Eyes,Mascara,Berry 19,399,2023,4.12,1561,622839,500,27,85.2,Ahmedabad,Launch Promo,25-10-2024,08-11-2024,E-commerce,778117,0,1.68,76.53
+P0623,Sugar Cosmetics,Sugar Cosmetics Foundation Matte +,Face,Foundation,Berry 16,199,2022,4.7,1583,315017,547,31,83.1,Jaipur,Nykaa Exclusive,05-12-2023,12-12-2023,E-commerce,3128751,10,1.28,85.59
+P0624,Lakmé,Lakmé Lipstick Glow HD,Lips,Lipstick,Peach 5,1199,2023,4.9,1850,2218150,587,30,69.1,Mumbai,Launch Promo,25-02-2025,11-04-2025,E-commerce,4331250,25,8.06,90.08
+P0625,Kay Beauty,Kay Beauty Lip Crayon Artist HD,Lips,Lip Crayon,Berry 16,699,2018,4.2,2258,1578342,651,29,67.3,Kolkata,Launch Promo,06-03-2023,13-03-2023,Retail (Nykaa),1272968,5,2.74,74.66
+P0626,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Shine Air,Lips,Lip Balm,Nude 16,849,2019,4.72,2304,1956096,881,25,74.8,Kolkata,Bogo Offer,20-12-2025,10-01-2026,Retail (Nykaa),1124171,10,3.64,83
+P0627,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Prime HD,Lips,Lipstick,Nude 11,1199,2021,4.11,1981,2375219,901,19,72,Ahmedabad,Nykaa Exclusive,01-02-2023,08-02-2023,E-commerce,2612253,30,2.22,72.08
+P0628,Kay Beauty,Kay Beauty Mascara Shine +,Eyes,Mascara,Champagne 7,2499,2021,4.18,1832,4578168,686,29,89.8,Mumbai,Seasonal Drop,09-02-2025,23-02-2025,E-commerce,4369535,0,2.62,75.84
+P0629,Forest Essentials,Forest Essentials Lip Gloss Prime Luxe,Lips,Lip Gloss,Scarlet 3,499,2021,4.14,2114,1054886,1090,22,62.2,Pune,Bogo Offer,11-09-2025,25-09-2025,Marketplace,3486825,20,3.95,75.97
+P0630,Forest Essentials,Forest Essentials Eyeshadow Pro HD,Eyes,Eyeshadow,Champagne 17,1199,2020,4.26,1849,2216951,574,25,87.3,Lucknow,Bogo Offer,21-09-2024,05-11-2024,E-commerce,2129656,10,2.9,76.44
+P0631,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Matte HD,Lips,Lip Balm,Peach 20,699,2019,4.61,2266,1583934,1156,31,79.4,Bengaluru,Bogo Offer,25-03-2025,08-04-2025,E-commerce,2992526,15,4.91,79.49
+P0632,Kay Beauty,Kay Beauty Foundation Matte +,Face,Foundation,Mauve 18,1299,2021,4.56,1677,2178423,1059,26,74,Ahmedabad,Seasonal Drop,29-07-2023,28-08-2023,Retail (Nykaa),1499996,10,3.54,82.39
+P0633,Nykaa Cosmetics,Nykaa Cosmetics Contour Artist Luxe,Face,Contour,Spice 8,199,2019,4.28,1717,341683,734,20,83.4,Bengaluru,Seasonal Drop,24-04-2023,01-05-2023,Retail (Store),5571208,25,3.62,81.66
+P0634,Lakmé,Lakmé Lipstick Shine HD,Lips,Lipstick,Rose 20,2499,2018,4.29,2304,5757696,913,31,60.3,Hyderabad,Influencer Push,19-12-2025,18-01-2026,Retail (Nykaa),5058889,5,2.75,86.43
+P0635,Mamaearth,Mamaearth Lip Crayon Matte Air,Lips,Lip Crayon,Nude 2,199,2018,3.97,2283,454317,861,33,69.5,Chennai,Bogo Offer,04-07-2024,18-07-2024,E-commerce,1483424,20,0.6,71.57
+P0636,Mamaearth,Mamaearth Contour Shine +,Face,Contour,Peach 16,1999,2019,3.95,1814,3626186,615,15,73.3,Bengaluru,Nykaa Exclusive,03-12-2025,02-01-2026,Retail (Nykaa),864422,15,1.01,80.67
+P0637,Nykaa Cosmetics,Nykaa Cosmetics Mascara Prime +,Eyes,Mascara,Berry 1,1999,2019,4.17,2109,4215891,1365,35,81.5,Mumbai,Seasonal Drop,18-12-2024,08-01-2025,E-commerce,3819845,20,5.03,75.63
+P0638,Nykaa Cosmetics,Nykaa Cosmetics Brow Pencil Artist Air,Eyes,Brow Pencil,Berry 7,699,2020,4.03,1960,1370040,780,19,68.1,Mumbai,Seasonal Drop,10-09-2024,25-10-2024,Retail (Store),2981926,15,4.33,81.98
+P0639,Forest Essentials,Forest Essentials Highlighter Prime Air,Face,Highlighter,Mauve 2,2499,2022,4.54,1544,3858456,600,22,76.7,Mumbai,Bogo Offer,12-10-2023,19-10-2023,Retail (Nykaa),2918210,0,1.39,83.96
+P0640,Forest Essentials,Forest Essentials Mascara Prime Luxe,Eyes,Mascara,Ruby 15,1999,2024,4.23,1600,3198400,644,26,64.8,Delhi,Bogo Offer,21-03-2023,04-04-2023,Retail (Store),227075,15,5.02,79.15
+P0641,Mamaearth,Mamaearth Brow Pencil Glow HD,Eyes,Brow Pencil,Coral 14,699,2022,4.27,1819,1271481,612,31,88.1,Lucknow,Nykaa Exclusive,13-11-2025,04-12-2025,E-commerce,5003710,25,3.42,72.13
+P0642,Kay Beauty,Kay Beauty Lip Liner Artist HD,Lips,Lip Liner,Scarlet 4,1199,2025,4.39,1636,1961564,838,30,83.4,Chennai,Bogo Offer,25-04-2024,09-05-2024,Retail (Nykaa),742082,5,4.7,75.83
+P0643,Mamaearth,Mamaearth Eyeshadow Prime Luxe,Eyes,Eyeshadow,Ruby 13,699,2024,4.55,1553,1085547,493,23,84.5,Jaipur,Launch Promo,21-12-2025,20-01-2026,Retail (Nykaa),2525387,25,2.93,81.45
+P0644,Forest Essentials,Forest Essentials Blush Shine Luxe,Face,Blush,Mauve 3,249,2021,4.49,1637,407613,834,34,83.6,Bengaluru,Bogo Offer,14-07-2023,04-08-2023,Retail (Nykaa),463607,20,5.3,81.99
+P0645,Forest Essentials,Forest Essentials Lip Crayon Artist Air,Lips,Lip Crayon,Rose 5,1699,2021,4.21,2029,3447271,1125,30,68.7,Delhi,Festive Sale,05-08-2024,26-08-2024,Retail (Store),225164,15,1.91,78.74
+P0646,Nykaa Cosmetics,Nykaa Cosmetics Blush Pro X,Face,Blush,Champagne 4,399,2021,4.18,1663,663537,700,29,74,Mumbai,Launch Promo,18-12-2023,08-01-2024,E-commerce,1860650,10,3.39,77.91
+P0647,Mamaearth,Mamaearth Lip Liner Shine Luxe,Lips,Lip Liner,Rose 11,799,2018,4.4,2302,1839298,1331,18,88.3,Bengaluru,Festive Sale,07-03-2025,21-03-2025,Retail (Store),1489202,20,2.73,86.47
+P0648,Mamaearth,Mamaearth Contour Artist Luxe,Face,Contour,Peach 14,999,2021,4.33,1616,1614384,921,42,70.1,Mumbai,Seasonal Drop,23-02-2023,25-03-2023,Social Commerce,2049467,20,3.42,78.85
+P0649,Kay Beauty,Kay Beauty Blush Pro X,Face,Blush,Peach 5,699,2020,4.02,1794,1254006,668,29,81.5,Ahmedabad,Nykaa Exclusive,18-10-2025,17-11-2025,E-commerce,2822273,20,3.86,73.34
+P0650,Forest Essentials,Forest Essentials Eyeshadow Shine X,Eyes,Eyeshadow,Mauve 20,199,2024,4.09,1621,322579,739,29,85.6,Bengaluru,Launch Promo,27-08-2023,11-10-2023,Retail (Nykaa),2655024,15,4.09,77.39
+P0651,Kay Beauty,Kay Beauty Contour Pro X,Face,Contour,Rose 3,799,2022,4.35,1579,1261621,489,21,65.9,Lucknow,Seasonal Drop,21-08-2024,11-09-2024,E-commerce,3591642,30,5.04,78.31
+P0652,Kay Beauty,Kay Beauty Foundation Glow X,Face,Foundation,Scarlet 1,849,2023,4.28,1496,1270104,446,28,69.4,Delhi,Influencer Push,10-03-2025,24-03-2025,E-commerce,3393171,30,0.99,74.74
+P0653,Nykaa Cosmetics,Nykaa Cosmetics Kajal Glow X,Eyes,Kajal,Ruby 7,199,2024,4.45,1510,300490,534,23,83,Hyderabad,Influencer Push,24-01-2025,23-02-2025,E-commerce,4551765,10,5.37,81.37
+P0654,Lakmé,Lakmé Kajal Artist HD,Eyes,Kajal,Scarlet 5,1499,2023,4.08,1678,2515322,745,23,80.5,Bengaluru,Festive Sale,25-12-2023,24-01-2024,E-commerce,4698390,0,4.21,74.84
+P0655,Kay Beauty,Kay Beauty Eyeliner Artist Luxe,Eyes,Eyeliner,Coral 4,2499,2019,4.83,2056,5137944,1244,20,79.7,Hyderabad,Nykaa Exclusive,21-11-2025,21-12-2025,Retail (Nykaa),3786208,0,4.93,89.75
+P0656,Sugar Cosmetics,Sugar Cosmetics Eyeliner Matte X,Eyes,Eyeliner,Spice 11,599,2018,4.34,2127,1274073,1051,27,85.9,Mumbai,Launch Promo,17-01-2024,02-03-2024,Retail (Nykaa),313277,15,4.13,81.53
+P0657,Kay Beauty,Kay Beauty Mascara Glow X,Eyes,Mascara,Ruby 1,799,2024,4.28,1608,1284792,696,29,69.5,Lucknow,Festive Sale,26-04-2024,10-06-2024,Marketplace,3658141,10,4.35,78.76
+P0658,Lakmé,Lakmé Compact Glow Luxe,Face,Compact,Champagne 15,1699,2020,4.14,1767,3002133,815,34,73.5,Hyderabad,Festive Sale,07-02-2024,23-03-2024,E-commerce,4794848,10,2.2,68.18
+P0659,Nykaa Cosmetics,Nykaa Cosmetics Mascara Prime HD,Eyes,Mascara,Peach 15,399,2022,4.17,1772,707028,922,24,62.6,Delhi,Festive Sale,06-09-2024,13-09-2024,Retail (Nykaa),5191721,0,1.98,73.88
+P0660,Kay Beauty,Kay Beauty Contour Matte Luxe,Face,Contour,Coral 7,1199,2020,4.09,1753,2101847,567,25,62.7,Ahmedabad,Influencer Push,29-08-2023,13-10-2023,E-commerce,4454622,5,1.83,76.19
+P0661,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Shine Luxe,Lips,Lip Liner,Champagne 15,849,2025,4.2,1696,1439904,905,23,78.6,Ahmedabad,Nykaa Exclusive,08-01-2023,22-01-2023,Marketplace,4897516,20,5.35,76.06
+P0662,Mamaearth,Mamaearth Brow Pencil Matte X,Eyes,Brow Pencil,Mauve 16,2999,2021,4.53,1804,5410196,676,32,89,Pune,Nykaa Exclusive,09-03-2024,16-03-2024,Retail (Nykaa),787346,10,5.16,77
+P0663,Forest Essentials,Forest Essentials Kajal Matte X,Eyes,Kajal,Spice 11,599,2018,3.9,2172,1301028,878,34,72.2,Kolkata,Launch Promo,05-06-2024,20-07-2024,Marketplace,4851083,30,1.88,77.7
+P0664,Kay Beauty,Kay Beauty Kajal Pro X,Eyes,Kajal,Peach 4,199,2023,4.36,1657,329743,502,30,71.8,Lucknow,Influencer Push,05-08-2023,12-08-2023,E-commerce,3435960,0,4.18,75.18
+P0665,Lakmé,Lakmé Mascara Prime Air,Eyes,Mascara,Rose 16,299,2019,4.49,2052,613548,685,24,61.5,Ahmedabad,Festive Sale,29-08-2023,28-09-2023,Retail (Nykaa),1037431,30,3.97,86.44
+P0666,Mamaearth,Mamaearth Lipstick Glow X,Lips,Lipstick,Ruby 15,1299,2021,4.48,2019,2622681,1119,28,73.5,Mumbai,Seasonal Drop,25-10-2024,01-11-2024,E-commerce,3417001,15,4.22,82
+P0667,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Glow X,Lips,Lipstick,Coral 15,599,2020,4.18,2140,1281860,1038,29,85.1,Kolkata,Launch Promo,11-10-2024,01-11-2024,Retail (Store),4583473,5,4.77,73.27
+P0668,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Shine X,Lips,Lip Balm,Rose 8,999,2022,4.47,1914,1912086,832,27,66.5,Mumbai,Festive Sale,23-06-2023,07-07-2023,Retail (Nykaa),1311781,10,6.14,85.44
+P0669,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Artist X,Lips,Lip Crayon,Mauve 15,799,2019,4.21,2227,1779373,1012,27,83.7,Kolkata,Seasonal Drop,05-04-2024,05-05-2024,Retail (Nykaa),1010438,0,3.87,77.14
+P0670,Kay Beauty,Kay Beauty Contour Pro Air,Face,Contour,Champagne 8,2999,2021,4.52,1679,5035321,509,37,77.4,Pune,Bogo Offer,13-07-2024,20-07-2024,E-commerce,5184769,30,1.05,80.56
+P0671,Sugar Cosmetics,Sugar Cosmetics Mascara Pro +,Eyes,Mascara,Spice 1,599,2024,4.13,1555,931445,535,25,83.1,Bengaluru,Influencer Push,12-11-2025,19-11-2025,Social Commerce,3293348,25,3.38,77.53
+P0672,Nykaa Cosmetics,Nykaa Cosmetics Mascara Artist Luxe,Eyes,Mascara,Mauve 17,249,2024,4.43,1570,390930,551,23,71.6,Mumbai,Seasonal Drop,16-04-2023,23-04-2023,E-commerce,2792015,30,4.08,79.86
+P0673,Forest Essentials,Forest Essentials Lipstick Matte Luxe,Lips,Lipstick,Scarlet 13,799,2020,4.53,2132,1703468,1082,20,62.2,Kolkata,Seasonal Drop,04-01-2024,18-02-2024,Retail (Nykaa),1357314,15,6.02,86.09
+P0674,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Prime X,Eyes,Eyeliner,Berry 18,1199,2018,3.96,2193,2629407,1245,31,75.8,Chennai,Influencer Push,01-08-2025,08-08-2025,Retail (Nykaa),1261555,5,1.05,76.37
+P0675,Forest Essentials,Forest Essentials Mascara Artist Air,Eyes,Mascara,Berry 3,199,2022,3.98,1768,351832,1037,31,61.9,Bengaluru,Influencer Push,08-07-2024,22-08-2024,E-commerce,3945743,20,1.26,73.28
+P0676,Mamaearth,Mamaearth Blush Artist +,Face,Blush,Berry 3,1699,2021,3.81,1730,2939270,531,25,77.3,Hyderabad,Launch Promo,12-07-2025,11-08-2025,Retail (Store),5094446,10,0.96,69.54
+P0677,Kay Beauty,Kay Beauty Blush Pro Air,Face,Blush,Coral 4,2999,2018,4.14,1899,5695101,695,28,72.8,Mumbai,Launch Promo,27-05-2024,10-06-2024,Retail (Store),1239729,5,4.89,79.88
+P0678,Lakmé,Lakmé Lip Gloss Shine X,Lips,Lip Gloss,Scarlet 18,599,2021,4.4,2115,1266885,815,18,85.3,Jaipur,Bogo Offer,08-01-2025,22-02-2025,Retail (Nykaa),3909192,5,4.45,74.98
+P0679,Mamaearth,Mamaearth Lip Liner Matte X,Lips,Lip Liner,Spice 5,499,2020,4.2,2165,1080335,937,31,87,Delhi,Influencer Push,29-02-2024,30-03-2024,E-commerce,1452217,30,4.51,75.73
+P0680,Nykaa Cosmetics,Nykaa Cosmetics Kajal Shine X,Eyes,Kajal,Ruby 7,1999,2020,4.43,1901,3800099,552,25,74.5,Bengaluru,Seasonal Drop,25-08-2025,08-09-2025,E-commerce,4818672,15,1.75,83.77
+P0681,Kay Beauty,Kay Beauty Eyeshadow Prime HD,Eyes,Eyeshadow,Berry 9,2999,2022,4.03,1827,5479173,960,23,77.7,Delhi,Seasonal Drop,02-11-2024,17-12-2024,Marketplace,718405,5,4.01,75.87
+P0682,Nykaa Cosmetics,Nykaa Cosmetics Mascara Glow HD,Eyes,Mascara,Ruby 18,849,2021,4.06,1888,1602912,559,31,63.2,Lucknow,Seasonal Drop,09-06-2025,24-07-2025,E-commerce,292082,20,2.96,74.58
+P0683,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Matte +,Lips,Lip Gloss,Coral 11,999,2023,4.41,1852,1850148,907,26,82.7,Chennai,Seasonal Drop,20-07-2025,03-08-2025,E-commerce,1934348,10,3.63,84.09
+P0684,Forest Essentials,Forest Essentials Compact Shine +,Face,Compact,Berry 15,799,2022,4.78,1605,1282395,505,20,62.6,Hyderabad,Nykaa Exclusive,27-01-2024,17-02-2024,Marketplace,901451,30,6.22,84.08
+P0685,Sugar Cosmetics,Sugar Cosmetics Lipstick Artist +,Lips,Lipstick,Ruby 17,2499,2023,4.27,1870,4673130,776,32,62.5,Jaipur,Festive Sale,31-08-2024,07-09-2024,Social Commerce,5096509,15,5.4,77.02
+P0686,Forest Essentials,Forest Essentials Lip Gloss Prime X,Lips,Lip Gloss,Champagne 7,2499,2021,4.32,2038,5092962,652,25,71,Ahmedabad,Nykaa Exclusive,01-11-2023,16-12-2023,Retail (Nykaa),3384591,25,1.76,77.34
+P0687,Sugar Cosmetics,Sugar Cosmetics Eyeliner Matte X,Eyes,Eyeliner,Spice 12,1499,2022,4.09,1793,2687707,531,35,61.9,Delhi,Seasonal Drop,22-02-2024,23-03-2024,Retail (Nykaa),540547,5,1.86,70.27
+P0688,Forest Essentials,Forest Essentials Lip Liner Prime Luxe,Lips,Lip Liner,Rose 8,699,2023,4.4,1855,1296645,744,31,69.7,Bengaluru,Launch Promo,29-09-2024,20-10-2024,Retail (Store),867463,10,1.89,80.21
+P0689,Lakmé,Lakmé Kajal Matte +,Eyes,Kajal,Nude 5,849,2021,4.3,1872,1589328,712,25,62.3,Jaipur,Bogo Offer,09-06-2024,09-07-2024,E-commerce,4501866,5,2.98,75.09
+P0690,Forest Essentials,Forest Essentials Lipstick Glow X,Lips,Lipstick,Scarlet 1,1699,2020,4.64,2174,3693626,861,33,77.6,Delhi,Festive Sale,31-05-2025,30-06-2025,E-commerce,495594,5,2.69,83.79
+P0691,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Prime Air,Eyes,Eyeliner,Rose 16,699,2020,4.49,1875,1310625,809,31,67.9,Chennai,Bogo Offer,07-10-2024,21-11-2024,Marketplace,1393477,10,1.04,80
+P0692,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Matte Luxe,Lips,Lip Crayon,Mauve 3,2999,2021,4.51,1987,5959013,610,19,77.7,Delhi,Festive Sale,07-02-2023,21-02-2023,E-commerce,5059861,30,1.29,80.22
+P0693,Forest Essentials,Forest Essentials Lip Balm Glow X,Lips,Lip Balm,Champagne 3,799,2021,4.13,2053,1640347,775,28,68,Pune,Bogo Offer,03-08-2023,10-08-2023,Retail (Nykaa),2125178,20,4.48,81.73
+P0694,Forest Essentials,Forest Essentials Lip Balm Matte X,Lips,Lip Balm,Spice 17,499,2020,4.33,2154,1074846,1109,28,75.6,Mumbai,Bogo Offer,28-08-2024,27-09-2024,Marketplace,150917,15,4.67,84.57
+P0695,Forest Essentials,Forest Essentials Blush Pro HD,Face,Blush,Scarlet 4,249,2018,4.12,1918,477582,1206,27,70.1,Bengaluru,Bogo Offer,11-07-2024,18-07-2024,Retail (Nykaa),5629144,20,4.89,75.68
+P0696,Lakmé,Lakmé Kajal Glow +,Eyes,Kajal,Coral 6,1199,2020,4.43,2017,2418383,1050,26,82.5,Chennai,Influencer Push,04-08-2024,18-08-2024,E-commerce,700732,25,1.11,83.62
+P0697,Mamaearth,Mamaearth Highlighter Glow HD,Face,Highlighter,Berry 4,1699,2023,4.48,1551,2635149,487,26,89,Hyderabad,Launch Promo,17-07-2023,16-08-2023,E-commerce,1468462,15,6.86,78.99
+P0698,Mamaearth,Mamaearth Brow Pencil Prime Luxe,Eyes,Brow Pencil,Champagne 12,999,2019,4.11,2007,2004993,814,32,88.5,Jaipur,Seasonal Drop,26-11-2024,17-12-2024,E-commerce,3963127,10,1.86,80.22
+P0699,Mamaearth,Mamaearth Eyeliner Shine X,Eyes,Eyeliner,Rose 8,1699,2023,3.95,1725,2930775,511,25,70.2,Bengaluru,Influencer Push,16-12-2025,23-12-2025,E-commerce,4721524,5,2.91,77.83
+P0700,Kay Beauty,Kay Beauty Compact Prime HD,Face,Compact,Rose 13,1699,2019,4.89,1861,3161839,1035,30,72.3,Bengaluru,Nykaa Exclusive,23-07-2024,06-08-2024,Retail (Store),3937911,10,8.61,86.96
+P0701,Kay Beauty,Kay Beauty Lip Gloss Shine +,Lips,Lip Gloss,Berry 15,1199,2021,4.28,2090,2505910,747,24,69.8,Delhi,Festive Sale,17-02-2025,03-03-2025,E-commerce,2322352,25,3.53,75.12
+P0702,Mamaearth,Mamaearth Foundation Matte Luxe,Face,Foundation,Mauve 17,849,2020,4.07,1749,1484901,567,29,68,Mumbai,Festive Sale,30-10-2023,06-11-2023,Retail (Nykaa),3125177,0,4.35,76.92
+P0703,Kay Beauty,Kay Beauty Mascara Glow X,Eyes,Mascara,Peach 1,1299,2019,4.55,2108,2738292,1209,18,76.8,Delhi,Bogo Offer,01-12-2025,22-12-2025,E-commerce,2302704,15,4.54,83.68
+P0704,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Matte X,Lips,Lip Liner,Scarlet 5,599,2022,4.23,1894,1134506,866,31,83.7,Lucknow,Influencer Push,12-04-2024,19-04-2024,Retail (Nykaa),671145,30,2.93,77.2
+P0705,Forest Essentials,Forest Essentials Compact Pro Air,Face,Compact,Rose 5,499,2022,3.78,1613,804887,1013,22,70.2,Hyderabad,Festive Sale,21-12-2024,04-02-2025,E-commerce,3705832,0,1.19,73.62
+P0706,Sugar Cosmetics,Sugar Cosmetics Eyeliner Pro +,Eyes,Eyeliner,Spice 3,799,2024,4.1,1633,1304767,620,27,82.3,Mumbai,Bogo Offer,06-04-2024,21-05-2024,Retail (Nykaa),4638381,20,3.53,75.86
+P0707,Mamaearth,Mamaearth Lip Balm Artist X,Lips,Lip Balm,Mauve 2,1199,2018,4.43,2412,2891988,1121,25,67.1,Ahmedabad,Nykaa Exclusive,14-08-2023,04-09-2023,Retail (Store),2280979,0,1.86,80.03
+P0708,Lakmé,Lakmé Lip Gloss Shine X,Lips,Lip Gloss,Scarlet 7,2999,2021,4.4,2069,6204931,1307,26,88.5,Jaipur,Nykaa Exclusive,10-04-2023,10-05-2023,Retail (Store),4902487,5,2.01,80.07
+P0709,Nykaa Cosmetics,Nykaa Cosmetics Contour Artist X,Face,Contour,Coral 1,399,2024,4.36,1413,563787,546,28,71.5,Mumbai,Launch Promo,19-12-2024,18-01-2025,E-commerce,5027540,10,4.98,84.01
+P0710,Forest Essentials,Forest Essentials Blush Artist Luxe,Face,Blush,Berry 10,699,2020,4.08,1684,1177116,534,27,82.5,Lucknow,Bogo Offer,24-11-2025,24-12-2025,E-commerce,1889675,10,4.46,73.92
+P0711,Forest Essentials,Forest Essentials Lipstick Glow Air,Lips,Lipstick,Champagne 5,249,2025,4.34,1653,411597,509,24,66.2,Mumbai,Influencer Push,21-07-2023,11-08-2023,Retail (Nykaa),770196,25,3.4,78.15
+P0712,Mamaearth,Mamaearth Contour Matte Luxe,Face,Contour,Ruby 11,1999,2024,4.51,1401,2800599,562,26,79.6,Pune,Nykaa Exclusive,19-02-2025,26-02-2025,Retail (Nykaa),3352890,30,5.78,82.88
+P0713,Kay Beauty,Kay Beauty Foundation Pro Luxe,Face,Foundation,Coral 4,849,2020,4.32,1807,1534143,589,24,85.1,Hyderabad,Bogo Offer,24-01-2023,10-03-2023,Retail (Nykaa),3859204,20,4.44,73.98
+P0714,Nykaa Cosmetics,Nykaa Cosmetics Mascara Pro Air,Eyes,Mascara,Ruby 13,1999,2023,3.91,1732,3462268,747,26,60.6,Jaipur,Nykaa Exclusive,27-08-2025,03-09-2025,Retail (Nykaa),3943579,5,2.63,73.04
+P0715,Nykaa Cosmetics,Nykaa Cosmetics Contour Matte Luxe,Face,Contour,Scarlet 11,799,2021,4.43,1638,1308762,621,24,68.5,Bengaluru,Festive Sale,02-08-2024,23-08-2024,Retail (Nykaa),4826696,10,6.35,84
+P0716,Nykaa Cosmetics,Nykaa Cosmetics Mascara Prime HD,Eyes,Mascara,Coral 14,399,2021,4.08,1816,724584,664,27,77.4,Lucknow,Influencer Push,19-11-2023,03-01-2024,E-commerce,1675051,25,1.85,75.78
+P0717,Sugar Cosmetics,Sugar Cosmetics Contour Artist Air,Face,Contour,Berry 20,1199,2021,4.21,1732,2076668,629,26,74.7,Ahmedabad,Seasonal Drop,07-04-2024,14-04-2024,E-commerce,1048412,20,4.68,83.3
+P0718,Forest Essentials,Forest Essentials Eyeshadow Glow +,Eyes,Eyeshadow,Berry 5,849,2020,4.75,1892,1606308,670,21,78.4,Jaipur,Seasonal Drop,29-01-2025,28-02-2025,Retail (Nykaa),2894885,30,1.57,89.72
+P0719,Forest Essentials,Forest Essentials Lipstick Glow X,Lips,Lipstick,Mauve 5,699,2025,4.6,1654,1156146,600,21,60,Jaipur,Festive Sale,08-11-2024,15-11-2024,Marketplace,2667167,15,7.78,79.47
+P0720,Mamaearth,Mamaearth Compact Artist X,Face,Compact,Scarlet 2,1199,2023,4,1557,1866843,620,30,80,Jaipur,Launch Promo,18-03-2024,17-04-2024,E-commerce,4448457,15,2.89,79.03
+P0721,Nykaa Cosmetics,Nykaa Cosmetics Contour Glow X,Face,Contour,Nude 4,299,2025,4.04,1277,381823,668,33,67,Hyderabad,Festive Sale,02-06-2023,09-06-2023,E-commerce,1020595,10,4.01,66.3
+P0722,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Matte Air,Lips,Lip Gloss,Champagne 11,1499,2020,4.08,2079,3116421,771,29,85.9,Bengaluru,Influencer Push,16-12-2025,30-12-2025,Retail (Nykaa),2746679,0,2.23,72.49
+P0723,Nykaa Cosmetics,Nykaa Cosmetics Foundation Prime Luxe,Face,Foundation,Scarlet 15,999,2022,4.56,1555,1553445,774,29,86.7,Lucknow,Bogo Offer,23-10-2023,13-11-2023,Retail (Nykaa),3307101,0,5.51,84.97
+P0724,Sugar Cosmetics,Sugar Cosmetics Compact Prime HD,Face,Compact,Ruby 11,249,2022,3.59,1655,412095,753,19,90,Pune,Nykaa Exclusive,23-01-2023,06-02-2023,E-commerce,255923,10,1.64,69.8
+P0725,Sugar Cosmetics,Sugar Cosmetics Compact Matte X,Face,Compact,Berry 11,1999,2021,4.53,1616,3230384,740,37,65.9,Delhi,Festive Sale,29-07-2024,05-08-2024,E-commerce,1199359,10,4.27,82.93
+P0726,Lakmé,Lakmé Blush Prime +,Face,Blush,Ruby 14,1999,2020,3.98,1753,3504247,513,27,67,Bengaluru,Nykaa Exclusive,05-02-2023,19-02-2023,E-commerce,3486797,30,1.19,74.21
+P0727,Mamaearth,Mamaearth Lipstick Matte +,Lips,Lipstick,Spice 9,1299,2020,4.54,2237,2905863,863,29,85,Chennai,Festive Sale,04-05-2025,25-05-2025,E-commerce,611151,0,6.38,80.51
+P0728,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Shine Air,Lips,Lip Gloss,Coral 16,1499,2023,4.49,1844,2764156,653,18,82.6,Bengaluru,Bogo Offer,04-05-2024,11-05-2024,Retail (Nykaa),1983409,5,5.35,78.7
+P0729,Kay Beauty,Kay Beauty Compact Glow HD,Face,Compact,Mauve 20,1699,2020,4.01,1673,2842427,672,17,77.7,Bengaluru,Launch Promo,12-06-2023,19-06-2023,Marketplace,3255669,0,4.15,70.77
+P0730,Forest Essentials,Forest Essentials Lip Liner Prime X,Lips,Lip Liner,Spice 18,2999,2023,4.61,1899,5695101,581,27,88.5,Pune,Festive Sale,19-09-2024,03-11-2024,Social Commerce,3961835,15,5.46,84.49
+P0731,Sugar Cosmetics,Sugar Cosmetics Lip Liner Glow X,Lips,Lip Liner,Spice 16,1299,2020,4.31,2048,2660352,1310,22,63.2,Chennai,Influencer Push,27-07-2024,17-08-2024,Social Commerce,4003284,0,3.92,78.08
+P0732,Lakmé,Lakmé Contour Matte Air,Face,Contour,Mauve 15,1699,2019,4.32,1874,3183926,573,31,68.7,Hyderabad,Launch Promo,03-11-2025,10-11-2025,E-commerce,4001261,5,1.35,78.8
+P0733,Kay Beauty,Kay Beauty Lip Gloss Prime X,Lips,Lip Gloss,Ruby 7,699,2022,4.32,1963,1372137,829,33,66.8,Delhi,Influencer Push,06-09-2024,27-09-2024,Retail (Store),3175653,15,3.08,78.93
+P0734,Lakmé,Lakmé Compact Shine Luxe,Face,Compact,Mauve 17,1199,2022,4.41,1605,1924395,502,25,77.6,Bengaluru,Festive Sale,06-05-2025,13-05-2025,Marketplace,1991429,0,6.07,76.43
+P0735,Forest Essentials,Forest Essentials Highlighter Glow +,Face,Highlighter,Coral 7,499,2025,4.43,1311,654189,443,33,72.8,Lucknow,Nykaa Exclusive,04-03-2025,25-03-2025,E-commerce,925754,5,1.87,82.48
+P0736,Lakmé,Lakmé Lipstick Artist +,Lips,Lipstick,Coral 2,499,2023,4.08,1844,920156,1059,26,88.7,Mumbai,Bogo Offer,02-11-2023,02-12-2023,Marketplace,2505354,0,1.44,73.15
+P0737,Mamaearth,Mamaearth Lip Balm Artist Luxe,Lips,Lip Balm,Scarlet 3,1499,2020,4.58,2097,3143403,782,22,89.1,Mumbai,Seasonal Drop,02-11-2024,16-11-2024,Marketplace,1001730,15,2.65,86.21
+P0738,Nykaa Cosmetics,Nykaa Cosmetics Foundation Artist Air,Face,Foundation,Coral 6,699,2020,4.45,1769,1236531,543,29,70.1,Delhi,Nykaa Exclusive,19-09-2023,26-09-2023,E-commerce,4928065,25,3.54,80.85
+P0739,Forest Essentials,Forest Essentials Compact Matte HD,Face,Compact,Champagne 14,299,2019,4.3,1853,554047,832,30,82.4,Ahmedabad,Nykaa Exclusive,14-04-2024,21-04-2024,Retail (Store),1155410,5,1.37,82.16
+P0740,Forest Essentials,Forest Essentials Mascara Prime Luxe,Eyes,Mascara,Champagne 11,1499,2021,4.41,1912,2866088,1072,28,75.3,Chennai,Nykaa Exclusive,03-06-2025,03-07-2025,Retail (Nykaa),1066971,0,2.34,81.08
+P0741,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Pro Luxe,Eyes,Eyeliner,Champagne 2,199,2018,4.31,2120,421880,633,29,60.3,Chennai,Launch Promo,24-03-2025,23-04-2025,E-commerce,484637,0,5.13,80.31
+P0742,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Glow Luxe,Lips,Lip Balm,Peach 1,2499,2018,4.49,2471,6175029,834,33,60.5,Chennai,Bogo Offer,18-03-2023,25-03-2023,E-commerce,3929516,30,2.81,85.5
+P0743,Lakmé,Lakmé Compact Pro Air,Face,Compact,Nude 10,249,2019,4.05,1851,460899,1173,23,61,Mumbai,Festive Sale,12-04-2024,26-04-2024,Retail (Nykaa),2455191,30,3.14,72.3
+P0744,Lakmé,Lakmé Eyeshadow Glow Air,Eyes,Eyeshadow,Spice 20,199,2019,4.25,2087,415313,973,31,85.6,Bengaluru,Seasonal Drop,18-02-2024,25-02-2024,E-commerce,5266368,20,1.01,72.18
+P0745,Lakmé,Lakmé Contour Artist HD,Face,Contour,Spice 3,599,2022,4.55,1612,965588,818,29,71.1,Delhi,Seasonal Drop,19-01-2023,18-02-2023,Marketplace,3280617,20,3.17,82.96
+P0746,Mamaearth,Mamaearth Lip Gloss Shine Luxe,Lips,Lip Gloss,Mauve 19,999,2019,4.58,2255,2252745,739,16,88.9,Bengaluru,Seasonal Drop,30-07-2023,20-08-2023,E-commerce,4292324,25,7.52,87.55
+P0747,Lakmé,Lakmé Eyeliner Glow HD,Eyes,Eyeliner,Ruby 18,2999,2021,4.11,1754,5260246,838,27,63.5,Hyderabad,Seasonal Drop,05-08-2025,19-08-2025,Social Commerce,4796812,5,1.33,81.75
+P0748,Mamaearth,Mamaearth Brow Pencil Shine X,Eyes,Brow Pencil,Berry 1,1499,2021,4.49,1799,2696701,599,27,67.2,Delhi,Influencer Push,15-08-2024,29-08-2024,E-commerce,3081334,0,6.83,84.28
+P0749,Lakmé,Lakmé Lip Balm Glow X,Lips,Lip Balm,Rose 19,2499,2022,4.19,1859,4645641,874,21,66.8,Chennai,Festive Sale,04-04-2023,25-04-2023,Retail (Nykaa),2658912,25,1.79,73.98
+P0750,Mamaearth,Mamaearth Eyeshadow Shine HD,Eyes,Eyeshadow,Champagne 8,1199,2023,4.27,1714,2055086,570,32,65.3,Bengaluru,Launch Promo,26-04-2023,17-05-2023,E-commerce,2613386,25,3.41,77.01
+P0751,Lakmé,Lakmé Lip Crayon Matte Air,Lips,Lip Crayon,Champagne 10,849,2021,3.99,2094,1777806,836,19,78.7,Delhi,Seasonal Drop,02-01-2023,16-01-2023,E-commerce,2577280,5,2.55,73.22
+P0752,Kay Beauty,Kay Beauty Kajal Matte +,Eyes,Kajal,Mauve 13,1199,2019,4.35,2088,2503512,1011,36,83.3,Chennai,Influencer Push,21-10-2025,28-10-2025,Retail (Nykaa),917748,20,1.63,83.99
+P0753,Forest Essentials,Forest Essentials Lip Crayon Shine +,Lips,Lip Crayon,Ruby 14,799,2025,4.24,1631,1303169,867,38,70.5,Pune,Influencer Push,26-10-2025,10-12-2025,E-commerce,1079315,0,4.33,80.14
+P0754,Kay Beauty,Kay Beauty Brow Pencil Artist X,Eyes,Brow Pencil,Berry 9,299,2022,4.46,1706,510094,580,23,68,Bengaluru,Festive Sale,23-12-2023,13-01-2024,Retail (Nykaa),3043062,5,6.47,81.86
+P0755,Lakmé,Lakmé Lip Crayon Matte Air,Lips,Lip Crayon,Coral 17,399,2022,4.14,1920,766080,670,24,68.1,Jaipur,Bogo Offer,08-07-2023,22-07-2023,E-commerce,3852193,20,1.64,69.43
+P0756,Kay Beauty,Kay Beauty Lip Liner Prime X,Lips,Lip Liner,Nude 12,849,2022,4.3,1886,1601214,1057,23,66.6,Kolkata,Seasonal Drop,15-04-2024,29-04-2024,E-commerce,4071192,20,4.29,77.91
+P0757,Forest Essentials,Forest Essentials Lipstick Matte Luxe,Lips,Lipstick,Mauve 16,1299,2022,3.94,1954,2538246,859,20,73.4,Lucknow,Seasonal Drop,06-02-2024,20-02-2024,E-commerce,4632789,20,1.57,69.68
+P0758,Forest Essentials,Forest Essentials Compact Glow +,Face,Compact,Rose 14,1199,2020,4.3,1799,2157001,600,27,80.2,Ahmedabad,Influencer Push,04-05-2025,18-05-2025,Retail (Store),3808595,10,2.98,80.06
+P0759,Forest Essentials,Forest Essentials Lip Liner Pro +,Lips,Lip Liner,Scarlet 8,999,2024,4.54,1749,1747251,983,21,64,Pune,Nykaa Exclusive,20-01-2025,10-02-2025,Marketplace,1128705,0,3.01,81.99
+P0760,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Prime Air,Lips,Lip Crayon,Berry 15,299,2024,4.55,1775,530725,548,25,75.8,Ahmedabad,Seasonal Drop,30-03-2025,13-04-2025,E-commerce,4709598,0,2.73,76.46
+P0761,Mamaearth,Mamaearth Foundation Prime HD,Face,Foundation,Nude 13,2999,2020,4.7,1755,5263245,950,32,85.6,Delhi,Bogo Offer,13-05-2023,27-06-2023,E-commerce,3398950,10,4.33,88.93
+P0762,Lakmé,Lakmé Mascara Matte +,Eyes,Mascara,Rose 11,249,2025,4.09,1561,388689,533,31,79.3,Hyderabad,Launch Promo,15-01-2023,22-01-2023,E-commerce,3048853,0,3.03,70.95
+P0763,Forest Essentials,Forest Essentials Eyeliner Pro Air,Eyes,Eyeliner,Rose 1,499,2021,4.38,1843,919657,1207,38,83.1,Mumbai,Seasonal Drop,28-06-2023,28-07-2023,Retail (Nykaa),3373568,15,1.36,81.55
+P0764,Nykaa Cosmetics,Nykaa Cosmetics Foundation Prime Luxe,Face,Foundation,Nude 4,849,2022,4.68,1532,1300668,498,28,75,Bengaluru,Launch Promo,30-06-2025,14-08-2025,Retail (Store),3300996,25,2.28,82.9
+P0765,Sugar Cosmetics,Sugar Cosmetics Contour Pro X,Face,Contour,Mauve 9,499,2023,4.08,1457,727043,477,30,69.8,Kolkata,Launch Promo,18-01-2023,01-02-2023,E-commerce,2099603,0,2.55,70.06
+P0766,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Pro X,Lips,Lip Crayon,Mauve 17,299,2023,3.78,1809,540891,665,25,88,Lucknow,Seasonal Drop,08-02-2023,01-03-2023,Retail (Nykaa),3390735,15,1.97,72.65
+P0767,Forest Essentials,Forest Essentials Lip Balm Artist Air,Lips,Lip Balm,Champagne 5,2499,2021,4.63,2009,5020491,917,27,63.1,Lucknow,Influencer Push,10-06-2025,10-07-2025,E-commerce,432510,25,3.01,81.32
+P0768,Kay Beauty,Kay Beauty Lip Gloss Pro Luxe,Lips,Lip Gloss,Coral 10,299,2024,4.41,1678,501722,904,28,86.3,Delhi,Launch Promo,14-06-2025,21-06-2025,Retail (Nykaa),4153315,15,5.95,83.14
+P0769,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Glow +,Eyes,Eyeshadow,Spice 11,299,2021,4.49,1794,536406,521,32,64.7,Ahmedabad,Bogo Offer,24-07-2025,23-08-2025,E-commerce,424284,0,6.39,81.99
+P0770,Mamaearth,Mamaearth Contour Matte +,Face,Contour,Champagne 4,999,2021,4.63,1764,1762236,976,37,65.8,Delhi,Launch Promo,14-07-2023,28-07-2023,E-commerce,1967161,5,3.32,87.53
+P0771,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Matte X,Lips,Lip Gloss,Mauve 18,699,2019,4.35,2312,1616088,1248,17,64.8,Hyderabad,Launch Promo,18-04-2024,25-04-2024,Retail (Nykaa),2486692,20,3.3,75.84
+P0772,Mamaearth,Mamaearth Compact Artist HD,Face,Compact,Rose 9,699,2023,4.04,1538,1075062,594,22,74.5,Hyderabad,Seasonal Drop,23-03-2025,30-03-2025,E-commerce,3993978,20,3.79,70.82
+P0773,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Glow Luxe,Eyes,Eyeliner,Scarlet 14,1499,2023,4.17,1708,2560292,1119,32,70.6,Pune,Nykaa Exclusive,09-05-2023,16-05-2023,E-commerce,193773,5,1.98,77.07
+P0774,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Matte HD,Lips,Lip Balm,Champagne 3,399,2022,4.09,2031,810369,779,30,63.7,Hyderabad,Launch Promo,23-07-2024,06-08-2024,E-commerce,3593204,25,4.36,72.06
+P0775,Kay Beauty,Kay Beauty Lip Balm Glow Air,Lips,Lip Balm,Rose 1,1699,2024,4.46,1711,2906989,724,25,63.4,Pune,Seasonal Drop,01-07-2024,08-07-2024,Marketplace,1929135,10,5.41,79.17
+P0776,Mamaearth,Mamaearth Kajal Artist X,Eyes,Kajal,Coral 18,1699,2025,4.29,1471,2499229,666,33,82.4,Lucknow,Seasonal Drop,11-12-2024,25-12-2024,Marketplace,1260884,15,1.61,76.42
+P0777,Kay Beauty,Kay Beauty Eyeliner Prime +,Eyes,Eyeliner,Nude 13,1299,2023,4.33,1668,2166732,488,18,88.6,Delhi,Seasonal Drop,25-08-2024,15-09-2024,E-commerce,2430853,0,1.66,80.66
+P0778,Mamaearth,Mamaearth Kajal Glow +,Eyes,Kajal,Spice 11,999,2020,4.49,1868,1866132,927,31,77.2,Lucknow,Bogo Offer,11-06-2023,25-06-2023,Retail (Nykaa),2185908,0,3.31,81.35
+P0779,Mamaearth,Mamaearth Compact Shine HD,Face,Compact,Spice 1,499,2019,4.31,1917,956583,997,26,71.1,Jaipur,Influencer Push,30-08-2024,20-09-2024,E-commerce,502969,25,4.88,75.96
+P0780,Kay Beauty,Kay Beauty Lipstick Shine +,Lips,Lipstick,Mauve 8,999,2021,4.01,2049,2046951,1267,33,81.3,Pune,Nykaa Exclusive,20-03-2024,03-04-2024,Retail (Nykaa),3153233,10,1.7,76.41
+P0781,Kay Beauty,Kay Beauty Contour Glow X,Face,Contour,Coral 18,399,2022,4.43,1601,638799,747,33,87.7,Mumbai,Nykaa Exclusive,21-08-2024,04-09-2024,E-commerce,153235,10,3.01,84.23
+P0782,Kay Beauty,Kay Beauty Lip Liner Matte Air,Lips,Lip Liner,Mauve 19,1999,2018,4.35,2384,4765616,1256,21,73.2,Jaipur,Festive Sale,01-06-2023,22-06-2023,Retail (Store),1157288,20,3.46,80.13
+P0783,Sugar Cosmetics,Sugar Cosmetics Lip Balm Matte X,Lips,Lip Balm,Nude 11,1999,2022,4.66,1983,3964017,587,23,67.1,Delhi,Festive Sale,01-11-2025,16-12-2025,E-commerce,2989907,30,3.45,83.63
+P0784,Kay Beauty,Kay Beauty Eyeshadow Artist HD,Eyes,Eyeshadow,Peach 16,2999,2020,4.37,2025,6072975,1196,23,89.3,Pune,Influencer Push,27-02-2024,12-04-2024,Retail (Store),4654004,20,3.68,76.81
+P0785,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Pro HD,Lips,Lip Gloss,Berry 7,399,2021,3.95,2094,835506,613,29,89.8,Ahmedabad,Nykaa Exclusive,04-06-2025,04-07-2025,E-commerce,270744,30,1.02,74.8
+P0786,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Shine Air,Eyes,Eyeshadow,Scarlet 10,499,2019,4.42,2116,1055884,605,35,66.1,Pune,Nykaa Exclusive,07-12-2024,14-12-2024,E-commerce,4754639,15,3.11,81.96
+P0787,Sugar Cosmetics,Sugar Cosmetics Kajal Prime Air,Eyes,Kajal,Champagne 6,299,2024,4.6,1577,471523,455,24,71.6,Ahmedabad,Influencer Push,23-04-2024,30-04-2024,Retail (Nykaa),279445,30,2.9,79.29
+P0788,Forest Essentials,Forest Essentials Lip Liner Shine +,Lips,Lip Liner,Ruby 1,2999,2021,4.36,1958,5872042,770,26,72.7,Ahmedabad,Seasonal Drop,26-06-2024,03-07-2024,E-commerce,3191128,15,0.85,78.67
+P0789,Mamaearth,Mamaearth Eyeliner Pro +,Eyes,Eyeliner,Berry 5,999,2021,3.81,1860,1858140,620,20,86.2,Ahmedabad,Seasonal Drop,30-06-2024,14-07-2024,E-commerce,713514,25,1.72,73.19
+P0790,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Artist Air,Eyes,Eyeshadow,Peach 6,2999,2023,4.85,1718,5152282,579,30,80.5,Hyderabad,Influencer Push,18-10-2023,17-11-2023,Retail (Nykaa),4816472,0,1.9,88.26
+P0791,Mamaearth,Mamaearth Mascara Matte X,Eyes,Mascara,Scarlet 14,599,2023,4.33,1692,1013508,912,27,77,Hyderabad,Bogo Offer,23-04-2024,23-05-2024,Retail (Nykaa),1252649,5,3.9,83.11
+P0792,Forest Essentials,Forest Essentials Lip Crayon Prime Luxe,Lips,Lip Crayon,Berry 3,599,2023,4.38,1731,1036869,654,29,83.6,Bengaluru,Festive Sale,17-05-2025,31-05-2025,Retail (Store),1263656,0,0.97,84.59
+P0793,Mamaearth,Mamaearth Lip Liner Shine HD,Lips,Lip Liner,Rose 19,1299,2024,4.29,1779,2310921,579,21,66.8,Delhi,Seasonal Drop,28-04-2024,28-05-2024,E-commerce,625316,20,2.33,77.35
+P0794,Nykaa Cosmetics,Nykaa Cosmetics Contour Pro Air,Face,Contour,Spice 2,199,2023,4.24,1540,306460,945,26,88.7,Pune,Nykaa Exclusive,16-06-2025,30-06-2025,Social Commerce,2547081,10,4.27,72.86
+P0795,Lakmé,Lakmé Kajal Pro Air,Eyes,Kajal,Peach 6,1499,2023,4.35,1609,2411891,888,38,72.4,Kolkata,Seasonal Drop,02-09-2024,09-09-2024,Retail (Nykaa),1349286,20,6.03,78.89
+P0796,Mamaearth,Mamaearth Kajal Glow Luxe,Eyes,Kajal,Nude 15,1499,2023,4.02,1624,2434376,676,24,85,Kolkata,Launch Promo,20-10-2024,27-10-2024,Retail (Nykaa),1059642,0,3.83,67.26
+P0797,Forest Essentials,Forest Essentials Lip Gloss Prime +,Lips,Lip Gloss,Mauve 5,399,2020,4.54,2138,853062,634,26,83.9,Mumbai,Launch Promo,07-05-2025,21-06-2025,E-commerce,3842281,20,2.53,79.67
+P0798,Mamaearth,Mamaearth Lip Gloss Matte Luxe,Lips,Lip Gloss,Champagne 12,299,2021,4.03,2035,608465,595,24,71.5,Chennai,Bogo Offer,04-08-2023,11-08-2023,Retail (Store),2781295,25,3.44,76.45
+P0799,Kay Beauty,Kay Beauty Highlighter Pro HD,Face,Highlighter,Ruby 19,1499,2021,4.78,1691,2534809,994,25,70.1,Hyderabad,Bogo Offer,20-11-2025,20-12-2025,Marketplace,3329094,0,2.06,87.82
+P0800,Mamaearth,Mamaearth Foundation Matte +,Face,Foundation,Mauve 15,1299,2020,4.54,1766,2294034,631,28,71.4,Jaipur,Influencer Push,15-11-2024,06-12-2024,Retail (Store),4056652,0,7.16,83.5
+P0801,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Artist HD,Eyes,Eyeliner,Rose 20,999,2022,4.67,1719,1717281,535,21,76.9,Kolkata,Bogo Offer,20-06-2023,20-07-2023,E-commerce,4557196,15,1.69,82.98
+P0802,Kay Beauty,Kay Beauty Contour Artist Luxe,Face,Contour,Spice 6,2999,2023,4.64,1524,4570476,764,23,81.8,Bengaluru,Influencer Push,22-04-2025,22-05-2025,Retail (Store),3873995,0,3.65,82.59
+P0803,Forest Essentials,Forest Essentials Mascara Glow X,Eyes,Mascara,Coral 12,2499,2023,4.2,1673,4180827,697,23,64.7,Chennai,Bogo Offer,28-01-2025,14-03-2025,E-commerce,1252446,20,2.91,73.35
+P0804,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Glow Air,Lips,Lip Balm,Peach 18,849,2019,4.3,2222,1886478,876,26,73,Ahmedabad,Launch Promo,22-07-2023,12-08-2023,Retail (Nykaa),3272596,10,5.95,82.27
+P0805,Sugar Cosmetics,Sugar Cosmetics Eyeliner Glow +,Eyes,Eyeliner,Coral 5,1499,2019,4.38,2001,2999499,784,24,62,Bengaluru,Influencer Push,20-12-2023,19-01-2024,E-commerce,3850299,10,4.98,84.87
+P0806,Kay Beauty,Kay Beauty Eyeliner Artist Air,Eyes,Eyeliner,Champagne 13,399,2022,3.98,1765,704235,532,25,81.5,Bengaluru,Influencer Push,29-07-2025,05-08-2025,Retail (Store),4510188,10,2.65,76.84
+P0807,Kay Beauty,Kay Beauty Lip Crayon Glow Air,Lips,Lip Crayon,Mauve 1,299,2022,3.8,1978,591422,1086,25,86.8,Bengaluru,Seasonal Drop,06-02-2024,13-02-2024,Retail (Nykaa),3304649,5,2.16,63.79
+P0808,Forest Essentials,Forest Essentials Lip Crayon Pro +,Lips,Lip Crayon,Nude 14,299,2024,3.95,1755,524745,514,29,81.8,Pune,Influencer Push,10-02-2023,03-03-2023,Social Commerce,1903712,10,3.52,72.31
+P0809,Sugar Cosmetics,Sugar Cosmetics Lip Balm Artist Luxe,Lips,Lip Balm,Spice 9,299,2021,4.2,2016,602784,1167,24,84.9,Jaipur,Festive Sale,21-02-2023,14-03-2023,E-commerce,427799,10,5.37,80.18
+P0810,Sugar Cosmetics,Sugar Cosmetics Lipstick Shine Luxe,Lips,Lipstick,Coral 3,1299,2020,4.08,2117,2749983,1241,21,79,Ahmedabad,Launch Promo,18-01-2024,03-03-2024,E-commerce,4283057,15,2.63,78.71
+P0811,Sugar Cosmetics,Sugar Cosmetics Compact Matte Air,Face,Compact,Scarlet 12,299,2023,4.19,1496,447304,467,29,69.7,Hyderabad,Festive Sale,25-04-2025,16-05-2025,Retail (Store),2742648,20,3.08,80.42
+P0812,Nykaa Cosmetics,Nykaa Cosmetics Brow Pencil Glow +,Eyes,Brow Pencil,Scarlet 1,1499,2025,4.14,1533,2297967,557,30,78,Lucknow,Nykaa Exclusive,10-05-2023,24-05-2023,E-commerce,3066965,5,3.17,77.42
+P0813,Mamaearth,Mamaearth Highlighter Artist Air,Face,Highlighter,Champagne 2,1299,2022,4.53,1536,1995264,645,24,85.7,Pune,Launch Promo,19-01-2023,09-02-2023,E-commerce,5128538,20,7.32,82.25
+P0814,Sugar Cosmetics,Sugar Cosmetics Blush Shine X,Face,Blush,Berry 12,699,2020,4.34,1788,1249812,559,34,61.4,Bengaluru,Influencer Push,09-07-2025,23-08-2025,Marketplace,2594150,25,4.62,75.76
+P0815,Sugar Cosmetics,Sugar Cosmetics Lip Balm Pro HD,Lips,Lip Balm,Peach 14,999,2021,4.22,2092,2089908,787,35,85,Delhi,Launch Promo,25-07-2025,01-08-2025,Social Commerce,4669528,15,5.18,80.41
+P0816,Sugar Cosmetics,Sugar Cosmetics Lip Balm Pro +,Lips,Lip Balm,Coral 4,2999,2025,4.3,1603,4807397,1001,19,64,Jaipur,Seasonal Drop,29-01-2023,19-02-2023,Marketplace,2993623,20,0.96,79.43
+P0817,Lakmé,Lakmé Lipstick Artist Air,Lips,Lipstick,Champagne 6,2999,2023,4.38,1889,5665111,714,33,69.4,Pune,Nykaa Exclusive,01-06-2025,08-06-2025,E-commerce,3892168,25,4.52,79.49
+P0818,Lakmé,Lakmé Foundation Matte Air,Face,Foundation,Mauve 20,799,2019,4.36,1753,1400647,871,32,61.6,Mumbai,Seasonal Drop,25-02-2023,11-03-2023,Retail (Nykaa),4120268,10,2.02,75.13
+P0819,Lakmé,Lakmé Brow Pencil Shine Luxe,Eyes,Brow Pencil,Spice 9,399,2020,4.22,1875,748125,911,25,73.3,Ahmedabad,Seasonal Drop,04-06-2024,11-06-2024,Social Commerce,4840637,15,4.99,71.88
+P0820,Kay Beauty,Kay Beauty Lipstick Pro Air,Lips,Lipstick,Scarlet 10,1999,2020,4.37,2191,4379809,1167,29,87,Mumbai,Nykaa Exclusive,02-02-2023,16-02-2023,Retail (Nykaa),2184500,20,1.75,84.36
+P0821,Sugar Cosmetics,Sugar Cosmetics Lip Liner Shine Luxe,Lips,Lip Liner,Peach 12,249,2019,4.11,2195,546555,1301,30,73.1,Mumbai,Festive Sale,02-01-2024,09-01-2024,Retail (Store),2795603,5,1.33,80.63
+P0822,Mamaearth,Mamaearth Lip Balm Prime +,Lips,Lip Balm,Ruby 14,499,2023,4.57,1944,970056,920,27,76.3,Bengaluru,Influencer Push,29-08-2024,28-09-2024,E-commerce,3983654,25,5.45,72.81
+P0823,Sugar Cosmetics,Sugar Cosmetics Brow Pencil Shine X,Eyes,Brow Pencil,Champagne 3,1999,2020,4.16,1939,3876061,1066,31,82.1,Pune,Nykaa Exclusive,31-03-2023,21-04-2023,E-commerce,4491816,10,5.14,74.09
+P0824,Sugar Cosmetics,Sugar Cosmetics Contour Glow +,Face,Contour,Rose 7,299,2022,4.28,1582,473018,633,23,82.8,Pune,Festive Sale,01-09-2023,22-09-2023,E-commerce,3633533,0,2.88,79.83
+P0825,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Pro Luxe,Eyes,Eyeshadow,Scarlet 4,1199,2022,4.42,1711,2051489,593,28,67.8,Ahmedabad,Festive Sale,15-07-2024,29-07-2024,Social Commerce,3412651,0,4.68,78.87
+P0826,Forest Essentials,Forest Essentials Lip Crayon Matte Air,Lips,Lip Crayon,Berry 1,299,2023,3.98,1764,527436,863,23,87.5,Hyderabad,Seasonal Drop,26-08-2024,25-09-2024,Retail (Nykaa),1888110,5,1.42,70.87
+P0827,Nykaa Cosmetics,Nykaa Cosmetics Brow Pencil Prime Air,Eyes,Brow Pencil,Scarlet 17,799,2018,4.32,2195,1753805,1122,32,67.8,Bengaluru,Nykaa Exclusive,30-11-2023,07-12-2023,E-commerce,477035,0,4.85,84.1
+P0828,Forest Essentials,Forest Essentials Lip Crayon Shine Luxe,Lips,Lip Crayon,Rose 10,399,2018,4.2,2328,928872,1362,28,88,Bengaluru,Influencer Push,01-08-2023,22-08-2023,E-commerce,3817679,30,2.83,80.02
+P0829,Nykaa Cosmetics,Nykaa Cosmetics Lip Balm Matte Luxe,Lips,Lip Balm,Peach 10,499,2024,4.05,1750,873250,986,25,66.1,Hyderabad,Seasonal Drop,10-01-2025,24-02-2025,E-commerce,4951234,30,2.49,75.13
+P0830,Forest Essentials,Forest Essentials Eyeliner Matte HD,Eyes,Eyeliner,Rose 2,599,2022,4.48,1752,1049448,611,15,88.7,Hyderabad,Influencer Push,20-03-2023,10-04-2023,E-commerce,5253995,10,3.37,80.02
+P0831,Forest Essentials,Forest Essentials Brow Pencil Artist +,Eyes,Brow Pencil,Berry 1,1499,2018,4.28,2098,3144902,994,28,80,Lucknow,Influencer Push,14-08-2024,13-09-2024,Marketplace,1013959,15,2.53,72.92
+P0832,Lakmé,Lakmé Eyeliner Matte Luxe,Eyes,Eyeliner,Scarlet 13,1199,2022,4.21,1754,2103046,722,23,76.7,Ahmedabad,Nykaa Exclusive,27-09-2023,11-10-2023,Retail (Nykaa),4464122,20,4.97,75.16
+P0833,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Artist +,Eyes,Eyeshadow,Nude 8,299,2022,4.67,1744,521456,850,20,61.5,Ahmedabad,Seasonal Drop,17-02-2023,03-03-2023,Marketplace,3444145,5,1.17,83.74
+P0834,Forest Essentials,Forest Essentials Lip Balm Artist +,Lips,Lip Balm,Rose 11,2499,2022,4.4,1834,4583166,643,28,66.6,Bengaluru,Nykaa Exclusive,16-12-2025,15-01-2026,Social Commerce,3424334,30,1.16,77.71
+P0835,Nykaa Cosmetics,Nykaa Cosmetics Blush Artist Air,Face,Blush,Peach 11,399,2018,4.39,1970,786030,595,36,90,Ahmedabad,Seasonal Drop,19-06-2025,26-06-2025,Retail (Nykaa),4095438,30,3.94,82.57
+P0836,Lakmé,Lakmé Lip Crayon Shine +,Lips,Lip Crayon,Berry 3,1999,2023,4.02,1757,3512243,567,24,76.5,Pune,Seasonal Drop,20-02-2024,05-04-2024,E-commerce,4239673,15,1.83,74.14
+P0837,Mamaearth,Mamaearth Mascara Shine HD,Eyes,Mascara,Champagne 10,999,2024,4.11,1579,1577421,463,31,77.9,Pune,Launch Promo,17-03-2024,16-04-2024,E-commerce,2919166,20,2.68,71.74
+P0838,Mamaearth,Mamaearth Blush Glow X,Face,Blush,Ruby 7,849,2025,4.32,1366,1159734,462,33,81.6,Delhi,Influencer Push,16-02-2025,02-04-2025,E-commerce,1849624,25,1.02,73.52
+P0839,Kay Beauty,Kay Beauty Kajal Matte X,Eyes,Kajal,Ruby 7,399,2018,3.99,2046,816354,1086,25,89.2,Bengaluru,Nykaa Exclusive,05-03-2024,19-04-2024,E-commerce,2440761,5,1.58,74.76
+P0840,Kay Beauty,Kay Beauty Blush Matte HD,Face,Blush,Spice 15,849,2025,3.98,1383,1174167,406,27,77.4,Bengaluru,Launch Promo,17-01-2024,24-01-2024,Marketplace,1370968,20,2.49,69.3
+P0841,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Pro Air,Lips,Lip Crayon,Peach 17,1699,2021,4.3,2191,3722509,1411,28,66.7,Lucknow,Festive Sale,26-03-2023,02-04-2023,E-commerce,1623610,0,5.27,81.27
+P0842,Kay Beauty,Kay Beauty Contour Pro +,Face,Contour,Rose 16,2999,2022,4.35,1605,4813395,692,28,68.6,Delhi,Bogo Offer,13-12-2023,27-01-2024,E-commerce,506076,10,5.33,75.05
+P0843,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Matte Air,Lips,Lipstick,Scarlet 2,699,2023,4.04,1831,1279869,1124,34,83.2,Bengaluru,Influencer Push,07-04-2025,28-04-2025,E-commerce,3784063,20,2.65,75.66
+P0844,Kay Beauty,Kay Beauty Lip Liner Prime X,Lips,Lip Liner,Spice 9,999,2021,4.66,2032,2029968,617,26,78.3,Lucknow,Influencer Push,26-06-2024,26-07-2024,Retail (Store),1961880,10,6.21,84.82
+P0845,Lakmé,Lakmé Brow Pencil Matte X,Eyes,Brow Pencil,Rose 3,2999,2024,4.58,1560,4678440,1015,28,62.8,Delhi,Influencer Push,22-02-2024,14-03-2024,Marketplace,4786938,30,4.3,78.89
+P0846,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Glow X,Lips,Lip Gloss,Rose 7,999,2021,4.32,2163,2160837,1217,24,86.2,Delhi,Bogo Offer,03-02-2025,05-03-2025,Retail (Nykaa),970259,5,2.06,74.96
+P0847,Nykaa Cosmetics,Nykaa Cosmetics Eyeshadow Matte HD,Eyes,Eyeshadow,Coral 9,599,2022,3.78,1778,1065022,1072,22,60.7,Delhi,Festive Sale,30-06-2025,14-07-2025,Retail (Nykaa),3311864,15,2.51,72.31
+P0848,Sugar Cosmetics,Sugar Cosmetics Kajal Shine X,Eyes,Kajal,Coral 11,399,2021,4.38,1866,744534,631,32,80.2,Lucknow,Influencer Push,02-09-2024,16-09-2024,E-commerce,3225306,0,4.55,75.42
+P0849,Lakmé,Lakmé Foundation Matte Air,Face,Foundation,Coral 5,1999,2024,4.75,1389,2776611,502,23,71.6,Bengaluru,Launch Promo,05-05-2023,19-05-2023,Retail (Store),2844863,5,8.69,89.58
+P0850,Mamaearth,Mamaearth Highlighter Pro Air,Face,Highlighter,Berry 3,849,2022,4.51,1582,1343118,531,31,68.7,Lucknow,Nykaa Exclusive,28-07-2025,27-08-2025,E-commerce,4648566,0,4.19,85.53
+P0851,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Shine HD,Lips,Lip Crayon,Mauve 20,1299,2022,3.97,2016,2618784,748,37,60.3,Ahmedabad,Bogo Offer,19-05-2025,03-07-2025,E-commerce,3534382,30,3.85,78.39
+P0852,Lakmé,Lakmé Foundation Glow +,Face,Foundation,Berry 2,999,2025,3.94,1393,1391607,473,33,80,Delhi,Festive Sale,16-08-2024,23-08-2024,E-commerce,3622658,10,3.01,68.87
+P0853,Kay Beauty,Kay Beauty Highlighter Matte Air,Face,Highlighter,Coral 8,1699,2022,3.87,1638,2782962,904,29,66.2,Hyderabad,Influencer Push,28-10-2023,12-12-2023,E-commerce,4761717,10,2.5,69.88
+P0854,Forest Essentials,Forest Essentials Kajal Shine +,Eyes,Kajal,Mauve 12,499,2023,4.33,1721,858779,674,32,65.6,Bengaluru,Bogo Offer,15-01-2024,29-01-2024,Retail (Nykaa),3429190,10,1.36,76.81
+P0855,Sugar Cosmetics,Sugar Cosmetics Eyeliner Shine X,Eyes,Eyeliner,Mauve 2,199,2024,4.01,1528,304072,681,22,77.2,Ahmedabad,Influencer Push,07-01-2025,14-01-2025,Retail (Store),2257059,10,4.23,68.86
+P0856,Sugar Cosmetics,Sugar Cosmetics Contour Matte Air,Face,Contour,Scarlet 5,599,2022,4.63,1589,951811,863,33,77.9,Delhi,Launch Promo,31-03-2025,14-04-2025,E-commerce,5058774,25,2.87,86.7
+P0857,Kay Beauty,Kay Beauty Mascara Artist Luxe,Eyes,Mascara,Nude 8,399,2018,4.7,2078,829122,722,24,67.7,Kolkata,Seasonal Drop,15-12-2025,05-01-2026,E-commerce,3838886,15,3.98,85.74
+P0858,Nykaa Cosmetics,Nykaa Cosmetics Brow Pencil Artist Luxe,Eyes,Brow Pencil,Coral 4,1499,2021,4,1789,2681711,568,19,74.8,Hyderabad,Bogo Offer,23-05-2025,30-05-2025,E-commerce,1386969,10,3.46,74.7
+P0859,Kay Beauty,Kay Beauty Lipstick Artist Air,Lips,Lipstick,Nude 5,2999,2023,4.09,1834,5500166,712,35,73.6,Ahmedabad,Influencer Push,08-04-2023,22-04-2023,Retail (Store),5052175,15,4.59,76.01
+P0860,Mamaearth,Mamaearth Eyeliner Matte HD,Eyes,Eyeliner,Peach 2,1999,2020,4.31,1924,3846076,840,29,71,Ahmedabad,Festive Sale,09-12-2023,23-01-2024,E-commerce,4693164,5,3.9,77.5
+P0861,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Glow X,Lips,Lip Gloss,Champagne 15,1699,2022,4.36,1969,3345331,820,21,83.3,Delhi,Influencer Push,26-02-2024,11-03-2024,Retail (Nykaa),4304447,20,1.97,78.21
+P0862,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Glow X,Lips,Lipstick,Peach 4,249,2022,4.52,1944,484056,556,26,76.2,Bengaluru,Nykaa Exclusive,04-06-2025,18-06-2025,E-commerce,4290204,10,3.49,83.5
+P0863,Nykaa Cosmetics,Nykaa Cosmetics Contour Matte Luxe,Face,Contour,Coral 4,1499,2020,4.41,1717,2573783,824,31,72,Kolkata,Nykaa Exclusive,13-06-2024,28-07-2024,Retail (Store),4740216,20,1.14,75.61
+P0864,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Artist X,Eyes,Eyeshadow,Champagne 11,499,2024,4.15,1618,807382,843,23,76.4,Kolkata,Festive Sale,06-09-2024,21-10-2024,E-commerce,2271132,5,1.44,79.86
+P0865,Lakmé,Lakmé Compact Shine HD,Face,Compact,Champagne 3,249,2023,4.39,1514,376986,505,22,77.3,Ahmedabad,Bogo Offer,10-04-2025,01-05-2025,Retail (Nykaa),604995,0,5.09,81.6
+P0866,Forest Essentials,Forest Essentials Lip Crayon Artist X,Lips,Lip Crayon,Nude 11,699,2018,3.95,2244,1568556,1047,31,83.5,Chennai,Nykaa Exclusive,14-08-2025,04-09-2025,E-commerce,594275,5,0.83,74.69
+P0867,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Prime Luxe,Lips,Lip Crayon,Berry 20,199,2021,4.7,2118,421482,674,19,87.4,Delhi,Launch Promo,01-06-2024,22-06-2024,Marketplace,3728462,0,4.93,79.61
+P0868,Mamaearth,Mamaearth Blush Glow Luxe,Face,Blush,Champagne 20,1499,2019,4.44,1833,2747667,720,28,78.2,Mumbai,Launch Promo,13-10-2024,20-10-2024,Social Commerce,2385680,15,4.01,82
+P0869,Lakmé,Lakmé Lip Liner Shine +,Lips,Lip Liner,Nude 3,699,2020,4.67,2116,1479084,813,32,86.1,Jaipur,Nykaa Exclusive,02-09-2025,16-09-2025,E-commerce,595142,10,7.44,87.73
+P0870,Nykaa Cosmetics,Nykaa Cosmetics Contour Pro Luxe,Face,Contour,Berry 6,499,2025,4.27,1357,677143,808,32,86.3,Mumbai,Nykaa Exclusive,01-01-2024,31-01-2024,E-commerce,4986160,20,5,77.16
+P0871,Sugar Cosmetics,Sugar Cosmetics Eyeshadow Pro HD,Eyes,Eyeshadow,Nude 16,799,2020,4.19,1886,1506914,863,27,87,Pune,Seasonal Drop,03-02-2023,10-02-2023,E-commerce,1876060,5,2.22,77.8
+P0872,Mamaearth,Mamaearth Kajal Prime X,Eyes,Kajal,Ruby 7,599,2023,4.8,1665,997335,532,20,86.8,Mumbai,Launch Promo,06-11-2023,20-11-2023,E-commerce,2684672,25,3.55,86.94
+P0873,Kay Beauty,Kay Beauty Eyeliner Shine Luxe,Eyes,Eyeliner,Mauve 17,299,2019,4.36,2030,606970,678,31,83.2,Ahmedabad,Bogo Offer,04-02-2024,20-03-2024,E-commerce,3375156,10,1.69,85.21
+P0874,Forest Essentials,Forest Essentials Mascara Artist Luxe,Eyes,Mascara,Champagne 14,199,2025,4.22,1536,305664,628,23,76.9,Lucknow,Festive Sale,10-02-2025,12-03-2025,E-commerce,3195279,15,2.75,72.46
+P0875,Kay Beauty,Kay Beauty Foundation Shine +,Face,Foundation,Spice 3,849,2022,4.42,1587,1347363,501,33,75,Pune,Seasonal Drop,26-04-2023,10-06-2023,E-commerce,429418,20,6.42,71.96
+P0876,Lakmé,Lakmé Contour Matte Air,Face,Contour,Rose 8,849,2023,4.29,1489,1264161,902,24,83.2,Bengaluru,Influencer Push,03-09-2025,10-09-2025,Retail (Nykaa),3610237,20,3.89,76.05
+P0877,Lakmé,Lakmé Lip Gloss Pro HD,Lips,Lip Gloss,Coral 13,2499,2018,4.46,2299,5745201,950,21,78.4,Delhi,Festive Sale,20-08-2023,10-09-2023,Retail (Nykaa),2313238,15,4.27,78.78
+P0878,Forest Essentials,Forest Essentials Contour Pro +,Face,Contour,Coral 11,699,2022,3.72,1478,1033122,446,16,72.5,Ahmedabad,Bogo Offer,21-11-2025,05-12-2025,E-commerce,2866631,0,2.14,73.84
+P0879,Forest Essentials,Forest Essentials Lipstick Matte Air,Lips,Lipstick,Ruby 7,249,2022,4.33,2064,513936,904,27,74.6,Delhi,Nykaa Exclusive,26-10-2024,02-11-2024,E-commerce,4668292,15,4.06,78.22
+P0880,Sugar Cosmetics,Sugar Cosmetics Lip Liner Glow +,Lips,Lip Liner,Scarlet 6,799,2024,4.16,1764,1409436,629,20,62.1,Chennai,Influencer Push,10-06-2025,25-07-2025,E-commerce,4236369,20,1.95,74.91
+P0881,Lakmé,Lakmé Blush Artist Air,Face,Blush,Berry 15,1299,2020,4.43,1718,2231682,873,34,84.2,Bengaluru,Launch Promo,23-06-2024,23-07-2024,E-commerce,3874811,25,4.62,81.95
+P0882,Nykaa Cosmetics,Nykaa Cosmetics Mascara Prime X,Eyes,Mascara,Scarlet 14,249,2022,4.2,1747,435003,1044,31,79.8,Delhi,Seasonal Drop,08-08-2024,07-09-2024,E-commerce,1479008,5,4.67,74.46
+P0883,Mamaearth,Mamaearth Lip Gloss Pro +,Lips,Lip Gloss,Nude 1,849,2019,4.34,2274,1930626,1018,28,66.7,Pune,Seasonal Drop,13-06-2025,04-07-2025,Retail (Nykaa),4801966,0,5.39,82.31
+P0884,Nykaa Cosmetics,Nykaa Cosmetics Brow Pencil Prime Luxe,Eyes,Brow Pencil,Scarlet 17,1299,2023,3.97,1658,2153742,730,26,86.7,Pune,Launch Promo,28-03-2023,04-04-2023,Retail (Nykaa),2051789,25,1.39,70.38
+P0885,Forest Essentials,Forest Essentials Eyeliner Pro X,Eyes,Eyeliner,Peach 19,249,2021,4.16,1898,472602,729,33,89.1,Lucknow,Festive Sale,17-05-2024,31-05-2024,E-commerce,704781,30,3.06,73.57
+P0886,Mamaearth,Mamaearth Brow Pencil Artist +,Eyes,Brow Pencil,Champagne 5,399,2021,3.97,1831,730569,526,29,88.1,Chennai,Influencer Push,18-08-2023,08-09-2023,E-commerce,3670261,5,0.56,71.77
+P0887,Lakmé,Lakmé Brow Pencil Matte X,Eyes,Brow Pencil,Coral 6,249,2025,4.11,1402,349098,754,26,79.5,Ahmedabad,Nykaa Exclusive,23-10-2025,13-11-2025,E-commerce,1434033,25,0.8,71.9
+P0888,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Shine Luxe,Lips,Lip Crayon,Peach 10,2999,2025,4.26,1687,5059313,644,26,79.8,Bengaluru,Launch Promo,28-04-2024,28-05-2024,E-commerce,3973358,0,2.57,75.03
+P0889,Mamaearth,Mamaearth Contour Prime Luxe,Face,Contour,Coral 12,999,2023,3.76,1526,1524474,627,34,85.9,Mumbai,Bogo Offer,08-06-2025,29-06-2025,Retail (Nykaa),3210020,5,2.36,67.98
+P0890,Lakmé,Lakmé Eyeliner Pro X,Eyes,Eyeliner,Berry 11,2499,2018,4.1,2189,5470311,1091,26,69.6,Ahmedabad,Seasonal Drop,31-07-2024,14-08-2024,E-commerce,468429,30,1.13,80.15
+P0891,Forest Essentials,Forest Essentials Lip Gloss Artist Air,Lips,Lip Gloss,Rose 4,199,2024,4.41,1758,349842,848,32,83.7,Bengaluru,Festive Sale,28-05-2025,27-06-2025,E-commerce,604456,0,5.39,80.61
+P0892,Forest Essentials,Forest Essentials Foundation Artist Air,Face,Foundation,Rose 9,599,2020,4.37,1746,1045854,1071,14,81.4,Kolkata,Festive Sale,14-11-2024,21-11-2024,E-commerce,2919735,10,2.56,77.72
+P0893,Mamaearth,Mamaearth Kajal Prime Luxe,Eyes,Kajal,Champagne 19,1199,2022,4.61,1715,2056285,515,28,76,Bengaluru,Seasonal Drop,13-09-2023,27-09-2023,Retail (Store),1033759,0,3.68,89.36
+P0894,Mamaearth,Mamaearth Highlighter Shine HD,Face,Highlighter,Spice 1,2999,2018,4.12,1927,5779073,1225,23,79.8,Lucknow,Festive Sale,15-12-2023,29-01-2024,Retail (Store),2370093,20,1.09,80.75
+P0895,Kay Beauty,Kay Beauty Compact Matte +,Face,Compact,Nude 19,1299,2022,4.02,1575,2045925,538,34,64.8,Mumbai,Influencer Push,10-05-2025,24-06-2025,Retail (Nykaa),4172495,20,2.44,76.26
+P0896,Forest Essentials,Forest Essentials Kajal Artist HD,Eyes,Kajal,Ruby 10,2999,2018,4.44,2127,6378873,1128,24,84,Hyderabad,Nykaa Exclusive,15-01-2023,14-02-2023,Social Commerce,1016790,15,6.39,82.22
+P0897,Lakmé,Lakmé Lip Crayon Shine HD,Lips,Lip Crayon,Spice 6,1699,2023,4.44,1901,3229799,910,27,77.2,Bengaluru,Festive Sale,26-06-2024,10-07-2024,E-commerce,1509317,5,5.64,82.7
+P0898,Nykaa Cosmetics,Nykaa Cosmetics Contour Shine Air,Face,Contour,Nude 11,849,2022,4.25,1540,1307460,447,32,62.8,Bengaluru,Bogo Offer,07-03-2025,14-03-2025,E-commerce,4081510,0,0.96,76.11
+P0899,Mamaearth,Mamaearth Contour Shine X,Face,Contour,Berry 2,849,2021,4.52,1615,1371135,863,32,75.9,Lucknow,Launch Promo,30-07-2024,13-09-2024,E-commerce,519251,10,4.74,83.65
+P0900,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Pro HD,Lips,Lipstick,Mauve 5,699,2020,4.18,2156,1507044,760,28,77.5,Ahmedabad,Seasonal Drop,30-07-2024,13-08-2024,Retail (Nykaa),1900933,30,4.57,77.89
+P0901,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Pro Luxe,Eyes,Eyeliner,Spice 13,299,2019,4.59,1951,583349,1101,25,73.1,Lucknow,Nykaa Exclusive,05-11-2024,20-12-2024,E-commerce,2502681,15,1.68,81.34
+P0902,Forest Essentials,Forest Essentials Eyeliner Prime Air,Eyes,Eyeliner,Berry 19,999,2020,4.38,1989,1987011,573,31,75.2,Hyderabad,Seasonal Drop,24-12-2024,23-01-2025,E-commerce,2926516,5,2.67,79.7
+P0903,Mamaearth,Mamaearth Contour Glow X,Face,Contour,Spice 14,999,2024,4.52,1392,1390608,643,28,70.7,Mumbai,Influencer Push,29-10-2025,28-11-2025,E-commerce,2337189,10,1.74,76.41
+P0904,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Artist Luxe,Lips,Lip Gloss,Berry 16,799,2022,4.96,1959,1565241,591,21,76.4,Jaipur,Launch Promo,02-12-2025,01-01-2026,Retail (Store),644039,30,3.61,87.08
+P0905,Forest Essentials,Forest Essentials Eyeshadow Pro Luxe,Eyes,Eyeshadow,Spice 18,299,2021,4.52,1863,557037,1236,36,68.5,Chennai,Bogo Offer,18-08-2025,17-09-2025,Retail (Nykaa),2636956,25,3.84,78.78
+P0906,Forest Essentials,Forest Essentials Blush Matte Air,Face,Blush,Nude 16,999,2018,4.21,1847,1845153,589,32,83.7,Bengaluru,Nykaa Exclusive,05-12-2023,26-12-2023,E-commerce,1954171,20,4.75,76.78
+P0907,Mamaearth,Mamaearth Lip Gloss Pro +,Lips,Lip Gloss,Coral 12,1999,2024,4.6,1818,3634182,1026,35,64.4,Jaipur,Influencer Push,08-10-2025,15-10-2025,E-commerce,3517998,5,7.79,84.97
+P0908,Kay Beauty,Kay Beauty Blush Prime Luxe,Face,Blush,Ruby 12,849,2022,4.27,1530,1298970,467,31,80.3,Delhi,Festive Sale,23-01-2024,08-03-2024,E-commerce,4850050,20,2.62,75.45
+P0909,Sugar Cosmetics,Sugar Cosmetics Blush Pro X,Face,Blush,Berry 4,849,2024,4.01,1390,1180110,640,25,61.3,Pune,Festive Sale,01-04-2023,16-05-2023,Retail (Nykaa),4252724,0,2.59,75.56
+P0910,Lakmé,Lakmé Blush Glow HD,Face,Blush,Nude 11,499,2023,4.41,1524,760476,518,20,88.3,Pune,Influencer Push,12-03-2023,02-04-2023,E-commerce,2109349,10,2.63,80.5
+P0911,Mamaearth,Mamaearth Lip Balm Pro Air,Lips,Lip Balm,Coral 3,249,2023,4.39,1793,446457,517,29,88.8,Chennai,Bogo Offer,19-07-2024,09-08-2024,Retail (Nykaa),2088031,15,3.8,79.61
+P0912,Sugar Cosmetics,Sugar Cosmetics Foundation Matte Luxe,Face,Foundation,Mauve 1,1299,2022,4.36,1542,2003058,904,25,89.1,Bengaluru,Launch Promo,29-10-2023,12-11-2023,Retail (Nykaa),4151592,0,1.37,78.09
+P0913,Sugar Cosmetics,Sugar Cosmetics Eyeliner Shine +,Eyes,Eyeliner,Spice 8,999,2023,4.13,1656,1654344,1091,27,60.3,Bengaluru,Influencer Push,14-04-2023,28-04-2023,E-commerce,3175678,15,2.92,68.71
+P0914,Forest Essentials,Forest Essentials Lipstick Matte HD,Lips,Lipstick,Peach 15,399,2021,4.39,2077,828723,1079,33,87.2,Delhi,Launch Promo,05-02-2024,06-03-2024,E-commerce,3424655,20,1.58,75.03
+P0915,Kay Beauty,Kay Beauty Blush Artist X,Face,Blush,Peach 3,1299,2024,4.23,1471,1910829,722,24,80.4,Lucknow,Nykaa Exclusive,24-02-2024,02-03-2024,E-commerce,3407392,0,5.54,83.49
+P0916,Kay Beauty,Kay Beauty Kajal Glow Luxe,Eyes,Kajal,Spice 10,499,2024,4.22,1643,819857,1019,35,86.1,Chennai,Nykaa Exclusive,25-01-2024,24-02-2024,Social Commerce,1700461,10,2.99,81.31
+P0917,Forest Essentials,Forest Essentials Compact Pro Air,Face,Compact,Spice 20,2499,2021,4.54,1618,4043382,1021,20,62.2,Delhi,Festive Sale,08-01-2024,15-01-2024,Retail (Nykaa),431378,10,6.88,79.66
+P0918,Kay Beauty,Kay Beauty Lip Crayon Glow Air,Lips,Lip Crayon,Ruby 17,699,2024,4.55,1757,1228143,660,29,82.7,Kolkata,Influencer Push,28-05-2024,27-06-2024,E-commerce,2654746,25,3.98,80.8
+P0919,Sugar Cosmetics,Sugar Cosmetics Lip Balm Shine HD,Lips,Lip Balm,Champagne 16,499,2024,4.24,1791,893709,650,22,72.3,Delhi,Festive Sale,02-06-2024,23-06-2024,Retail (Nykaa),1482379,10,2.09,76.16
+P0920,Mamaearth,Mamaearth Lip Crayon Glow Luxe,Lips,Lip Crayon,Scarlet 15,1199,2021,4.01,2097,2514303,637,26,75.3,Hyderabad,Influencer Push,17-12-2023,07-01-2024,Retail (Nykaa),1867437,15,0.73,72.99
+P0921,Nykaa Cosmetics,Nykaa Cosmetics Kajal Glow Luxe,Eyes,Kajal,Nude 2,249,2023,4.15,1695,422055,701,30,66.5,Ahmedabad,Festive Sale,18-10-2024,25-10-2024,E-commerce,881831,5,2.5,75.33
+P0922,Lakmé,Lakmé Contour Matte Luxe,Face,Contour,Champagne 20,249,2024,4.4,1444,359556,416,29,68.2,Lucknow,Nykaa Exclusive,28-02-2025,14-04-2025,Social Commerce,1053225,25,5.21,80.81
+P0923,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Shine HD,Lips,Lip Gloss,Rose 6,249,2021,4.67,2115,526635,829,25,67.9,Bengaluru,Festive Sale,15-10-2024,05-11-2024,Retail (Nykaa),5316262,30,7.31,87.33
+P0924,Lakmé,Lakmé Contour Pro X,Face,Contour,Champagne 13,1699,2019,4.09,1856,3153344,1098,32,81.8,Delhi,Bogo Offer,15-12-2024,29-12-2024,E-commerce,2300732,25,2.24,77.12
+P0925,Kay Beauty,Kay Beauty Lipstick Prime Air,Lips,Lipstick,Spice 18,2999,2020,4.41,2150,6447850,1276,25,70.8,Delhi,Bogo Offer,29-03-2024,28-04-2024,E-commerce,5139751,10,4.52,80.55
+P0926,Sugar Cosmetics,Sugar Cosmetics Lip Crayon Glow Air,Lips,Lip Crayon,Berry 14,1299,2021,4.86,1992,2587608,743,27,76.5,Kolkata,Nykaa Exclusive,25-08-2023,08-09-2023,E-commerce,161837,15,7.65,87.02
+P0927,Forest Essentials,Forest Essentials Foundation Matte HD,Face,Foundation,Rose 15,299,2020,4.04,1799,537901,832,25,72.4,Hyderabad,Bogo Offer,29-07-2023,05-08-2023,Retail (Store),655062,20,1.05,75.02
+P0928,Lakmé,Lakmé Mascara Glow Air,Eyes,Mascara,Ruby 10,799,2023,4.63,1639,1309561,479,28,77.5,Hyderabad,Bogo Offer,01-03-2025,15-04-2025,Marketplace,2713156,30,3.86,82.85
+P0929,Nykaa Cosmetics,Nykaa Cosmetics Lip Gloss Shine Air,Lips,Lip Gloss,Spice 5,199,2022,4.18,1918,381682,621,24,70,Bengaluru,Influencer Push,06-01-2025,05-02-2025,Retail (Nykaa),426727,0,3.3,75.61
+P0930,Mamaearth,Mamaearth Foundation Matte Air,Face,Foundation,Mauve 7,299,2018,4.48,1934,578266,901,29,90,Delhi,Festive Sale,20-06-2024,27-06-2024,E-commerce,2442172,25,2.68,83.37
+P0931,Sugar Cosmetics,Sugar Cosmetics Kajal Pro Luxe,Eyes,Kajal,Mauve 7,599,2023,4.33,1686,1009914,528,23,60.1,Chennai,Seasonal Drop,23-02-2025,16-03-2025,Retail (Nykaa),4757758,0,4.24,76.7
+P0932,Mamaearth,Mamaearth Compact Pro HD,Face,Compact,Berry 1,249,2023,3.85,1585,394665,480,33,82.1,Mumbai,Launch Promo,17-10-2025,24-10-2025,E-commerce,1177133,20,0.86,68.6
+P0933,Forest Essentials,Forest Essentials Eyeshadow Prime +,Eyes,Eyeshadow,Spice 20,1999,2020,4.37,2009,4015991,746,32,87.5,Kolkata,Nykaa Exclusive,30-09-2025,30-10-2025,E-commerce,1134607,10,1.24,80.08
+P0934,Forest Essentials,Forest Essentials Highlighter Prime Air,Face,Highlighter,Coral 15,1699,2021,4.77,1732,2942668,1013,30,61,Mumbai,Launch Promo,11-12-2023,25-12-2023,Marketplace,1666322,25,4.98,88.02
+P0935,Forest Essentials,Forest Essentials Lip Liner Pro Air,Lips,Lip Liner,Mauve 12,1299,2021,4.37,2053,2666847,960,28,67.7,Mumbai,Launch Promo,23-02-2025,02-03-2025,E-commerce,3068067,20,6.07,78.24
+P0936,Kay Beauty,Kay Beauty Blush Prime HD,Face,Blush,Coral 12,1499,2020,4.46,1745,2615755,1134,20,66,Ahmedabad,Launch Promo,21-12-2024,04-01-2025,Social Commerce,1523860,25,5.1,78.88
+P0937,Sugar Cosmetics,Sugar Cosmetics Lip Balm Glow +,Lips,Lip Balm,Nude 20,849,2022,3.95,1884,1599516,584,27,60.9,Lucknow,Bogo Offer,10-09-2025,24-09-2025,Retail (Nykaa),521447,15,3.4,69.79
+P0938,Lakmé,Lakmé Eyeliner Shine Air,Eyes,Eyeliner,Rose 2,499,2018,4.21,2124,1059876,719,33,63.6,Ahmedabad,Bogo Offer,24-10-2023,14-11-2023,E-commerce,2949289,20,1.98,77.18
+P0939,Kay Beauty,Kay Beauty Lip Balm Artist +,Lips,Lip Balm,Coral 20,399,2024,4.37,1708,681492,503,25,67.9,Pune,Seasonal Drop,01-03-2025,08-03-2025,Retail (Nykaa),4416804,0,0.96,77.84
+P0940,Sugar Cosmetics,Sugar Cosmetics Lip Balm Matte Air,Lips,Lip Balm,Ruby 8,2499,2024,4.34,1764,4408236,671,35,77.5,Delhi,Influencer Push,12-01-2023,19-01-2023,E-commerce,4576807,15,4.38,82.65
+P0941,Sugar Cosmetics,Sugar Cosmetics Foundation Artist Luxe,Face,Foundation,Coral 10,1199,2023,4.29,1550,1858450,675,34,81,Ahmedabad,Festive Sale,02-07-2024,09-07-2024,E-commerce,1165993,0,5.41,74.2
+P0942,Mamaearth,Mamaearth Blush Matte Air,Face,Blush,Rose 14,299,2018,4.32,1934,578266,721,37,78.6,Kolkata,Launch Promo,18-10-2023,01-11-2023,Social Commerce,1453936,30,3.98,73.84
+P0943,Kay Beauty,Kay Beauty Brow Pencil Shine Air,Eyes,Brow Pencil,Mauve 5,1699,2025,4.19,1519,2580781,783,29,82.8,Mumbai,Festive Sale,07-02-2024,14-02-2024,Retail (Store),612174,20,2.37,71.05
+P0944,Lakmé,Lakmé Blush Matte X,Face,Blush,Rose 3,1999,2022,4.4,1599,3196401,487,27,83.3,Mumbai,Seasonal Drop,18-02-2024,19-03-2024,Retail (Nykaa),1604879,15,1.84,77.02
+P0945,Kay Beauty,Kay Beauty Contour Pro X,Face,Contour,Champagne 6,1299,2021,3.9,1709,2219991,567,25,60.6,Mumbai,Nykaa Exclusive,08-10-2023,07-11-2023,Retail (Store),4877440,5,1.93,73.23
+P0946,Kay Beauty,Kay Beauty Contour Artist Air,Face,Contour,Ruby 3,1299,2023,4.42,1588,2062812,539,37,78.2,Lucknow,Launch Promo,05-01-2023,04-02-2023,E-commerce,2323858,30,5.36,78.49
+P0947,Sugar Cosmetics,Sugar Cosmetics Kajal Glow Luxe,Eyes,Kajal,Scarlet 12,599,2020,4.1,1957,1172243,564,20,68.8,Hyderabad,Nykaa Exclusive,27-10-2025,26-11-2025,Retail (Nykaa),5456108,15,2.1,72.06
+P0948,Kay Beauty,Kay Beauty Contour Pro Air,Face,Contour,Peach 11,999,2023,4.41,1512,1510488,524,21,78,Delhi,Seasonal Drop,14-10-2024,28-11-2024,Retail (Store),4221455,5,4,83.79
+P0949,Forest Essentials,Forest Essentials Eyeshadow Pro HD,Eyes,Eyeshadow,Berry 20,199,2022,4.2,1814,360986,597,31,71.6,Hyderabad,Influencer Push,01-08-2023,15-08-2023,Marketplace,3752521,10,3.52,73.18
+P0950,Lakmé,Lakmé Lipstick Shine +,Lips,Lipstick,Mauve 4,299,2019,3.69,2192,655408,1121,27,78.2,Chennai,Seasonal Drop,25-12-2025,24-01-2026,E-commerce,182818,20,2.03,69.41
+P0951,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Pro Luxe,Lips,Lip Crayon,Rose 20,399,2022,4.45,1963,783237,694,19,75.8,Ahmedabad,Seasonal Drop,13-04-2024,28-05-2024,Retail (Store),3761896,20,5.6,79.8
+P0952,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Artist Air,Lips,Lip Liner,Berry 8,2499,2024,4.16,1817,4540683,652,23,60.7,Delhi,Festive Sale,04-02-2025,11-02-2025,Marketplace,2706356,30,2.97,74.48
+P0953,Nykaa Cosmetics,Nykaa Cosmetics Lipstick Matte HD,Lips,Lipstick,Mauve 5,599,2023,4.6,1865,1117135,793,24,89.8,Pune,Nykaa Exclusive,25-09-2023,16-10-2023,Retail (Nykaa),845517,10,5.47,85.13
+P0954,Forest Essentials,Forest Essentials Compact Pro Luxe,Face,Compact,Peach 10,1299,2018,4.4,1842,2392758,709,30,73.4,Pune,Festive Sale,30-01-2025,20-02-2025,Retail (Nykaa),5310654,15,2.27,78.74
+P0955,Sugar Cosmetics,Sugar Cosmetics Lipstick Glow X,Lips,Lipstick,Coral 17,849,2023,4.01,1894,1608006,1147,27,81.6,Bengaluru,Festive Sale,26-04-2024,17-05-2024,Marketplace,1191334,0,1.91,73.89
+P0956,Mamaearth,Mamaearth Lipstick Shine HD,Lips,Lipstick,Ruby 5,1499,2020,4.52,2107,3158393,940,31,71.4,Mumbai,Nykaa Exclusive,17-04-2025,24-04-2025,Marketplace,3248767,0,6.77,81.32
+P0957,Lakmé,Lakmé Lip Balm Pro +,Lips,Lip Balm,Coral 4,249,2022,4.66,2030,505470,1022,26,78.2,Lucknow,Festive Sale,01-02-2024,15-02-2024,Social Commerce,1146614,5,7.83,83.11
+P0958,Mamaearth,Mamaearth Eyeshadow Shine Luxe,Eyes,Eyeshadow,Rose 13,2999,2025,4.22,1555,4663445,757,31,65.4,Kolkata,Bogo Offer,25-05-2025,15-06-2025,Retail (Store),131929,10,4.53,75.3
+P0959,Lakmé,Lakmé Blush Glow Luxe,Face,Blush,Berry 5,699,2021,4.27,1665,1163835,578,27,60.2,Jaipur,Launch Promo,06-10-2023,27-10-2023,E-commerce,4048249,10,3.23,75.77
+P0960,Mamaearth,Mamaearth Lip Crayon Artist Luxe,Lips,Lip Crayon,Champagne 1,849,2023,4.53,1843,1564707,752,28,88.5,Delhi,Launch Promo,27-06-2025,11-07-2025,Retail (Nykaa),5083056,30,1.79,81.81
+P0961,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Glow +,Lips,Lip Liner,Rose 4,849,2020,4.03,2180,1850820,913,25,78.1,Delhi,Seasonal Drop,15-01-2024,22-01-2024,E-commerce,792862,0,4.08,79.88
+P0962,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Pro Luxe,Face,Highlighter,Scarlet 2,2999,2023,4.21,1433,4297567,857,29,88.7,Mumbai,Nykaa Exclusive,21-04-2025,28-04-2025,E-commerce,1345954,15,2.84,79.39
+P0963,Kay Beauty,Kay Beauty Lip Balm Prime X,Lips,Lip Balm,Spice 9,599,2024,4.69,1762,1055438,828,36,61,Jaipur,Nykaa Exclusive,08-03-2025,29-03-2025,Social Commerce,3151545,10,6.26,84.62
+P0964,Nykaa Cosmetics,Nykaa Cosmetics Compact Glow +,Face,Compact,Rose 2,1299,2023,4.31,1521,1975779,627,21,65.6,Hyderabad,Nykaa Exclusive,03-06-2025,17-06-2025,E-commerce,2228736,10,2.65,78.69
+P0965,Sugar Cosmetics,Sugar Cosmetics Lip Gloss Glow +,Lips,Lip Gloss,Nude 8,1199,2021,4.71,1952,2340448,951,31,78.5,Kolkata,Bogo Offer,26-03-2023,02-04-2023,E-commerce,5386148,10,6.43,83.1
+P0966,Sugar Cosmetics,Sugar Cosmetics Compact Pro Luxe,Face,Compact,Peach 12,999,2024,4.98,1399,1397601,772,18,74.7,Delhi,Launch Promo,14-10-2024,04-11-2024,Retail (Store),2526170,0,9.47,88.99
+P0967,Kay Beauty,Kay Beauty Lip Balm Prime X,Lips,Lip Balm,Rose 9,699,2021,4.5,2075,1450425,1109,27,66.9,Delhi,Festive Sale,06-09-2023,13-09-2023,E-commerce,2157901,15,2.77,80.03
+P0968,Sugar Cosmetics,Sugar Cosmetics Brow Pencil Artist Air,Eyes,Brow Pencil,Berry 5,599,2021,4.35,1946,1165654,1027,31,67.5,Bengaluru,Influencer Push,21-04-2024,28-04-2024,E-commerce,4177068,25,2.83,84.28
+P0969,Forest Essentials,Forest Essentials Lip Crayon Artist Air,Lips,Lip Crayon,Peach 15,399,2020,4.14,2195,875805,723,32,76.6,Bengaluru,Bogo Offer,21-02-2023,23-03-2023,Social Commerce,4753972,0,4.77,76.67
+P0970,Kay Beauty,Kay Beauty Brow Pencil Shine Luxe,Eyes,Brow Pencil,Coral 16,2999,2023,4.18,1731,5191269,949,38,84.4,Hyderabad,Festive Sale,22-08-2024,05-09-2024,Marketplace,4851350,15,2.07,78.42
+P0971,Kay Beauty,Kay Beauty Eyeliner Shine X,Eyes,Eyeliner,Nude 6,299,2020,4.35,2000,598000,664,33,86,Bengaluru,Influencer Push,08-11-2025,29-11-2025,Retail (Store),3941517,5,5.46,81.95
+P0972,Sugar Cosmetics,Sugar Cosmetics Lip Liner Matte HD,Lips,Lip Liner,Scarlet 1,2499,2021,4.13,2066,5162934,1052,28,60.2,Hyderabad,Bogo Offer,22-06-2023,06-08-2023,E-commerce,1860850,0,1.89,77.13
+P0973,Sugar Cosmetics,Sugar Cosmetics Kajal Matte Air,Eyes,Kajal,Berry 13,1199,2024,4.2,1579,1893221,456,30,88.5,Ahmedabad,Launch Promo,14-01-2024,28-01-2024,E-commerce,2048479,15,2.05,71.25
+P0974,Mamaearth,Mamaearth Lip Crayon Prime HD,Lips,Lip Crayon,Spice 16,2499,2024,4.58,1677,4190823,819,24,71.4,Hyderabad,Festive Sale,02-02-2024,16-02-2024,Retail (Nykaa),3997406,30,6.05,82.85
+P0975,Kay Beauty,Kay Beauty Highlighter Pro Air,Face,Highlighter,Spice 1,849,2020,4.06,1699,1442451,593,24,82.3,Jaipur,Launch Promo,05-12-2023,04-01-2024,E-commerce,1054008,30,1.45,76.22
+P0976,Kay Beauty,Kay Beauty Foundation Artist X,Face,Foundation,Peach 16,1299,2024,4.03,1394,1810806,857,27,66.1,Bengaluru,Launch Promo,12-12-2024,02-01-2025,E-commerce,1607225,5,3.05,73.59
+P0977,Forest Essentials,Forest Essentials Mascara Pro X,Eyes,Mascara,Peach 18,999,2024,3.93,1610,1608390,779,38,63.2,Hyderabad,Nykaa Exclusive,22-02-2024,23-03-2024,Retail (Nykaa),559949,0,0.67,77.13
+P0978,Mamaearth,Mamaearth Mascara Artist +,Eyes,Mascara,Mauve 9,1299,2018,4.67,2213,2874687,633,31,78.1,Hyderabad,Launch Promo,10-09-2025,17-09-2025,Retail (Nykaa),5571372,20,3.12,83.17
+P0979,Nykaa Cosmetics,Nykaa Cosmetics Lip Crayon Artist Luxe,Lips,Lip Crayon,Mauve 11,1199,2024,4.35,1758,2107842,562,28,70.1,Lucknow,Festive Sale,04-10-2023,25-10-2023,E-commerce,3341256,15,5,79.82
+P0980,Kay Beauty,Kay Beauty Blush Matte +,Face,Blush,Spice 3,849,2018,4.55,1912,1623288,652,33,68,Bengaluru,Influencer Push,08-09-2025,23-10-2025,Social Commerce,4289971,10,5.62,83.7
+P0981,Nykaa Cosmetics,Nykaa Cosmetics Highlighter Matte +,Face,Highlighter,Coral 7,199,2020,4.22,1769,352031,577,32,65.5,Bengaluru,Festive Sale,26-11-2023,10-12-2023,Marketplace,4610330,10,4.94,80.53
+P0982,Nykaa Cosmetics,Nykaa Cosmetics Compact Glow X,Face,Compact,Coral 13,199,2023,4.15,1440,286560,491,34,65.3,Kolkata,Seasonal Drop,10-07-2025,24-07-2025,Retail (Nykaa),3856896,5,3.78,77.7
+P0983,Forest Essentials,Forest Essentials Kajal Pro Air,Eyes,Kajal,Champagne 9,1299,2021,4.08,1895,2461605,605,18,82.4,Mumbai,Bogo Offer,20-01-2023,19-02-2023,Retail (Nykaa),4438830,15,4.22,76.4
+P0984,Forest Essentials,Forest Essentials Blush Artist Luxe,Face,Blush,Berry 13,799,2022,4.74,1615,1290385,684,28,67,Jaipur,Influencer Push,05-05-2023,12-05-2023,Retail (Nykaa),1807303,10,2.88,86.13
+P0985,Mamaearth,Mamaearth Eyeliner Artist +,Eyes,Eyeliner,Nude 15,199,2024,4.44,1602,318798,458,32,68.3,Jaipur,Launch Promo,28-07-2023,11-09-2023,Marketplace,3042448,5,3.9,83.01
+P0986,Forest Essentials,Forest Essentials Eyeliner Glow X,Eyes,Eyeliner,Mauve 15,1699,2020,4.48,1968,3343632,856,21,66.9,Delhi,Nykaa Exclusive,09-09-2024,30-09-2024,Retail (Nykaa),2798085,20,1.32,82.25
+P0987,Lakmé,Lakmé Contour Prime Air,Face,Contour,Rose 3,699,2020,4.68,1736,1213464,643,43,75.2,Lucknow,Seasonal Drop,20-01-2024,03-02-2024,Social Commerce,1485287,5,2.76,80.35
+P0988,Forest Essentials,Forest Essentials Lip Crayon Matte HD,Lips,Lip Crayon,Coral 4,249,2024,4.17,1699,423051,493,24,76.9,Hyderabad,Nykaa Exclusive,23-12-2024,22-01-2025,E-commerce,3436006,10,3.29,78.98
+P0989,Kay Beauty,Kay Beauty Lip Balm Shine X,Lips,Lip Balm,Scarlet 18,799,2020,4.28,2194,1753006,732,21,86.9,Mumbai,Nykaa Exclusive,21-08-2023,28-08-2023,Retail (Store),4075362,30,4.7,81.45
+P0990,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Pro HD,Lips,Lip Liner,Spice 7,1999,2018,3.78,2469,4935531,977,24,77.7,Mumbai,Seasonal Drop,01-08-2024,22-08-2024,Retail (Nykaa),1348522,20,0.45,74.24
+P0991,Forest Essentials,Forest Essentials Brow Pencil Prime Air,Eyes,Brow Pencil,Ruby 17,599,2022,4.16,1759,1053641,883,39,71.9,Bengaluru,Nykaa Exclusive,02-04-2025,02-05-2025,Social Commerce,4249274,30,3.81,77.14
+P0992,Lakmé,Lakmé Kajal Prime Air,Eyes,Kajal,Spice 15,249,2022,4.35,1703,424047,681,24,81,Lucknow,Nykaa Exclusive,29-05-2023,12-06-2023,E-commerce,1481643,0,2.45,82.08
+P0993,Nykaa Cosmetics,Nykaa Cosmetics Foundation Shine X,Face,Foundation,Nude 18,2999,2023,4.21,1473,4417527,537,30,73.4,Mumbai,Nykaa Exclusive,23-01-2025,30-01-2025,Social Commerce,3032842,15,5.15,76.97
+P0994,Nykaa Cosmetics,Nykaa Cosmetics Lip Liner Glow HD,Lips,Lip Liner,Ruby 5,1499,2024,3.99,1741,2609759,1113,40,60.5,Jaipur,Launch Promo,13-08-2023,20-08-2023,Marketplace,597722,15,2.46,69.95
+P0995,Kay Beauty,Kay Beauty Contour Artist Air,Face,Contour,Champagne 9,399,2022,4.38,1635,652365,809,32,85.5,Delhi,Launch Promo,21-09-2024,05-11-2024,E-commerce,1059846,5,5.39,87.67
+P0996,Sugar Cosmetics,Sugar Cosmetics Brow Pencil Glow X,Eyes,Brow Pencil,Mauve 4,1699,2023,4.49,1622,2755778,596,33,81.9,Kolkata,Launch Promo,28-09-2024,28-10-2024,Retail (Nykaa),3160828,30,2.43,84.11
+P0997,Nykaa Cosmetics,Nykaa Cosmetics Foundation Artist HD,Face,Foundation,Coral 2,799,2023,4.41,1526,1219274,440,26,60.1,Mumbai,Festive Sale,05-09-2025,12-09-2025,Retail (Nykaa),4820905,30,2.25,77.99
+P0998,Nykaa Cosmetics,Nykaa Cosmetics Eyeliner Artist Air,Eyes,Eyeliner,Coral 18,399,2022,4.58,1845,736155,902,24,64,Kolkata,Bogo Offer,29-04-2023,20-05-2023,E-commerce,1674997,5,3.92,80.05
+P0999,Forest Essentials,Forest Essentials Mascara Shine +,Eyes,Mascara,Mauve 12,799,2024,4.34,1646,1315154,531,30,63.6,Hyderabad,Influencer Push,12-03-2025,19-03-2025,E-commerce,4351256,5,2.66,76.25
+P1000,Nykaa Cosmetics,Nykaa Cosmetics Mascara Glow Air,Eyes,Mascara,Spice 11,1999,2019,4.1,1991,3980009,580,31,66.8,Pune,Launch Promo,17-03-2023,24-03-2023,E-commerce,3386811,20,4.71,73.78
