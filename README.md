@@ -30,7 +30,8 @@ The dataset (`Beauty_Brands.xlsx`) includes:
 - Campaign channel (E-commerce, Retail, Marketplace, etc.)  
 - Conversion rate and ratings per product  
 
----
+### 📊 Dashboard Snapshot
+![Beauty Brand Analysis Dashboard](https://github.com/tannusingh05/Beauty-Brand-Analysis-Project-SQL-Power-BI-/blob/main/Snapshort-Beauty-Brand-Analysis-Power-BI.jpg?raw=true)
 
 ## 🧠 SQL Features & Logic
 Key SQL operations used:
