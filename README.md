@@ -49,8 +49,9 @@ FROM dbo.Beauty_Brands
 GROUP BY Brand_Name
 ORDER BY TotalRevenue DESC;
 
-📈 Dashboard Preview
-<p align="center"> <img src="https://github.com/tannusingh05/Beauty_Brands_Analysis_SQL_PowerBI/blob/main/PowerBI_Dashboard/Beauty_Brand_Snapshot.jpg" width="900" alt="Beauty Brand Power BI Dashboard"> </p>
+### 🌐 Dashboard Preview
+You can explore this project on my GitHub:  
+👉 [Beauty Brand Analysis Project – SQL & Power BI](https://github.com/tannusingh05/Beauty-Brand-Analysis-Project-SQL-Power-BI-)
 
 
 🎯 Key Insights
